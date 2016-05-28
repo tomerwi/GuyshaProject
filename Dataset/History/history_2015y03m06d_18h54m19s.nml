@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="3"><ENTRY MODIFIED_DATE="2014/2/14" MODIFIED_TIME="38852" AUDIO_ID="ANoZylIiRiIzSqhEMkfu1kl4lFtry6x7Rv/vutqaRLau29nYfv37vrnFSnne3u/d/+93nK277Jze+eyv/vh3yMmr6M3u3dz/74VaW8irrMrIl1///ojGxa/37s/L6L//2o1+iv997O/////rd+vLyvjM3/v////HXpu7/5vO387//+68/c7P/e///v/////v/////////////amKhXn8/qv8+5/8+p77ia/v/L/v6v/Pqc+rq/7vyP6pn/36rPz6rfz8r+rf//+XjZubzou8+73P/tlm17m/+LvN7N7f7ZeOrKuui7z8vt/+2nbYqr75qsz83t/tpkt3YzhGRDQjIA==" TITLE="I Dont Wanna Know" ARTIST="Mario Winans Ft. P. Diddy"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Mario Winans &amp; P. Diddy - I Dont Want To Know.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="2" TITLE="Big Mike Presents-RnB Jumpoff"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="R&amp;B" LABEL="Bad Boy" COMMENT="?                           " PLAYCOUNT="7" PLAYTIME="218" PLAYTIME_FLOAT="217.704" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/3/6" RELEASE_DATE="2003/1/1" FLAGS="14" FILESIZE="5160"></INFO>
+<TEMPO BPM="96.9994" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.75523" PERCEIVED_DB="-1.33469" ANALYZED_DB="-1.33469"></LOUDNESS>
+<MUSICAL_KEY VALUE="2"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="68.7234" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/2/14" MODIFIED_TIME="38955" AUDIO_ID="AQYafYnH7ct9bJj72Ktte/rnyY1lfuemmEh7d5WmZHtphqVomlloleu8iml1h8d5WlaIxpd5V3qmpphIa3eVplhrWYelZopqaZSWmGppdYanmGpnh6WXiVhmhqaYWXx3laZYjGl2lneqamiEhrhqWnSGtohqVnimp4lIaZWll1lqeJamaHpph6aHqVp5lYfIeVllmMeIemeJtpaJSZ+418mPnIq3tnaLbJnH3Zx9ipb/+q19evfGun1s58bXq26pp9bIRY5ol6donGl3lIeqanqFl8h5amaIxph6V3iWp5hYaoemp2lraYamZ3pqeJaouWpqh6nHiWppmsaYemqLkA==" TITLE="Wild 2Nite (DJ Ran Adar Remix For Hanuka 2005)" ARTIST="Shaggy Feat. Olive "><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Shaggy Feat. Olive - Wild 2Nite (DJ Ran Adar Remix For Hanuka 2005).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="Remixes 2006"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="Blues" COMMENT="Made with Sonic Foundry ACID 4" PLAYCOUNT="22" PLAYTIME="262" PLAYTIME_FLOAT="261.616" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/3/6" FLAGS="14" FILESIZE="6172"></INFO>
+<TEMPO BPM="96.0002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.979433" PERCEIVED_DB="5.84906" ANALYZED_DB="5.84906"></LOUDNESS>
+<MUSICAL_KEY VALUE="22"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="348.502" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/2/14" MODIFIED_TIME="39296" AUDIO_ID="ANA7u6l1Ral0Z2h4ZkaGiYaHiXd5aKVUe7edeXqYatd3mXSOiHm5VoWFiqedenmXWNh2iWWNiHipeIWXndqtqmm4adaIi5mcmoiom9morcqdq2moaNeYjJmcmoioi9q3u6itq5u5mtmJl5mOqpm5mNuovJqtm4i5mtmGepmNqYjJmtiorqmdq5zJidupnJidqYnKmbm5vbqNq2i4aOeIi5qMmoe4itmqvJmNinq3achnlmWMhVe3eNiYnHl4iml2hnZ1eHh3eFaHhlVne4mNqnq3aNl2inh8qYepl7ZWW5qNmom4eNmHe5iMmXi4l6aYnJhmiYeYZnZ6iYl1iIRncA==" TITLE="Sean Kingston Feat. Fabolous &amp; Lil' Boosie - Beautiful Girls (Offical Remix) ( 2oo7 ) [ www.MusicZone.10x.co.il ]" ARTIST="www.MusicZone.10x.co.il"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Sean Kingston Feat. Fabolous &amp; Lil' Boosie - Beautiful Girls (Off.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="www.MusicZone.10x.co.il"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="148174" GENRE="www.MusicZone.10x.co.il" COMMENT="www.MusicZone.10x.co.il" KEY_LYRICS="www.MusicZone.10x.co.il" PLAYCOUNT="4" PLAYTIME="209" PLAYTIME_FLOAT="208.248" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/3/6" FLAGS="14" FILESIZE="3796"></INFO>
+<TEMPO BPM="129.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.977791" PERCEIVED_DB="-0.189232" ANALYZED_DB="-0.189232"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1628.11" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="3" TYPE="PROTOCOL" UUID="9bb66c2a53684dad888c6880b4d248a1"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Shaggy Feat. Olive - Wild 2Nite (DJ Ran Adar Remix For Hanuka 2005).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="24.824" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132055814" STARTTIME="67045"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Mario Winans &amp; P. Diddy - I Dont Want To Know.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="15.818" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132055814" STARTTIME="67408"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Sean Kingston Feat. Fabolous &amp; Lil' Boosie - Beautiful Girls (Off.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="26.9572" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132055814" STARTTIME="67487"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

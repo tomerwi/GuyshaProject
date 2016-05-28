@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="7"><ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67306" AUDIO_ID="AKNJl7wxFoprt5rHp8oRGnqMiny3mrdVeYmrmYqamrd4qJiquryFScVWzu7ru63+7/7q7u7v7d/u7v7N/u7v7OZJzv/N/u/+62iIhmiGiXiKqXiYmYmoiJvdvd7e7tvu7e7t3d7u7r3u7u/syqiYmZqHd4Za7+3v7b7v7t2t/v7v+9/u/v64m6pu6+7u7u3O/u7vzP7u7/yWiYV2iHiZeqqIiZiYqId6zb3e3u7r7v3u/+7e7u7c7u3u/d7e7u7N7u7v/d3u7u6+7t7v7LqomJmqiIiHfN7d7erd7e3u3t7e3t3t7u7t3t7u7t3u7u793e7u/r7u7+/suYd2VDIAAA==" TITLE="Badd (feat. Sister Nancy) [DJ Ron Margan Extended Mix]" ARTIST="Stylo G"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="Badd (feat. Sister Nancy) [DJ Ron Margan Extended Mix].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Reggae" COMMENT="www.soundcloud.com/djronmarga" KEY="8B" PLAYCOUNT="1" PLAYTIME="163" PLAYTIME_FLOAT="162.952" IMPORT_DATE="2015/10/10" LAST_PLAYED="2016/1/11" RELEASE_DATE="2014/1/1" FLAGS="12" FILESIZE="6384"></INFO>
+<TEMPO BPM="85.0007" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="2.41564" PERCEIVED_DB="0.825012" ANALYZED_DB="0.825012"></LOUDNESS>
+<MUSICAL_KEY VALUE="0"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="93.8412" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67442" AUDIO_ID="ANtHh4eJiIZ5Z4aJl5uneWiYeWeHh4mIV7q6rMzdzKu7vMy57d3M3d7t7czN/eurmbuZu7y6m7iLu7zqqpi7vLy3qomsqqzNy8y9zMvMu8uqrMvLu7vLu6u7y5vd/c3s7r3t3d3arcy+7N7d3d3t3u3/+4iKuZiavLmbqpqqq9mqmZuru5iZh5uaq7zLy7zKy827u6mqyszNzMqru7rLq+z9zd3uvu3tzdmLu5TL3s3s3u7N3e7/q97N7d3d3tzeuJx3WN3d7c3t7s3t//2aiqmIqby6rKmaq7y5uam6uryJmni6mbu9u7q9q7rMm7qpm7zMzLzKu7ury4zKEAAAAA==" TITLE="One Wine (DJ Ron Margan Extended Mix)" ARTIST="Machel Montano, Sean Paul &amp; Major Lazer"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="Machel Montano, Sean Paul &amp; Major Lazer - One Wine (DJ Ron Margan Extended Fix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="11A" KEY="11A" PLAYCOUNT="2" PLAYTIME="220" PLAYTIME_FLOAT="219.35" IMPORT_DATE="2015/10/10" LAST_PLAYED="2016/1/11" FLAGS="12" FILESIZE="10120"></INFO>
+<TEMPO BPM="97.9993" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="1.68427" PERCEIVED_DB="0.499863" ANALYZED_DB="0.499863"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="93.6419" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67529" AUDIO_ID="AOEiIiMyIjMiIjMiIzIiIzIiMyIiNDR7q5iqiIepiXmama/6qtu8uLqaiLu9zf//zO//z+/87/3//v/M7++///3epHzP//////////////////////////////7bv/++/v7f/u//7uy//8/+/+//7//f/+////7v3////8//3////+/e4zm/////////////////////////7//7bP////////////////////////7///52ZmZmdmdnZ3id7f/+/v7P//7e//3//+/+/8//7t7//WT/////////////7///////////7//vYiIjMiIzIiIzIiMyIiMyIjMiIjMiIA==" TITLE="Lush Life (MMP Intro) (Clean)" ARTIST="Zara Larsson"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="Zara Larsson - Lush Life (MMP Intro) (Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="2" PLAYTIME="226" PLAYTIME_FLOAT="225.358" IMPORT_DATE="2015/10/10" LAST_PLAYED="2016/1/11" FLAGS="12" FILESIZE="8820"></INFO>
+<TEMPO BPM="97.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.298473" PERCEIVED_DB="-2.2734" ANALYZED_DB="-2.2734"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1253.18" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/30" MODIFIED_TIME="11504" AUDIO_ID="AOG//9n//////Z//////2f/////+n//////q//////+v/3Wv//r//9z//7//hoq2/YmL/plux4hX3//8///////P//////3//////9///s1nvtt47uite8zf///83//////M/7Rf//3P//v//9z/9XeZn6eH/7mJ6Xh2f//+3//////s//////7P//////3//+6mjt13vut9mNy////+r//////6//da//+v//3P//v/+Gi5j9p33/qo/YmZm//////////////t1nztp57tete8zv///87//////O/8Rv//3f//v//93//6///L//////yv/////8r//////K//8A==" TITLE="Bend Ova (Dj Rukus Intro) (Dirty)" ARTIST="Dj Rapture Ft. Boobie"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:December2015/:hip hop/:" FILE="Dj Rapture Ft. Boobie - Bend Ova (Dj Rukus Intro) (Dirty).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="www.static-city.net"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="226" PLAYTIME_FLOAT="225.358" IMPORT_DATE="2015/12/12" LAST_PLAYED="2016/1/11" FLAGS="14" FILESIZE="8828"></INFO>
+<TEMPO BPM="98.0001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.33576" PERCEIVED_DB="-3.12408" ANALYZED_DB="-3.12408"></LOUDNESS>
+<MUSICAL_KEY VALUE="23"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.0465" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/1/7" MODIFIED_TIME="261" AUDIO_ID="ALsXeHdFmIl0mZiGeXc6z//9///+/f//7v///93ezN7du83tzc7NrHXP///////////////////9mv//3f//+e///Yrc3dzMzMzMzd283d3b7u7t3u3dzd7uzNyma/////////////////////////////////+5///////////////+zP/////////////7/9qszN2szMzMzNzazd3cvd7uze7d3Nzcyru5du//////////////////////////////////n////v///f///+////u6qqqpqru8zN//3Khv///+////////7////////v//////////3YIQAAAAAA==" TITLE="Boom (Feat. MOTi, Ty Dolla Sign, Wizkid, Kranium) [CDQ]" ARTIST="Major Lazer"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:December2015Update1/:Hip Hop/:" FILE="Major_Lazer_Boom_Feat_MOTi_Ty_Dolla_Sign_Wizkid_Kranium_CDQ_(vmusice.net).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="HDMixtapes.com"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="EDM" COMMENT="Download NEW daily Hip/Hop &amp; RnB songs @ HDMixtapes.com!" KEY_LYRICS="Download NEW daily Hip/Hop &amp; RnB songs @ HDMixtapes.com!" COVERARTID="026/0EDS0ZC1MBWJ1DOLUI1VAYE2UH5A" PLAYCOUNT="2" PLAYTIME="187" PLAYTIME_FLOAT="186.514" IMPORT_DATE="2015/12/29" LAST_PLAYED="2016/1/11" RELEASE_DATE="2015/1/1" FLAGS="12" FILESIZE="7796"></INFO>
+<TEMPO BPM="99.9994" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.24216" PERCEIVED_DB="-1.67819" ANALYZED_DB="-1.67819"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="78.2818" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/1/1" MODIFIED_TIME="1997" AUDIO_ID="AM1IdkRoioiodlSImZmphniZuqzKh4qYRu263Ou8u92tzd293ru//8vPzsn//4ic/////v/v////////////7/7////8d4Ztz+/+7+/8///9///9///v///v///f9mvK7/7M7eu+/+jefv7//9zv/8z//9x5n//////+/u/////+/e//6///////tpv//////+////7/7c7/7v/v7O/u3u2Hms/v/f/P//3v//3f//3/7/3/3+3+/878u8zNzd7cu7vc3LqozM3t7u7czc7eu6i/////7/7////+///////+/+////+plhfe/v/f/f/f7/7v/vzf3fvfvOvdvoZlQA==" TITLE="Nobody Has To Know (Major Lazer &amp; KickRaux Remix)" ARTIST="Major Lazer"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:December2015Update1/:Hip Hop/:" FILE="Major_Lazer_Nobody_Has_To_Know_Major_Lazer_KickRaux_Remix_(vmusice.net).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" COMMENT="https://vk.com/trapandbass" COVERARTID="103/HDZYTOAYPE42BAUEV2YPCHWU0HAC" PLAYCOUNT="2" PLAYTIME="206" PLAYTIME_FLOAT="205.427" IMPORT_DATE="2015/12/29" LAST_PLAYED="2016/1/11" FLAGS="12" FILESIZE="3268"></INFO>
+<TEMPO BPM="103" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.3161" PERCEIVED_DB="-0.93734" ANALYZED_DB="-0.93734"></LOUDNESS>
+<MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="107.683" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/1/11" MODIFIED_TIME="43501" AUDIO_ID="AJZWIkkzJ2IkkzJ2IzgzJmIzgzJXMzlDJoMyhTJYIydTJIIydkSKRzdTVIVCdzNIZTh2VZQyVyN5ZSWGVaZCWDNJdTaVU4cySGZ7mIiWh6qHeYmZiZmnmKuHaIrO66rNyqyqmc3s3Ny7zM27m7q8+7m7y6yqmLzc7O28vczNqrrbxnRYVUhlNZMyhkN6Vkl1NYNoqFNZVDeDM5VkmVRqdliEVJdWq6l6iYqpqJmZmqqJiYi4dnd73qusvKrKqZ3Nzt7cvczsury938ybu8q7qYnMzd3bvMzM25yszIZ0lDJoMyhTJYIydTJIIydSJIMydiJJMydyM4MyZiM4MyVyMA==" TITLE="I'm Like a Bird (SE) (Kutt Edit)" ARTIST="Nelly Furtado"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:December2015Update1/:Hip Hop/:" FILE="Nelly Furtado - I'm Like a Bird (SE) (Kutt Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="00s" PLAYCOUNT="1" PLAYTIME="151" PLAYTIME_FLOAT="150.23" IMPORT_DATE="2015/12/29" LAST_PLAYED="2016/1/11" FLAGS="12" FILESIZE="5888"></INFO>
+<TEMPO BPM="89.5007" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.269188" PERCEIVED_DB="1.59441" ANALYZED_DB="1.59441"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.3679" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="7" TYPE="PROTOCOL" UUID="4d7a9b0a888e48efa8656ce05c57b85c"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:December2015Update1/:Hip Hop/:Major_Lazer_Nobody_Has_To_Know_Major_Lazer_KickRaux_Remix_(vmusice.net).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="11.8215" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132120843" STARTTIME="50713"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:December2015Update1/:Hip Hop/:Major_Lazer_Boom_Feat_MOTi_Ty_Dolla_Sign_Wizkid_Kranium_CDQ_(vmusice.net).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="13.235" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132120843" STARTTIME="50726"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:December2015Update1/:Hip Hop/:Nelly Furtado - I'm Like a Bird (SE) (Kutt Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="35.1767" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132120843" STARTTIME="50740"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:Zara Larsson - Lush Life (MMP Intro) (Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="33.1799" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132120843" STARTTIME="50777"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:December2015/:hip hop/:Dj Rapture Ft. Boobie - Bend Ova (Dj Rukus Intro) (Dirty).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="24.0752" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132120843" STARTTIME="52068"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:Badd (feat. Sister Nancy) [DJ Ron Margan Extended Mix].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="14.2334" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132120843" STARTTIME="52219"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:Machel Montano, Sean Paul &amp; Major Lazer - One Wine (DJ Ron Margan Extended Fix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="52.0045" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132120843" STARTTIME="52417"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

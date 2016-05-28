@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="2"><ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="70109" AUDIO_ID="ATt8hVV1Q1V2VFZ2ZpzP/////////////qzv/93u3t3tzczdzbzf/////////////7n//////////+7u7u3/tkMyIREUrLvcrMvcrMvcrO3/7Lu7urvNzMzN3drO//////////////3P///////////////f///////////u//7//IVlreze3Oze3O3e7u2qzv7v7f7v/v7v/v//9jIRLN29272////u7t7t/9zM3d283//////////////8/////////////+7////////////////Zv//////////////qv////////v/////ou4Z1WGVlWHZ2aIaJzfYQAAAAAA==" TITLE="Prime (Original Mix)" ARTIST="Sick Individuals"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update1/:House/:" FILE="07- Sick Individuals - Prime (Original Mix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="7" TITLE="Segalovich BASE Vol. 22"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 22" COVERARTID="117/VPJIBPBE4AXEYAPJQCEWCR3S5ZDA" PLAYCOUNT="1" PLAYTIME="316" PLAYTIME_FLOAT="315.115" IMPORT_DATE="2015/4/18" LAST_PLAYED="2015/12/23" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="12500"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.0977063" PERCEIVED_DB="-4.00053" ANALYZED_DB="-4.01997"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="87.9696" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67804" AUDIO_ID="AJEB///PuurrrZ3Z2JuumuzsrYua+Lyeusj5VFTv///v7/7//////v////////////////////+7qYdmVEiHd5eJaoVnd3mJlYhVZ3iGiGl2R3d5eZeZl8/////////////////////////////////////////////////////////////////9y//////////////////////////////////WND//////////////////////////////////////38z8/s/O/PvOz9z+/9+t3f3vz+78/Kmq////39/+/u/v/v7/7+/////v//7/////y6vXZmVEMzIhERAAAA==" TITLE="Guest List (Original Mix) Clean - Nasa Cut" ARTIST="Alvaro and Jetfire"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:" FILE="Alvaro and Jetfire - Guest List (Original Mix Clean - Nasa Cut - 128).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Electro House" KEY="9A" PLAYCOUNT="2" PLAYTIME="146" PLAYTIME_FLOAT="145.398" IMPORT_DATE="2015/5/8" LAST_PLAYED="2015/12/23" RELEASE_DATE="2015/1/1" FLAGS="12" FILESIZE="5700"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.24634" PERCEIVED_DB="-5.07922" ANALYZED_DB="-5.07922"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="497.032" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="2" TYPE="PROTOCOL" UUID="21e2c05ba2974b79959a049453778445"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:Alvaro and Jetfire - Guest List (Original Mix Clean - Nasa Cut - 128).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="131.135" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058135" STARTTIME="78306"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update1/:House/:07- Sick Individuals - Prime (Original Mix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="132.088" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058135" STARTTIME="78447"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

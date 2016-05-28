@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="3"><ENTRY MODIFIED_DATE="2014/2/14" MODIFIED_TIME="38803" AUDIO_ID="AO4BABJndoiJhoiIdVd6vuy7y7u82rutyru83LrLu7zKuqu6dZ7ty8zLrMvMvNzN3f7LzMy928y83dzLl4rbzK3bzM3Oy97syLzbze7d3N/ZfP29y8u83Nzdz/3v/s3LzL3d28y93f/snN7tzu/r3e/u7//N3e3u3+3s38z927u7qs3NyrZ4jMzKq7u5zMyqq7l37sy9zbrdzd3c3d7v3M3Nu8zN3MvLvv/s3u/b7//d3P7u//3t3+3t3t3N/t/9y9zt3d3dzdzt3v/L3dzMzd3M7u3f/rq7ur3N27vMy8z+us7crc7cq82779upmZdoZmZVRUMzMiIhEREAAAAAAA==" TITLE="Keith Sweat Feat. Akon - Some More ( 2oo8 ) [ www.MzHipHop.com ]" ARTIST="www.MzHipHop.com"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Keith Sweat Feat. Akon - Some More _ 2oo8 _ _ www.MzHipHop.com _.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="www.MzHipHop.com"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="155719" GENRE="www.MzHipHop.com" COMMENT="www.MzHipHop.com" KEY_LYRICS="www.MzHipHop.com" PLAYCOUNT="7" PLAYTIME="238" PLAYTIME_FLOAT="237.714" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/5/8" FLAGS="14" FILESIZE="4576"></INFO>
+<TEMPO BPM="93.7781" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.90369" PERCEIVED_DB="-0.964996" ANALYZED_DB="-0.964996"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="171.967" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/5/8" MODIFIED_TIME="27795" AUDIO_ID="AR0TMzMzMjMzMzIzIiMiIkQyREe6iFNDaahDNDV3dCIyN4h1d2RndViVZok2eFOouFdlN4ZFh1RqrsvPzc3rvf3Nz8ve2838zO7t//68+7//+q/L//+p/c7//O//3/3f/63Pyt/5vv+t36zu+d/9v//////9/+/v7d/////+/8vc7O//7e7P//6+/N///d/N/////9/////9///L7+///838z//////////////9z/7N///////9zP/M////////3f/P////////7//9/+2YhDu+xiMieN6akySGU1ZlR3WYdVN4m6pDJoyYUiJodjVlVDIhERERERAAAAAAAAAAAA==" TITLE="We Are Here" ARTIST="Alicia Keys"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014/:Hip Hop/:" FILE="Alicia Keys - We Are Here.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="285" PLAYTIME_FLOAT="284.526" IMPORT_DATE="2014/10/18" LAST_PLAYED="2015/5/8" FLAGS="12" FILESIZE="11144"></INFO>
+<TEMPO BPM="93.0007" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.166093" PERCEIVED_DB="-2.59056" ANALYZED_DB="-2.59056"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/5/8" MODIFIED_TIME="26922" AUDIO_ID="ARzP7f//7/////3u////////3f//7/////zu///+////7/////////7/////////7/////////3//////////////////////////////////////////////53/7///////////////////7/////////7//////////////////////////+z/////////////////+5/+/////////+/////////+/////////+///////////////////////////+/+/////////+/////////+/////////+///////+/8/////+///9/////v///t///v/+///t7////v8A==" TITLE="Nada (MMP Intro) (Dirty)" ARTIST="Emilio Rojas Ft Joell Ortiz"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:March 2015/:Hip Hop/:" FILE="Emilio Rojas Ft Joell Ortiz - Nada (MMP Intro) (Dirty).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Intros" COVERARTID="065/BOUURUC54REDADYF50IYA2HWTEHD" KEY="6A" PLAYCOUNT="1" PLAYTIME="284" PLAYTIME_FLOAT="283.873" IMPORT_DATE="2015/2/28" LAST_PLAYED="2015/5/8" RELEASE_DATE="2015/1/1" FLAGS="12" FILESIZE="11608"></INFO>
+<TEMPO BPM="114.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PERCEIVED_DB="0"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="3" TYPE="PROTOCOL" UUID="72a08097282842489ecfb6a02f68c39d"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:March 2015/:Hip Hop/:Emilio Rojas Ft Joell Ortiz - Nada (MMP Intro) (Dirty).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="10.5996" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132056328" STARTTIME="37741"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014/:Hip Hop/:Alicia Keys - We Are Here.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="16.1721" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132056328" STARTTIME="39412"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Keith Sweat Feat. Akon - Some More _ 2oo8 _ _ www.MzHipHop.com _.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="28.7596" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132056328" STARTTIME="39430"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

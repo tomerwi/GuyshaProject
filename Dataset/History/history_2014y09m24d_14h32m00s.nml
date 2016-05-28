@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="1"><ENTRY MODIFIED_DATE="2014/8/8" MODIFIED_TIME="68641" AUDIO_ID="AVwjNEREREVERERERGdFZGVGVnRWRlRmupq6uqurqaqrp3i7q7q6u7u7u7uoZ6eKl5h2Z4eHeYeIiZmYqqmqqqqZqpmYiIiIh4d4iIiImqupmqupq6qqu5ib7u7u7d7e3u7u2q3u3u7t3t3e3tzIet3t3e3dy7u7u7u8dmZEMzR5l3dndmd4iImqmpmJiHeHibqZmqmYqZmamZmZiaqZmZqYiYiImJmZqZmZiImYiHeJrd3d3d3d3d3d3brN3d3d3c3N3d3dqsq6qqqrqqqpmJmJvMvLzLzMy7y8yne8u8vMu8vLvLzKeJVFMzIyIxIhIhIRIRISISESEiEiIiRiEA==" TITLE="crazy payback (omer k. mashup) www.Only-Music.co.il" ARTIST="steve angello &amp; kesha"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:מאי 2014 - עדכון 2/:House/:" FILE="steve angello &amp; kesha - crazy payback (omer k. mashup) www.Only-Music.co.il.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="www.Only-Music.co.il"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" LABEL="www.Only-Music.co.il" COMMENT="www.Only-Music.co.il" PLAYCOUNT="2" PLAYTIME="348" PLAYTIME_FLOAT="347.664" IMPORT_DATE="2014/5/29" LAST_PLAYED="2014/9/24" FLAGS="12" FILESIZE="13572"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.757165" PERCEIVED_DB="-3.23053" ANALYZED_DB="-3.23714"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="28.7205" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="1" TYPE="PROTOCOL" UUID="9e0b22887eb54ebdb193c472419ba350"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:מאי 2014 - עדכון 2/:House/:steve angello &amp; kesha - crazy payback (omer k. mashup) www.Only-Music.co.il.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="52.196" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="131991832" STARTTIME="46372"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

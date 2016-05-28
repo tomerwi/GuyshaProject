@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="3"><ENTRY MODIFIED_DATE="2014/4/4" MODIFIED_TIME="60796" AUDIO_ID="AOKN3czM3czM3d3d3d3d3d3d7u////////////////////66/smpqXmImaqpmqmamKiaqpmamqqqqsu7qbq7urqrvLq7z//LzMzNy7vM3e7/3O7sq6u/////////////////////zP/////////////////////9vqh3d3d3d3d3eId3d3eHeHbfypqZeZiZqqmaqZmoqZmqmZqauqmqzLu5qqu6uqu7yrvO/9u8vM3Ly8zN7//s7uyrqq///////////////////////////////////////////////////////////////////+iZmJmYiIh4h2dmZmZVVVVWIA==" TITLE="Flight Samurai All Night (VINAI Edit) www.Only-Music.co.il" ARTIST="Icona Pop, Steve Aoki, R3hab"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:פברואר 2014/:House/:" FILE="Icona Pop, Steve Aoki, R3hab - Flight Samurai All Night (VINAI Edit) www.Only-Music.co.il.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="www.Only-Music.co.il"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" LABEL="www.Only-Music.co.il" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" PLAYCOUNT="1" PLAYTIME="226" PLAYTIME_FLOAT="225.985" IMPORT_DATE="2014/2/13" LAST_PLAYED="2014/5/13" FLAGS="14" FILESIZE="8992"></INFO>
+<TEMPO BPM="128.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.35091" PERCEIVED_DB="-2.49053" ANALYZED_DB="-2.50342"></LOUDNESS>
+<MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="31.7691" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/4/4" MODIFIED_TIME="61450" AUDIO_ID="ALUBNpvcrMzu3c7M2+7tzdrdzu3fyYqrvN7uy5mZiIiIiJmYmIiZmZmYiImbu6mIiJmJiYiZmru6qpmZq93LiIe/////////////+v//////////ze6/////////////+qu7q/3OzezMhnmv/////////////Jv/////////3N3O/////////////ay7mYiIiZmZvN3KvLqYiIiIiIiImZmZmZmZmZqqqqu5q7u7u7u7u7u7u7u7u7u7u7u7u83ZzMy6qqqpmZmZmqu7uqmZmr3cuIh6/////////////7/v/////////d7s/////////////7q7uqmZiHZVQyIRAA==" TITLE="bounce-generation-" ARTIST="VINAI"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:מרץ 2014- עדכון 1/:House/:" FILE="[preview]-tjr-%26amp;-vinai---bounce-generation-(s.-nikolaev).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" PLAYCOUNT="1" PLAYTIME="181" PLAYTIME_FLOAT="180.715" IMPORT_DATE="2014/4/4" LAST_PLAYED="2014/5/13" FLAGS="14" FILESIZE="2828"></INFO>
+<TEMPO BPM="127.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.04163" PERCEIVED_DB="1.24947" ANALYZED_DB="1.23125"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="58.8816" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/2" MODIFIED_TIME="52358" AUDIO_ID="ASZKmZl3iId1d3d1Z3eJ////////////////65iIiHd3dmZ3d3eIiZn////////+///+7+7v///qmZmJu5mZiJqXnf///////////////8/////////////////7h3eHd3iKyqqqqryr3/////////////////oxERNmZWZVdmdmZ2d3eHeJ/////////////////1MiRkmqqoepmYaqqqh6qq////uqqpmZmZiIiZed//////////////////////////////////////////////////////////////////////////////////////2YeIiJh4h5h4iImIiWEA==" TITLE="Tremor (Original Mix)" ARTIST="Dimitri Vegas, Martin Garrix &amp; Like Mike"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:מאי 2014/:House/:" FILE="Dimitri Vegas, Martin Garrix &amp; Like Mike - Tremor (Original Mix) [Spinnin' Records].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="WwW.Desire2Music.Net"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="WwW.Desire2Music.Net" COVERARTID="058/0NP0BIB3W2XM3AGT0EQ4BXOJJUFB" PLAYCOUNT="1" PLAYTIME="295" PLAYTIME_FLOAT="294.426" IMPORT_DATE="2014/5/2" LAST_PLAYED="2014/5/13" FLAGS="14" FILESIZE="11568"></INFO>
+<TEMPO BPM="128.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.17513" PERCEIVED_DB="-1.17198" ANALYZED_DB="-1.17198"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="79.746" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="3" TYPE="PROTOCOL" UUID="ed7968b29878481c908143381b38aa19"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:מאי 2014/:House/:Dimitri Vegas, Martin Garrix &amp; Like Mike - Tremor (Original Mix) [Spinnin' Records].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="16.1721" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="131990797" STARTTIME="70322"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:מרץ 2014- עדכון 1/:House/:[preview]-tjr-%26amp;-vinai---bounce-generation-(s.-nikolaev).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="143.417" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="131990797" STARTTIME="70403"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:פברואר 2014/:House/:Icona Pop, Steve Aoki, R3hab - Flight Samurai All Night (VINAI Edit) www.Only-Music.co.il.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="109.513" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="131990797" STARTTIME="70712"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="2"><ENTRY MODIFIED_DATE="2014/2/14" MODIFIED_TIME="6677" AUDIO_ID="AMsqyqqqqqu7qavO/cqsy7ze3dzLzu3ZvbvO/bm////9yt3bnO7KzMvP7czu3u7t3Oy77u3M7e7/3//9y87f7/28/+/v/cz/7+/+///tzey67uzd3d/93M7czP7bzs3f/8ze687+zO7t7/7M7tzP7c3cuJ7dvNy7ztyb27zv3JvbvO7f7////tyu27nO3L27vf/bzuvN7dvN26zu7d7b3v7bvtu8/tq93d/+yt3M3e3K3cz//83e3N7trOzM/+2s7ezf3LzbmN7cvtzL7uyuu7zu287sze7c3+u87tvf7cz9297dz+3czczf/tve397u29vO39u97Kze66zMzvYQAA==" TITLE="La Despedida ( 2010 )" ARTIST="Daddy Yankee"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Daddy Yankee - La Despedida ( 2010 ) [ HotNewPlaylist.com ].mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="HotNewPlaylist.com"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="HotNewPlaylist.com" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY_LYRICS="HotNewPlaylist.com" COVERARTID="037/FF2NZWC5DC5SNAETPFTNBOZJZL0C" PLAYCOUNT="2" PLAYTIME="203" PLAYTIME_FLOAT="202.893" IMPORT_DATE="2012/5/23" LAST_PLAYED="2014/11/12" RELEASE_DATE="2010/1/1" FLAGS="14" FILESIZE="8072"></INFO>
+<TEMPO BPM="122.005" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="1.64421" PERCEIVED_DB="-1.70053" ANALYZED_DB="-1.72471"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="234.545" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/2/14" MODIFIED_TIME="6691" AUDIO_ID="APAWdoZ4Z3dmdnh8vf///////////v//3+3+///d7f7/7/r/7p3//v/uytz//+/////v/+3+/Mqaqqvv7v7aqJ/8//ue2/7//ozf7d3ezt39z9/M/tmpiruZzMzc/////v7//////u/v///f+tvd/9/87cuYeZm6h4qau8///f///////////7rv///+///v7//+//7/7v3f/v/e/buJd4mYiZhmesv+///+3u/v///tve79/e/e3/7+7/3c///////////////t3e/sze7u//7KqKiampmoqZqqqqmKiqmYqnmIiJipd5mYeXiZh4mJmqeL7u/9///P//7UMiEQAA==" TITLE="Llamado De Emergencia " ARTIST="Daddy Yankee "><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Llamado De Emergencia - Daddy Yankee.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="Blinblineo.Net"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" GENRE="Reggaeton" LABEL="Blinblineo.Net" COMMENT="Blinblineo.Net // Lo Mejor Del Genero" KEY_LYRICS="Blinblineo.Net" REMIXER="Blinblineo.Net" COVERARTID="073/JKXBQZATGBJ4ZBBTRAJJBXNGY3GD" PLAYCOUNT="1" PLAYTIME="241" PLAYTIME_FLOAT="240.039" IMPORT_DATE="2012/5/23" LAST_PLAYED="2014/11/12" FLAGS="14" FILESIZE="3888"></INFO>
+<TEMPO BPM="97.9983" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.97192" PERCEIVED_DB="-2.27053" ANALYZED_DB="-2.28545"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="337.162" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="2" TYPE="PROTOCOL" UUID="1d52e6c2d3614045a4220a02a0989807"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Daddy Yankee - La Despedida ( 2010 ) [ HotNewPlaylist.com ].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="72.5916" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="131992332" STARTTIME="37526"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Llamado De Emergencia - Daddy Yankee.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="18.0993" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="131992332" STARTTIME="37652"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

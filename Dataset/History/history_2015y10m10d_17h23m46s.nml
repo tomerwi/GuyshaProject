@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="2"><ENTRY MODIFIED_DATE="2015/10/9" MODIFIED_TIME="55255" AUDIO_ID="AK8SIjdlV1NWRWU0dmZ0JFRWqlRVU2VERkRTRGUiIiIhv////v////lndXZnd2Z43/7MS+/857Z3WGNndUVYu5qqiJmKqYmYmZdVZnjf5u/Z/3r/f/p/+c/n7/z/iv+P+3/6z/fv+f+a/8pmVWZFVmV0ZWVWVEZFVK/////////8d4aEVFRmZpdmd2Z3dzW//+3Uzv+lVqupqpiZiaqKqImYVWZ4v/fP+v+Y/778b/3P+M/7/5j/rv1//r/3v/n/qf/MhlREZkQzRXQ0RGVEZWZ/+6////j///6M/8/6n///+f///67///uf/+/Z/////////////////2VlZmMAAA==" TITLE="איזי - בן הבודדים - רשמי להורדה"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014-עדכוןן 1/:hip hop/:" FILE="איזי - בן הבודדים - רשמי להורדה.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" KEY="F" PLAYCOUNT="9" PLAYTIME="175" PLAYTIME_FLOAT="174.811" IMPORT_DATE="2014/8/30" LAST_PLAYED="2015/10/10" FLAGS="12" FILESIZE="4100"></INFO>
+<TEMPO BPM="94.9997" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.38709" PERCEIVED_DB="-0.903572" ANALYZED_DB="-0.903572"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="2463.34" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/8/28" MODIFIED_TIME="62507" AUDIO_ID="AN0AAHqGh2eYiKqrl3h3mYeJrNy6u6qK2qvtu5q6qstl3/3//v/v/8/+3/3//v+7/8qZaMm7quu7momrm7qr3Lmonay7vsu5qpq5uoz/3//f//////////////////3////v////7/7///6re8zbyp3Nu5fK3t2oz//f/f///+7/v//v///6//uqhqycus+rqai8qturzsqpm9vMvOu7q5nLq4n//v/+/////////v/////////v///+////7//////ry5mai6uaqJq5y6iZbP69zLq6zMv/u7ypmryZ7///////////////////////////////uZeZm7lyEAAAAA==" TITLE="Music.co.il" ARTIST="הללא ןמ לכה אל  יזיא - www.Only"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:September 2015/:Hip Hop/:" FILE="איזי - לא הכל מן אללה www.Only-Music.co.il.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Other" COMMENT="איזי - לא הכל מן אללה www.Only-Music.co.il" KEY="3B" PLAYCOUNT="1" PLAYTIME="221" PLAYTIME_FLOAT="220.552" IMPORT_DATE="2015/8/28" LAST_PLAYED="2015/10/10" FLAGS="14" FILESIZE="8640"></INFO>
+<TEMPO BPM="75.9995" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.65304" PERCEIVED_DB="-0.345314" ANALYZED_DB="-0.345314"></LOUDNESS>
+<MUSICAL_KEY VALUE="1"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1702.58" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="2" TYPE="PROTOCOL" UUID="58cfc8359b5a44d3a9817668c7b3839a"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:September 2015/:Hip Hop/:איזי - לא הכל מן אללה www.Only-Music.co.il.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="29.0817" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132057610" STARTTIME="58459"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014-עדכוןן 1/:hip hop/:איזי - בן הבודדים - רשמי להורדה.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="10.9972" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132057610" STARTTIME="58489"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

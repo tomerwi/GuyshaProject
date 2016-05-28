@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="3"><ENTRY MODIFIED_DATE="2014/12/4" MODIFIED_TIME="72296" AUDIO_ID="AOk2ZnZVVVVVVVVVVWZmZmZmZmd2ZmZmd3d3eId3eIiIiv///v3c7MzszP3LzLvNu8y73//t3e3d3d7u7u7d3e3Nuv////////////////////////////////////////////2odlRMhlVVVmeHeKzaq5m8qsy87/7/7e/+//7v/+/u7v/v/t//7/7f/+//7//v/u7////u/93t3e7d7t3//+7u3f/uys////////////////////////////////////////////////////////////////////////////////////////uIh4l3ZmZmZmZmZmZmZmacgyEAAA==" TITLE="Burnin" ARTIST="Calvin Harris &amp; R3hab"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:נובמבר 2014 - עדכון 1/:House/:" FILE="Calvin Harris &amp; R3hab - Burnin .mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Dms"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="House/Electro" COVERARTID="065/BOUURUC54REDADYF50IYA2HWTEHD" PLAYCOUNT="1" PLAYTIME="233" PLAYTIME_FLOAT="232.908" IMPORT_DATE="2014/11/29" LAST_PLAYED="2014/12/22" RELEASE_DATE="2014/1/1" FLAGS="12" FILESIZE="9600"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.281074" PERCEIVED_DB="-3.87638" ANALYZED_DB="-3.87638"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="61.9933" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/12/4" MODIFIED_TIME="72047" AUDIO_ID="AN4AABq7u7u7u7u7u7u7u7u7u8zMW8zMzMzMzMzMzMzMzMzMzN25vMmsy7vcq7vLvLzMuqy6zLvd3d3N3NzM3dzc3M3t3NzM7e/c/M27zdzd273by83f/+7v3/////////////////////////////////////////////9kMzMzM0RERX/v///+z//u//7//////////v/u//7f///////////////////N/9/u3u7u/97d7v///////////////////////////////////////////////////t7//+7///7u7/////3+//6dy7u7u7u7u7u7u7u7u7u8zHMAAA==" TITLE="Open Wide (Dirty)" ARTIST="Calvin Harris ft Big Sean"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:נובמבר 2014 - עדכון 1/:House/:" FILE="Calvin Harris ft Big Sean - Open Wide (Dirty).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Dms"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COVERARTID="065/BOUURUC54REDADYF50IYA2HWTEHD" PLAYCOUNT="4" PLAYTIME="222" PLAYTIME_FLOAT="221.623" IMPORT_DATE="2014/11/29" LAST_PLAYED="2014/12/22" FLAGS="12" FILESIZE="9160"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.55744" PERCEIVED_DB="-3.33727" ANALYZED_DB="-3.33727"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="151.471" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/11/28" MODIFIED_TIME="78162" AUDIO_ID="AKSKq4moi4enm4eoioeZiqeKiKiLiLid/Oy9usutysysyr272727673L3L3L3du/3phmZ2VWZWZ3iay73/2bv+qd3u/cnN297tqbz9mt/v/dv+3f/////////////////////////////am+7///////////////////////////2md2////////////////////////////zN7v///////////////////////////9zO/////////////////////////////KaJreusqciLiLl6l6mKmKqJqJuJuJyZqv7s7Ky5qoqoioine4eoi4ioe5ioeqeXr/3VEAAAAAAA==" TITLE="Don't (DiscoTech 2AM Remix) CK Cut Clean" ARTIST="Ed Sheeran"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:דצמבר 2014/:house/:" FILE="Ed Sheeran - Dont (DiscoTech 2AM Remix CK Cut Clean 126).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="static-city.com"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Pop Dance Remix / Electro House" COMMENT="static-city.com" KEY_LYRICS="static-city.com" PLAYCOUNT="1" PLAYTIME="164" PLAYTIME_FLOAT="163.918" IMPORT_DATE="2014/12/11" LAST_PLAYED="2014/12/22" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="6408"></INFO>
+<TEMPO BPM="126.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.84812" PERCEIVED_DB="-2.92437" ANALYZED_DB="-2.92437"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="25.4513" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="3" TYPE="PROTOCOL" UUID="77874bbb6f3f4ff28e474a49e2060665"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:דצמבר 2014/:house/:Ed Sheeran - Dont (DiscoTech 2AM Remix CK Cut Clean 126).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="14.1753" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="131992598" STARTTIME="63672"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:נובמבר 2014 - עדכון 1/:House/:Calvin Harris ft Big Sean - Open Wide (Dirty).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="266.927" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="131992598" STARTTIME="65778"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:נובמבר 2014 - עדכון 1/:House/:Calvin Harris &amp; R3hab - Burnin .mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="11.093" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="131992598" STARTTIME="66069"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

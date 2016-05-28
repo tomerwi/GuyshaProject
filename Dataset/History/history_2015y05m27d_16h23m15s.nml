@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="1"><ENTRY MODIFIED_DATE="2015/5/8" MODIFIED_TIME="49385" AUDIO_ID="ANy///////////////////////////////////////////6r/////////////////////v//yYdlRDRENENJq8693diprZmdzt3e66qt67v+/v//7+3P/O/+//////7//v///////////////////////+7v7ez87fzdzc7ez97O3u7//u3t7v/+//////////////r////////////////////Yqs////////////////////q7nv/////////////////////////////////////////////ruqqqqqqqqqqqqqmpqZmZmZmZiIiIh4iHiHd3d3d3d3d4hhAAAA==" TITLE="Prayer In C (BeatBreaker Bootleg)" ARTIST="Lilly Wood And The Prick"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015/:House/:" FILE="Lilly Wood And The Prick - Prayer In C (BeatBreaker Bootleg).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="221" PLAYTIME_FLOAT="220.447" IMPORT_DATE="2015/4/1" LAST_PLAYED="2015/5/27" FLAGS="14" FILESIZE="8636"></INFO>
+<TEMPO BPM="127.987" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.52406" PERCEIVED_DB="-3.04053" ANALYZED_DB="-3.07713"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="58.76" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="1" TYPE="PROTOCOL" UUID="b967fb945e4d42bba72e37842e5d02b6"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015/:House/:Lilly Wood And The Prick - Prayer In C (BeatBreaker Bootleg).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="79.4154" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132056347" STARTTIME="58924"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

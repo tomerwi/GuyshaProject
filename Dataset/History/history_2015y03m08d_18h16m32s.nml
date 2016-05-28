@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="1"><ENTRY MODIFIED_DATE="2015/3/8" MODIFIED_TIME="56729" AUDIO_ID="AKQYiqqYmqqXmqmXqpqnqqqYqqqIqpmKu6t77fx8/sl73f2s7tiu/tq+/sjdvMvN7////////////////////////////sy7/v//////////////////7///7//////////////8///////////////////////d3v/s7//s//2+//////z+/////+uqr//////////////////////////////////+///+/////////OuZuqmJu6mJrN7/7/7/7d7////9y8////////////////////////////////7//////////////////////////////GdDIhEAAAAAAA==" TITLE="Respect" ARTIST="Melanie Amaro"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:March 2015 - Update 1/:House/:" FILE="Melanie Amaro - Respect.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="Respect - Single"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" COVERARTID="076/MOTH3QDDTXCF3BRZ2ONXBO4QHTTB" PLAYCOUNT="1" PLAYTIME="165" PLAYTIME_FLOAT="164.101" IMPORT_DATE="2015/3/8" LAST_PLAYED="2015/3/8" RELEASE_DATE="201/1/1" FLAGS="12" FILESIZE="3876"></INFO>
+<TEMPO BPM="128.002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.30495" PERCEIVED_DB="-4.35559" ANALYZED_DB="-4.35559"></LOUDNESS>
+<MUSICAL_KEY VALUE="10"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="168.511" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="1" TYPE="PROTOCOL" UUID="a9e334002b7442f7a64e7b6a5fe206b3"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:March 2015 - Update 1/:House/:Melanie Amaro - Respect.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="12.9912" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132055816" STARTTIME="65788"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

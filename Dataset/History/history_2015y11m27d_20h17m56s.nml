@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="2"><ENTRY MODIFIED_DATE="2015/10/28" MODIFIED_TIME="35152" AUDIO_ID="ANF0h5OalnSEp2aaiUdXejmpaDg6fHu5hUZmVlRVZVZVZlVlZFVWZlZWVVVVVmZFX/////77//7///3rp2VmZlZWZld3d3Zv///v/+zv/////vvv/d3vy6v/7d7+zMp2VmZVVkVmZlVVZZa5tru4lqa62cyaWv/f3//ev//////suGVmZmVlZ2Z3Z3Zp/////++////v/+6//t3f67rP/d3v7MuWVWRWVlZWR3ZnV2d3eIeIiIiJpURDMd/////+7//f///v7//v///u//////zL//7///3v///////v/+///+////////74aKSKlpOTl4Sal2VliVeqaThJeUmpYA==" TITLE="Bad Boy Good (Clean)" ARTIST="Anjali World"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015/:HipHop/:" FILE="Anjali World - Bad Boy Good (Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="209" PLAYTIME_FLOAT="208.927" IMPORT_DATE="2015/11/6" LAST_PLAYED="2015/11/27" FLAGS="14" FILESIZE="8156"></INFO>
+<TEMPO BPM="100.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.681567" PERCEIVED_DB="1.48544" ANALYZED_DB="1.48544"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="33.1433" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/28" MODIFIED_TIME="35162" AUDIO_ID="ANwr/N7f7d3e3f3vzt3t38793e7d/O/M3+7//e283u//3rmu7//+7b3Kz9/t297u/+/uvdzv//7s3d/v/97O297f/c3e/////////////////////////////v/////////////////////////////7rLrbd2vN///dvd7v//3Zzd////3N7v/f/KzMqs/d/Yfbjvvf6v///////////////v////////////////////////////3////////////////////////////////////////////////////////////t39793e7d/e/N7d3f3v3O3d7t79zoEAAAAA==" TITLE="Sorry (Clean)" ARTIST="Justin Bieber ft Skrillex &amp; Blood"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:" FILE="Justin Bieber ft Skrillex &amp; Blood - Sorry (Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="221" PLAYTIME_FLOAT="220.082" IMPORT_DATE="2015/11/27" LAST_PLAYED="2015/11/27" FLAGS="14" FILESIZE="8600"></INFO>
+<TEMPO BPM="100.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.618953" PERCEIVED_DB="-1.68059" ANALYZED_DB="-1.68059"></LOUDNESS>
+<MUSICAL_KEY VALUE="10"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="255.244" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="2" TYPE="PROTOCOL" UUID="f47b53bbc9a342a88f9d27f507633050"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:Justin Bieber ft Skrillex &amp; Blood - Sorry (Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="163.641" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132057883" STARTTIME="72880"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015/:HipHop/:Anjali World - Bad Boy Good (Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="19.1209" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132057883" STARTTIME="73045"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

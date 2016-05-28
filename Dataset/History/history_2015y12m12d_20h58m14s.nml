@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="8"><ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67393" AUDIO_ID="ANUDQzRkJDMzAUZFUgIzQjS3rNpoicvXanu9hqmKiJmYy9daar6WmKzMZ6qZqp//+lWImXZXeIiEZ3h5mb////r///++///93////////87///y/7//q///+/3Zmdox6zaeprM13upmqdxA2ZliMvXamq9hKqaqqv//YWJmYdmmamXWYqZl5////vf///r////z/////////v///+9///93///////pnmqmYZoh2dnmaqnd4mZloh4iHiZqZmqy6q83cvM3aMQKJv///+v///8z///3P////////y////7////z/////////bP//+8///8b///7/QQAAAAAAAAAAAA==" TITLE="On My Mind" ARTIST="Ellie Goulding"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="Ellie_Goulding_On_My_Mind_(vmusice.net).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="1" TRACK="1" TITLE="On My Mind"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Electronic" COMMENT="vk.com/trap_edm" KEY_LYRICS="vk.com/trap_edm" COVERARTID="064/AOYMANBXVRAGGA4NZGPGDAXJ5FGD" PLAYCOUNT="2" PLAYTIME="214" PLAYTIME_FLOAT="213.316" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/12" RELEASE_DATE="2015/1/1" FLAGS="12" FILESIZE="8372"></INFO>
+<TEMPO BPM="77.5001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.942838" PERCEIVED_DB="-1.35522" ANALYZED_DB="-1.35522"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="193.155" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AOZYmJiIiZmImJiIiZmImJiZmZmIrKm6mJiHeah3iZiaqYiIp4eKiJqId4eHiXd4h3aKmamZmau7uoh4//////////////////////////hXdmZ3Z2d2ZUj7vZ6cyulnno27eHeHh4h1RXhUrru7maiYmqmIqZmrqZmZmKiriJ3KiYiZqIiJmIiamrqqqrzMyXh7/////////////////////////6VnloZpdod3dVzox62be9nq21RnZ3h3iId4h3dF7bu6mqmqmqmauqqqmYmamZnLZa+92/rczq696/vsvr/M6/rdz7/O///////////////////////+mBJDAA==" TITLE="לגיבוד# (DJ Ron Margan Extended Mix)" ARTIST="ירובת לא-ןבו קיטאטס ,ייקס"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="סקיי, סטאטיק ובן-אל תבורי - #דוביגל (DJ Ron Margan Extended Mix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="סקיי, סטאטיק ובן-אל תבורי - #דוביגל (DJ Ron Margan Extended Mix)" COVERARTID="127/5HJNZYDPSZ2DUBJ5GOQUCDVLOPGB" KEY="G#m" PLAYCOUNT="8" PLAYTIME="230" PLAYTIME_FLOAT="229.825" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/12" FLAGS="14" FILESIZE="9216"></INFO>
+<TEMPO BPM="110.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.247033" PERCEIVED_DB="1.02989" ANALYZED_DB="1.02989"></LOUDNESS>
+<MUSICAL_KEY VALUE="20"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="93.6608" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/28" MODIFIED_TIME="34974" AUDIO_ID="AMqLup7b7sud7/u6ntv9yp/v+7qfzO7Knf/rqq7M/Lqv+Wl2d3aHZndmaHZ3ZomIiHh4eId3iHmHiJqph5h4qpe8mHjZfrmI2+6pmdmPuXnKmZhoyn6Yi9zqmXrJiIiIZpypvv7Pu87v/KrO7e7KvO/93J79/9y///uqz+zN/e3+3Mqayr3LisvNu5u7zMuLzLl4mJaIeKmGmWiXmpqIiJhYiZiIiqmal3mImYl5qImbmpnqjsmK6+6amtqHiaiYjKq8/s7bvf/9ur3939u76/7drP7v3L7//KrP/cz93v/8uqzs38ub7/y6nNv9y57/+7qe2+7Lne/7up7b/cqf7w==" TITLE="Headlines (DIRTY) (Marty Mar Edit)" ARTIST="Drake"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015/:HipHop/:" FILE="Drake - Headlines (DIRTY) (Marty Mar Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="10s" PLAYCOUNT="1" PLAYTIME="203" PLAYTIME_FLOAT="202.318" IMPORT_DATE="2015/11/6" LAST_PLAYED="2015/12/12" FLAGS="14" FILESIZE="7908"></INFO>
+<TEMPO BPM="75.9995" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.04711" PERCEIVED_DB="0.773209" ANALYZED_DB="0.773209"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="74.7246" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/31" MODIFIED_TIME="3322" AUDIO_ID="AHk5UzJoRDJ3MiOHMkiWMyWVQlmDMjh0eZljMlhUMmczI3czOJYzJJVCWIMyN3Tf/8ebz6eMvZd97YaP/sZo7qV+56Zs1+///du/zrO/+uX/7I78non+62//yG/////8+4/fxp/52e/9nf69p//8X//InP////3Nf+/5v/nIz/+q/97L/sqf/ris/////r5///yP+8zv/93/3er/+1r/uKv/////v6/+2n/9zr/+rP/M+P/Nm//auv////x3av26ith5v/uq7thpnsZr76Z4zq3/umhWl5U4uFc5qVWrdpVaiVSphkOaurypd2WYlTapWDmZZJyGlkqJVKmGQ4m6oA==" TITLE="Who Dat (DIRTY) (QH) (Marty Mar Edit)" ARTIST="JT Money"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015/:HipHop/:" FILE="JT Money - Who Dat (DIRTY) (QH) (Marty Mar Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="90s" PLAYCOUNT="1" PLAYTIME="122" PLAYTIME_FLOAT="121.496" IMPORT_DATE="2015/11/6" LAST_PLAYED="2015/12/12" FLAGS="14" FILESIZE="4748"></INFO>
+<TEMPO BPM="86.9961" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.08306" PERCEIVED_DB="-0.228378" ANALYZED_DB="-0.228378"></LOUDNESS>
+<MUSICAL_KEY VALUE="2"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="49.2948" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/28" MODIFIED_TIME="35026" AUDIO_ID="ARF4m4u3uLuIyLt7i7mMi7e5q5jIu3uXZGZCJWZlVmVERmZVU1Z4iYZVNWeFVI1YhfrPz+avv8zerlmX/N+s+K//3vvvrvv5ja36/7+GQm6/98//3/z///7Fn8/6z+/c+///+q3f293/7//+z//+/9/97f/v/v/P//3/noiHi3ybuHu+17z////P//nv///+/////7/v//////7///7/v+/9/////v///v+ejuvPz/r6/dz8/6+u3M/P+vtnnf3/z+///8//////++7f//7/zv///978mVRESJp0RDMzWrcyOYllVkIjZSJFuLqbp8e7eqm6fIu3qpunyLt6qbp8gA==" TITLE="Miguel ft Chris Brown x Future - Simple Things (Dj Rukus Intro - Dirty) 5A 81"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015/:HipHop/:" FILE="Miguel ft Chris Brown x Future - Simple Things (Dj Rukus Intro - Dirty) 5A 81.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="273" PLAYTIME_FLOAT="272.64" IMPORT_DATE="2015/11/6" LAST_PLAYED="2015/12/12" FLAGS="14" FILESIZE="10672"></INFO>
+<TEMPO BPM="81.0003" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.845966" PERCEIVED_DB="-0.381485" ANALYZED_DB="-0.381485"></LOUDNESS>
+<MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="32.0583" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/17" MODIFIED_TIME="73332" AUDIO_ID="AQoFmZiImYiIiImJmaiYmZiZmZqqq6qZqqmaqaqqq6qqqqu7zN7///////////////////////////////////z///u7y7zMzsvMzdzu/t3sj///////////////////////v//////////////////////////////////+3v/+3e7N7//97v/+/////5////////////3///////////3N7v///t7u3u7u//7v////j///////////////////////n//////////////////////5//////////////////////+auqqqqpqqqrq6uqqqqqqrq6yoZCEQAAAAAA==" TITLE="Levels (Alex Ghenea Remix) (Extended)" ARTIST="Nick Jonas"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:" FILE="105 bpm - Nick Jonas - Levels (Alex Ghenea Remix) (Extended).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="266" PLAYTIME_FLOAT="265.822" IMPORT_DATE="2015/11/27" LAST_PLAYED="2015/12/12" FLAGS="14" FILESIZE="10412"></INFO>
+<TEMPO BPM="105" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.712789" PERCEIVED_DB="-0.664963" ANALYZED_DB="-0.664963"></LOUDNESS>
+<MUSICAL_KEY VALUE="10"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="650.958" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65833" AUDIO_ID="ANwr/N7f7d3e3f3vzt3t38793e7d/O/M3+7//e283u//3rmu7//+7b3Kz9/t297u/+/uvdzv//7s3d/v/97O297f/c3e/////////////////////////////v/////////////////////////////7rLrbd2vN///dvd7v//3Zzd////3N7v/f/KzMqs/d/Yfbjvvf6v///////////////v////////////////////////////3////////////////////////////////////////////////////////////t39793e7d/e/N7d3f3v3O3d7t79zoEAAAAA==" TITLE="Sorry (Clean)" ARTIST="Justin Bieber ft Skrillex &amp; Blood"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:" FILE="Justin Bieber ft Skrillex &amp; Blood - Sorry (Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="4" PLAYTIME="221" PLAYTIME_FLOAT="220.082" IMPORT_DATE="2015/11/27" LAST_PLAYED="2015/12/12" FLAGS="12" FILESIZE="8600"></INFO>
+<TEMPO BPM="100.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.618953" PERCEIVED_DB="-1.68059" ANALYZED_DB="-1.68059"></LOUDNESS>
+<MUSICAL_KEY VALUE="10"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="255.244" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/17" MODIFIED_TIME="73590" AUDIO_ID="AP6Mu7zMy7u8zMu7zMy7u8yrqalkdTN0NnZndlh4mGVnZHd2h4mXiqh4llh4mnZod4hnh3mWiompmZmaqpmpmqqt3dyHa+/////f///+//////////7////f///+zMuZmHh1SP7//v/v////7//v/v///////////////v/u/+7/7tu7uKynvMm+qbh6m5qJ//2s66zcvv//27qqrMup/9uqmZmKuqmZm7us3d2nav/////u//////////////7//v/u///8mIl4iHh2au7////+////7/////////////////////////////3MzNy7u8zcy7vMzMzM3XQyIRAAAA==" TITLE="On My Mind (Jax Jones Remix)" ARTIST="Ellie Goulding"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:house/:" FILE="Ellie Goulding - On My Mind (Jax Jones Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="254" PLAYTIME_FLOAT="253.536" IMPORT_DATE="2015/11/27" LAST_PLAYED="2015/12/12" FLAGS="14" FILESIZE="9908"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.903252" PERCEIVED_DB="-0.802475" ANALYZED_DB="-0.802475"></LOUDNESS>
+<MUSICAL_KEY VALUE="0"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="501.356" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="8" TYPE="PROTOCOL" UUID="e61895368d5e4dd3a4fdcb2d83fdbb46"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:house/:Ellie Goulding - On My Mind (Jax Jones Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="15.6613" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058124" STARTTIME="75327"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:Ellie_Goulding_On_My_Mind_(vmusice.net).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="22.923" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058124" STARTTIME="75345"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:Justin Bieber ft Skrillex &amp; Blood - Sorry (Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="16.3201" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058124" STARTTIME="75369"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:105 bpm - Nick Jonas - Levels (Alex Ghenea Remix) (Extended).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="24.4612" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058124" STARTTIME="75387"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015/:HipHop/:Miguel ft Chris Brown x Future - Simple Things (Dj Rukus Intro - Dirty) 5A 81.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="10.3761" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058124" STARTTIME="75414"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015/:HipHop/:JT Money - Who Dat (DIRTY) (QH) (Marty Mar Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="13.2466" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058124" STARTTIME="75425"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015/:HipHop/:Drake - Headlines (DIRTY) (Marty Mar Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="16.413" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058124" STARTTIME="75440"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:סקיי, סטאטיק ובן-אל תבורי - #דוביגל (DJ Ron Margan Extended Mix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="12.698" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058124" STARTTIME="75458"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

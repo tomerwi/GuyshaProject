@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="2"><ENTRY MODIFIED_DATE="2014/10/17" MODIFIED_TIME="65078" AUDIO_ID="AOojNEVVVWRERVVWjLm83Km6zc3f/bp1eZhXiZ/8u+vKrf//////////////+szLq6/9q83Ju////////////////8h5h//v///////+///+///+////////////7/41VXZYZ3dVd1hmd6r//v///v///v/////2NniWdWaHVXd4WImb/+////////7///7//////////////////CNlWUVlaVRmaHSIaf/////+///+//////UkZoVohWZDdnhVaq3//////////////v///v///v/////////7Q2VUJWZDVUM3YzZ17/7///3///3///7///7////v///f///f8A==" TITLE="Hot Nigga (Twerk to Original Trans 99-84 - Dirty)" ARTIST="Bobby Shmurda"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014 - עדכון 1/:Hip Hop/:" FILE="Bobby Shmurda - Hot Nigga (Twerk to Original Trans 99-84 - Dirty).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Dms"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COVERARTID="065/BOUURUC54REDADYF50IYA2HWTEHD" PLAYCOUNT="1" PLAYTIME="235" PLAYTIME_FLOAT="234.214" IMPORT_DATE="2014/11/1" LAST_PLAYED="2014/11/1" FLAGS="14" FILESIZE="9648"></INFO>
+<TEMPO BPM="84" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.54386" PERCEIVED_DB="0.0393982" ANALYZED_DB="0.0393982"></LOUDNESS>
+<MUSICAL_KEY VALUE="2"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1154.73" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/10/17" MODIFIED_TIME="65080" AUDIO_ID="AJRXhzdDc2YiNZlkVTY0dEZpaFdWZmZWVXy7qrvP///I////7LhTRFmHaGdYhWd3m8h2dniENGaql4Z3mYVWd4mciZx5jJqLzM/////////////////////////////////////////////9p1b////////////////+uZi///////////////93qpmN///+zKYzRHh2d2aIZXd4urZ2hohjRVireWhpmXVXaImqibmIuqiczO////////////////////////65mM////////////////////+YcmQ2NlEjWYY1UmJHM2WZYhIyIzITJ4gxFCISMjRrcxEAAAAAAA==" TITLE="Gimme The Light (Mastamonk Twerk Remix)" ARTIST="Sean Paul"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014 - עדכון 1/:Hip Hop/:" FILE="Sean Paul - Gimme The Light (Mastamonk Twerk Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Dms"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COVERARTID="065/BOUURUC54REDADYF50IYA2HWTEHD" PLAYCOUNT="1" PLAYTIME="149" PLAYTIME_FLOAT="148.114" IMPORT_DATE="2014/11/1" LAST_PLAYED="2014/11/1" FLAGS="14" FILESIZE="6288"></INFO>
+<TEMPO BPM="107" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.07011" PERCEIVED_DB="-0.855545" ANALYZED_DB="-0.855545"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="22.8628" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="2" TYPE="PROTOCOL" UUID="48ea36ca894c4ea3afb161b5e3a0f889"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014 - עדכון 1/:Hip Hop/:Bobby Shmurda - Hot Nigga (Twerk to Original Trans 99-84 - Dirty).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="82.3769" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="131992321" STARTTIME="67839"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014 - עדכון 1/:Hip Hop/:Sean Paul - Gimme The Light (Mastamonk Twerk Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="44.4293" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="131992321" STARTTIME="67924"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

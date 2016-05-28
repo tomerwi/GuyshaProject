@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="3"><ENTRY MODIFIED_DATE="2016/2/23" MODIFIED_TIME="72882" AUDIO_ID="AOMRERERERERERERIjMzRUREZ1ZWdmeHmYiHeYeJd3Z2d4zKzf7svczcvv3c3dvr3q3c3MzN3N3O/v//3Mzd7////v/////8zdvO///vzv77z/////////////7P/////////////9///////////////v//////////////h4h3iHipd3d3iLy83/zs39273c/s3b3Nytu9/f/u3P7f7v//3d7f/97t3v/s3/7tz//v/N3t79/q/////////////97//////////v///P//////////////7//////////////7//////////////7//u/+////7/3v/YMhAAAAAA==" TITLE="Cheap Thrills ft. Sean Paul (Treave Laces Bootleg Reggaeton Remix)" ARTIST="Sia"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:February2016-Update1/:HipHop/:" FILE="Sia - Cheap Thrills ft. Sean Paul (Treave Laces Bootleg Reggaeton Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="256000" GENRE="Reggaeton, Remix" PLAYCOUNT="1" PLAYTIME="228" PLAYTIME_FLOAT="227.318" IMPORT_DATE="2016/3/4" LAST_PLAYED="2016/3/4" FLAGS="14" FILESIZE="7100"></INFO>
+<TEMPO BPM="94.9995" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.758079" PERCEIVED_DB="-1.59001" ANALYZED_DB="-1.59001"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="27.8605" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/2/23" MODIFIED_TIME="72972" AUDIO_ID="AQYANyRFYhQSZaFCAkQzFGVAAAAAAAAEd2eXd3iqqqq7qquqqrqampmpqpupyqysusu8qnZore7u7u7u3u7u7t7v/v7//u7v/v//7v////7u7u7//u26vKuquaqqqamrm8nLvK3Ly7hmeL3v7u7t7e7e7u3u///+/+7u/+7//u/+///+7u7+//7bvMqbq7vKrdu6y8q7qqq7rKqryry7qcu6q5qaururmrqrvKqqqZpneJze/u7u3u7+7u7d7/7///7u3/7v/+7/7///7u7u///tmqqqu7qrmaq6q6qZuqu8dERENFVCERAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==" TITLE="Sia_-_Cheap_Thrills_Lyric_Video_ft_Sean_Paul[www.MP3Fiber.com]"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:February2016-Update1/:HipHop/:" FILE="Sia_-_Cheap_Thrills_Lyric_Video_ft_Sean_Paul[www.MP3Fiber.com].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="262" PLAYTIME_FLOAT="261.851" IMPORT_DATE="2016/3/4" LAST_PLAYED="2016/3/4" FLAGS="14" FILESIZE="10232"></INFO>
+<TEMPO BPM="90" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.851205" PERCEIVED_DB="-0.995903" ANALYZED_DB="-0.995903"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="685.664" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/3/4" MODIFIED_TIME="62136" TITLE="Dj Matan Richter - Forever HipHop Mini Set 2 February 2016) LIVE!"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:February2016-Update1/:sets/:" FILE="Dj Matan Richter - Forever HipHop Mini Set 2 February 2016) LIVE!.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="971" IMPORT_DATE="2016/3/4" LAST_PLAYED="2016/3/4" FILESIZE="37932"></INFO>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="4" TYPE="PROTOCOL" UUID="f6d73826a48540c5895ef4e95dd79215"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:February2016-Update1/:HipHop/:Sia_-_Cheap_Thrills_Lyric_Video_ft_Sean_Paul[www.MP3Fiber.com].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="114.651" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132121348" STARTTIME="78852"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:February2016-Update1/:HipHop/:Sia - Cheap Thrills ft. Sean Paul (Treave Laces Bootleg Reggaeton Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="27.468" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132121348" STARTTIME="78881"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:February2016-Update1/:sets/:Dj Matan Richter - Forever HipHop Mini Set 2 February 2016) LIVE!.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="61.1381" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132121348" STARTTIME="78964"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:February2016-Update1/:HipHop/:Sia - Cheap Thrills ft. Sean Paul (Treave Laces Bootleg Reggaeton Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="27.9092" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132121348" STARTTIME="79045"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

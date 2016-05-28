@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="2"><ENTRY MODIFIED_DATE="2016/1/16" MODIFIED_TIME="53498" AUDIO_ID="AMa/////////////f//////////4jv////////////3/////////////vOuoyuqb67rs66zqqs7b//rf/+qs/8u//L3+ze/9vv7M/+3P/u7+vNy73Ny9zczd7u/+/////////////////////////////////////////////////////////////euruZmahnmZms7avv/Nz+6+/+7/ze/s7v7O//3v/v////7////////////////////////////////c//////////////////////79u///////////////////////////////////////6P///////////w==" TITLE="Love is My Game (Phase Edit)" ARTIST="Dr Kucho, Gregor Salto, Lucas &amp; Steve"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:January2015-Update1/:Deep/:" FILE="Dr Kucho, Gregor Salto, Lucas &amp; Steve - Love is My Game (Phase Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="Static City"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Club" KEY="6A" PLAYCOUNT="1" PLAYTIME="199" PLAYTIME_FLOAT="198.165" IMPORT_DATE="2016/1/21" LAST_PLAYED="2016/3/4" RELEASE_DATE="2016/1/1" FLAGS="14" FILESIZE="7756"></INFO>
+<TEMPO BPM="126" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.612449" PERCEIVED_DB="-3.2138" ANALYZED_DB="-3.2138"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="29.3643" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/1/30" MODIFIED_TIME="53376" AUDIO_ID="AVdpiYiYmYmJmJiZmauqqZmrm6m6qpupVpqrqqq6q6qqqaqqq6q6qquruszcu6uZh2ZlZUZnZVZWZFd4dnZnZXd3ZoZ4Z4d3aZd3WJl2eXdneXvcvdzb3u3KzNy83tzLzcy93sy83cu7rtvN3crd/cvd3Mze3bvdzL3e3L3dzLmnQzMiIkZmZmVWZmZlVmZlZ2d2iGVGiZl3qHebyb3Lzty87s2r3cy+7cy83MzN7NvN3Muq7bvd3L3u3b3d3M3ty73ty97t293dzLvdy87Mve7MrM3Lve3MvNzL3ezLzNzdysu6u6uqqrqqq6q6u6qqqqmqtURDREVWMQAAAAAAAA==" TITLE="Fast Car (Rare Candy Remix)" ARTIST="Jonas Blue (feat Dakota)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:February2016/:deep/:" FILE="Jonas Blue (feat Dakota) - Fast Car (Rare Candy Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Record Pool Exchange"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="343" PLAYTIME_FLOAT="342.648" IMPORT_DATE="2016/2/12" LAST_PLAYED="2016/3/4" FLAGS="14" FILESIZE="13388"></INFO>
+<TEMPO BPM="124" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="1.79163" PERCEIVED_DB="1.73543" ANALYZED_DB="1.73543"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="25.3196" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="2" TYPE="PROTOCOL" UUID="fdfcb6adf8dd4923a49edd4caf2deeab"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:February2016/:deep/:Jonas Blue (feat Dakota) - Fast Car (Rare Candy Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="26.2375" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132121348" STARTTIME="79278"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:January2015-Update1/:Deep/:Dr Kucho, Gregor Salto, Lucas &amp; Steve - Love is My Game (Phase Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="10.1701" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132121348" STARTTIME="79319"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

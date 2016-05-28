@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="2"><ENTRY MODIFIED_DATE="2012/5/23" MODIFIED_TIME="71564" AUDIO_ID="ANY5mZmpqaqqqqrO7f3tzd7e3d3d7e3d397u/7v////////////////////83v/////////////////////rzdl4dnd3iIiJmZmZmru7urvMzN3Zr/////////////////////3u///////////////////////M+6q6urqququsqquqq8q7uqqqdlQzIll5d1mYhpeodHdnd1d6l3jJdqmImomKmYnMucvMzLu8u83cy8u7u6qZmYmJmId3iJiqu83f//uu//////////3P/////////97f///////////////////////5iJmpqaqqq6urq7q6uqqqmqpCERAAAA==" TITLE="Lick It" ARTIST="Kaskade &amp; Skrillex"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Kaskade &amp; Skrillex - Lick It.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="Desire2music.net"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Electro House" KEY_LYRICS="DailyTunez.com  *Your #1 Source for Exclusive Electronic/Urban Music*" COVERARTID="026/0A353KBAEL1CBB25OLSOCOFXLWEC" PLAYCOUNT="1" PLAYTIME="215" PLAYTIME_FLOAT="214.361" IMPORT_DATE="2012/5/23" LAST_PLAYED="2013/11/1" RELEASE_DATE="2011/1/1" FLAGS="14" FILESIZE="8512"></INFO>
+<TEMPO BPM="127.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.96496" PERCEIVED_DB="-0.570534" ANALYZED_DB="-0.601943"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="118.501" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2013/11/1" MODIFIED_TIME="51110" AUDIO_ID="ANQAAL//uDRby2hruTR6zN///u/v/8///6/v/5///5/8/6///7/+/+z///////v///79//r///////r///////3v//+fn/////6Pn/+f//+f3f+///++/f+v///+/P/t///6/f/7///6///8///6///////////9z////9//v///////r///////3//7dGWshYz/x/b/tP//+Pr/+f//+P3P+f//+c/P/d///Y+v/r///7/P/7///6///7///97//9///+v+///////+//3///7///r///////z////////v//xvj/+v//+fvv+v//9t2v/P//+8+P/b/1AAAAAAAA==" TITLE="Dim The Lights" ARTIST="Vicky Feat. David Jassy"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="02- Vicky Feat. David Jassy - Dim The Lights.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="2" TITLE="Segalovich BASE Vol. 9"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" COMMENT="Segalovich BASE Vol. 9  DJ Or Segalovich" COVERARTID="126/4PDJW2CUBHPBRACOCTREAVIM3XZD" PLAYCOUNT="2" PLAYTIME="212" PLAYTIME_FLOAT="211.984" RANKING="255" IMPORT_DATE="2012/5/23" LAST_PLAYED="2013/11/1" RELEASE_DATE="2011/1/1" FLAGS="14" FILESIZE="5132"></INFO>
+<TEMPO BPM="93.9996" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-3.92064" PERCEIVED_DB="-2.60053" ANALYZED_DB="-2.62111"></LOUDNESS>
+<MUSICAL_KEY VALUE="0"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1308.93" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="2" TYPE="PROTOCOL" UUID="e439f3361e2848ee8ce6cd6f2250289d"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:02- Vicky Feat. David Jassy - Dim The Lights.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="89.8082" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="131926785" STARTTIME="59586"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Kaskade &amp; Skrillex - Lick It.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="52.2889" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="131926785" STARTTIME="59679"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="111"><ENTRY MODIFIED_DATE="2015/5/17" MODIFIED_TIME="35227" AUDIO_ID="ASYEWcfNjXv6+p+uzP7Lj7nG/558+Oi//5v77c+66v7fn/3o346r+Pqvv9v//L/ZyP+vivnarv6e+syf/eXNvq3//P+/rv3tv9/c/////v7/3/37/c//vvu8f/7nzn6L/uq/rrz6vJ/d+//Oi/jpv32a+/uf//r//8/9///v3///3+///////P7//+766L//vvzcn//q776u+vvPr9v/+n+s1v7Ojvro3/6Z9/ufrt/6vY3/6N+OrPr8/569//6/7uz/3+/+/O//7v/+7+///9/P//jPr77/++++2//////o/////fm//7j97Y//6/+vz//5v7/a//3v/vr/0gAAAA==" TITLE="Never Be The Same Again" ARTIST="Melanie C"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="03- Melanie C - Never Be The Same Again.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="3" TITLE="Segalovich BASE Vol. 10"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" COMMENT="Segalovich BASE Vol. 10  DJ Or Segalovich" COVERARTID="095/5CVRLWDNRJR12B4XQI2SCZOLRINB" PLAYCOUNT="3" PLAYTIME="295" PLAYTIME_FLOAT="294.217" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2011/1/1" FLAGS="12" FILESIZE="4796"></INFO>
+<TEMPO BPM="80.0452" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-4.09151" PERCEIVED_DB="-2.23053" ANALYZED_DB="-2.23228"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="446.072" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/4/24" MODIFIED_TIME="75295" AUDIO_ID="ALJLzKqpiYebu9//7cu9y7qrmZq73Ly6u7qqzKu6mqqKu5mpm5ipqpiZmLqqq6mIqZqomZqouqqZmZqqqpiaqpmam6mpmJqIeImJmrmpupupmZuoupmZiLuqqqqamJmZqpmamZmZqYmImomqqYm6qZiZmZqpeZqoiJmZmKmZiIiKmIiZmIiJqYqaiYiYmbuqmrqaqby6qqqru8uqmIq7uqiZmZmZmaqampiZmquYiZqZiamImomqmaqZqImpuoqquYmqiqmZqrqqibupiJu6qqeKqqq7qpq6qJiqqYqIqpmamqq5u6u5q6qpmZmYnKmZmIiIh4ZlVEQyIiIiEREREA==" TITLE="בייל ייח הל יתתנ" ARTIST="תרווכ"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="02.נתתי לה את חיי.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="2" TITLE="כוורת בפארק - דיסק 1"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="ישראלי" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="Em" PLAYCOUNT="69" PLAYTIME="179" PLAYTIME_FLOAT="178.024" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/4" RELEASE_DATE="1998/1/1" FLAGS="12" FILESIZE="4204"></INFO>
+<TEMPO BPM="109.978" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.104689" PERCEIVED_DB="1.21947" ANALYZED_DB="1.19743"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="115.588" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="ANMUVDRDVWZ4mIh3iHh4mIh3iIiHmKuJm5iIqbuZqYmImqmap4h4qZiJqHiKm7iKqZiKqZmcqYiLqamKh4eKqZebl4mqqrisqrq827urrP28y8irmqut3MvMvM2ZiId5iIeIeId4mZeKipmpiIiKmZnKqYiampmqmYeLmoi7qIiqm4mrmJiqmpnLmJm7qJmqmYiqqomZmYmqqprKq6vNvLrK39vMzJrKu8zdzKzLzNmqqrmpuaupqampmZqJurqay5qaurmay8uqupu5qqvb26u7/szLyZu6urzc2s27zMqJqZqZmJqZqqqaus3d2ayru83d2727vdqJqZdkMhAAAA==" TITLE="הרוחש וו.מ.ב" ARTIST="סקינתא"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="אתניקס - ב.מ.וו שחורה.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="Am" PLAYCOUNT="103" PLAYTIME="211" PLAYTIME_FLOAT="210.887" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="3332"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="96.964" BPM="96.964" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-3.25913" PERCEIVED_DB="-1.16053" ANALYZED_DB="-1.19933"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="139.851" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/12/11" MODIFIED_TIME="80882" AUDIO_ID="ATgEZWZW//////////////////qI////////95///////////////////////////////////////I//////////////////2I/////////a3////////////////////9zN3d3d3t3N3e3NvdqH7/////////////////+Z7/////////////////92r//////////////////oz/////////////////+Yv///////////////////////////////////////+1RVT/7//P///////////////bv73Kz///////////////////////////////////////+TAA==" TITLE="Stronger" ARTIST="Kanye West"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Stronger - Kanye West [NCT 8257851743].mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="1412" TITLE="NhacCuaTui.Com"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" GENRE="Nhac Anh" COMMENT="NhacCuaTui.Com - Nghe Nhac Moi Luc Moi Noi" PLAYCOUNT="20" PLAYTIME="313" PLAYTIME_FLOAT="312.085" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2007/1/1" FLAGS="14" FILESIZE="4928"></INFO>
+<TEMPO BPM="103.981" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-4.70344" PERCEIVED_DB="-2.22332" ANALYZED_DB="-2.22332"></LOUDNESS>
+<MUSICAL_KEY VALUE="15"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1467.33" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/12/11" MODIFIED_TIME="81052" AUDIO_ID="APsFq9uph4rMp2h3hUeHiHic24iIiHh5mZqZzcqaqqqpq7urvO3LzMdWnP///////////////u//6omqqrzf3d2oiYhoyZqa/////////////////////////////////////97/7dupuZqt25mruqy6zLy97ty8r////////////////+/////8u8v////////v//////////////////////////////////////////+ru8u7zMy7u8zf/KiHeI3d3d7d3//d3u3e7+3u7uu9387v/P3f/+69///v////jf///q1f///////+////+d////r2///////5dCEAAA==" TITLE="Smoke Weed Everyday (Rasmus Hedegaard Remix)" ARTIST="Snoop Dog"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="_Smoke_Weed_Everyday_(Rasmus_Hedegaard_Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="1"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="D#" PLAYCOUNT="45" PLAYTIME="251" PLAYTIME_FLOAT="250.776" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2011/1/1" FLAGS="14" FILESIZE="5920"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="99.999" BPM="99.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.87246" PERCEIVED_DB="-2.68539" ANALYZED_DB="-2.68539"></LOUDNESS>
+<MUSICAL_KEY VALUE="3"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="0" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7177" AUDIO_ID="ANoGn/x2iYisusdmac3+257Jvu7Mu///////3//////+/////////////9/7h9lnfO7Liaqqupqqubq8vO28y93tzf3Nz+7c7t3//K7//////6v/mq/7nL/uvM//////////////////////////////uZ2Xq//cuau7u7q6u6u83N/b3d3t3O/d/f3rv+7v/8y+/e/Nzt7//////f///////pmt+piv+8zv2839z//9//////7v/////////////v////////////////////79///v//zf/////r///v///////////////////////////////+tjEQAAAAAAAA==" TITLE="fifa world cup - bamboo - mundial 2006" ARTIST="shakira"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="shakira - voices from the fifa world cup - bamboo - mundial 2006.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="6" TITLE="Voices From The FIFA World Cup"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="Pop" LABEL="Sony" COMMENT="iNTERNATiONAL DOWNTOWN TRAiN" COVERARTID="029/32NGUACU4GX5MCTKTBOUDAWVOQOC" KEY="Am" PLAYCOUNT="29" PLAYTIME="218" PLAYTIME_FLOAT="217.626" RANKING="255" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2006/1/1" FLAGS="14" FILESIZE="5456"></INFO>
+<TEMPO BPM="105.002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.170962" PERCEIVED_DB="-2.17366" ANALYZED_DB="-2.17366"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="134.349" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67255" AUDIO_ID="AQoTMiMzNdlKu5nt21idicz6XN6JvOlr3J3v+63/v//4vP7v7/mu/8//68/87//5z/7P/9rd/d//yM793//K3v7//8rf/f/9uu/8//+q3/v//Zv/3f/+i+/r//yL797v/Y3/3f/8rv/P7/18/83+6oz/v//5nP/P/9mt////9679v//Jzfu+/+nv/e//uv/9//+5z/zv/5q/7f7/qu/8//68/97//5v/7f/8i9/u7vxd7+n/+4v/7//7jf+//9u//7//+7//v//pv/////i+/8//2L39///Y3v3P/9rv/P//tc/5v/+Hvur//3fP1r/+aM/Z7dxGmnRmZBIzIREQAA==" TITLE="Wonderful" ARTIST="Ja-Rule Ft. Ashanti"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Ja Rule _ Wonderful.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="5" TITLE="www.KeepThuggin.com"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="R&amp;B" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" COVERARTID="012/MEBZMHBNXHFJYAGYX2AYAN3JKN3D" PLAYCOUNT="24" PLAYTIME="267" PLAYTIME_FLOAT="266.292" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2004/1/1" FLAGS="12" FILESIZE="6464"></INFO>
+<TEMPO BPM="92.6955" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.40261" PERCEIVED_DB="-1.16311" ANALYZED_DB="-1.16311"></LOUDNESS>
+<MUSICAL_KEY VALUE="23"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="2029.33" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="AM4DdleIiFaHeWV3eIeIeaZ5ZpdnmItnlnl2iHi7zczr3t3Ny9y9ze3MzM7L687N7M3Mrtzs3/3rzP/v/f/eu9/+/+7P////7u//3+7//u/6eLaLeKd6h5p4t4uHrMzMvtzrzbzc3N3ezOvOzN3d3M7M27zN3d3/zrv/////7Nu/7/7+3////+/P/v//7/7//5m5m5eairecqsmLu8/f/e/u///9/97/7+7ruYiIl6ismoeKp4qpq3dma7uLmZd1ZpiIqHe8vNu6mrqazty7qrnv/8v//////Nu//v7/3////9/P//////3+/7z8zdzPvPrPvOy926YhEQAAAAAAAA==" TITLE="Got 2 Luv U" ARTIST="Sean Paul Ft. Alexis Jordan"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="09- Sean Paul Ft. Alexis Jordan - Got 2 Luv U.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="9" TITLE="Segalovich BASE Vol. 6"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" COMMENT="Segalovich BASE Vol. 6  DJ Or Segalovich" COVERARTID="005/FIEX5ADEOTIM0BUURKP4BVKOWEPC" KEY="Gm" PLAYCOUNT="219" PLAYTIME="207" PLAYTIME_FLOAT="206.184" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2011/1/1" FLAGS="14" FILESIZE="5020"></INFO>
+<TEMPO BPM="92.0002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.881082" PERCEIVED_DB="-1.51215" ANALYZED_DB="-1.51215"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="993.285" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="231431" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7174" AUDIO_ID="ARlqioqKqKiomImKipmoqKiai53P/////////////////////////fzu////////////////////+nd4/////////////////////////////////////////////////9/O///+/////+/v//7////////////v///////////////////////////////////+///////////////////////////////////////////////////////////////////////+///////////////v/////7vMydvLrKqczOrL2r6snKqpzMmqmoqLmaiXuqqKi4qYqKiYm2AAAA==" TITLE="Im Into You (Dj.D.Style &amp; X-Mix Extended) {94 BPM}" ARTIST="Jennifer Lopez F Lil' Wayne"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Jennifer Lopez F Lil' Wayne - Im Into You (Dj.D.Style &amp; X-Mix Extended) {94 BPM}.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="G#" PLAYCOUNT="300" PLAYTIME="282" PLAYTIME_FLOAT="281.424" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2011/1/1" FLAGS="14" FILESIZE="11036"></INFO>
+<TEMPO BPM="93.9988" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.72437" PERCEIVED_DB="-3.69705" ANALYZED_DB="-3.69705"></LOUDNESS>
+<MUSICAL_KEY VALUE="8"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="2264.81" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7177" AUDIO_ID="AO99qJeIeXiIl4iJraiIeIiKqZmqut///quovYmpuqqv/+y6zd7v//uWn//cmId2dWh4iM//7bvN3u/////N/cuqu7q8y8u8ut27urqqm6q6ulfv28q7u6y7vLyL3rvLu7u7u6/v1r/M3M3dzczd3/2/3d3N3tzd3v/e7/3dzu2p7uzdve/93d/+yu/u3/////3d7MytvKqprv/+/t/P3P3u/8z+zczKvNu8z/7/3f///+3r3c///////u////////7//qmZl4mZd2ma///KqZiJiYd4qK/M3Lzdy7vd3/2u7N3N3dzc3u/al3V4aHZ2VHhncwR1eHd2dlRod3MAAA==" TITLE="Hermetico (SpenzatioN)" ARTIST="Balkan Beat Box"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Balkan Beat Box - Hermetico (SpenzatioN).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="Hip Hop" COMMENT="SpenzatioN!" KEY="Gm" PLAYCOUNT="354" PLAYTIME="240" PLAYTIME_FLOAT="239.047" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="5644"></INFO>
+<TEMPO BPM="101" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.30405" PERCEIVED_DB="-2.38744" ANALYZED_DB="-2.38744"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="38.2939" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7174" AUDIO_ID="AOYEZ2dXd4h2eGh1aJd4adrM68ytu7hmeIl2U1jdzd29zdyqmaqpq4eIdGdleHd1aKurq7u826p6lomXeHmqmqmquHiZ3Ozc3s7O/93e7e39/d3P3t3d3Ourqbzuzc/XVmVWV2ZWeIiYmZqYm+vc3N7Nyr7e39397f2XeHdoqomqu7y7vM3d7b69ztzt7/39/e7f397c7e7d7d66qovO3diLysvLzL3N/83e3Ozt7d2dzLy8ve/c7O3tze2meFd3eIRlq5uqq83MqnmliJiXabeaiY3Mpovd3e7dzs3O7e3+/e3+25usm6rczevc2829zayoZTMyIiIhEAAAAAAAAA==" TITLE="Down On Me (Feat. 50 Cent) (www.Desire2Music.net)" ARTIST="Jeremih"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Jeremih-Down_On_Me_(Feat_50_Cent).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="All About You "></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="160000" GENRE="R&amp;B" KEY_LYRICS="www.youheardthatnew.com" KEY="Dm" PLAYCOUNT="125" PLAYTIME="230" PLAYTIME_FLOAT="229.669" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2010/1/1" FLAGS="14" FILESIZE="4524"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="160.002" BPM="160.002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.00687" PERCEIVED_DB="1.2195" ANALYZED_DB="1.2195"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="307.706" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67256" AUDIO_ID="AQebzXZIuH28pFdgLLvEdKxcrNVkpDv/////////79/////////+/+/v///cuarOrbvpqc69vem6vbzN24mryez9m8v6/e6rvP3/z7ut/d/P+Wqrz//+7///7/7//////+//////3+///c6Jm+7e37iKza/d2Ku/v8z6dmmvz/qsvuzu7Jy+/f//qq77/e/Ierr///7///////////////////7////HZs2neqqoeqp5/LybnNzNzbuq3Y/////////9/P////////////////7Nvc/97P/MvOyZvcms/9ysyKv8z//5payIy8hVhQPby0ZaxMrNRzoQAAAAAAAAAA==" TITLE="Ridin' Solo (Mordi Mor Extended Mix!) -90-" ARTIST="Jason Derulo"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Jason Derulo - Ridin' Solo (Mordi Mor Extended Mix!) -90-.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Blues" PLAYCOUNT="196" PLAYTIME="264" PLAYTIME_FLOAT="263.232" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2/1/1" FLAGS="12" FILESIZE="10324"></INFO>
+<TEMPO BPM="90" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.33874" PERCEIVED_DB="-3.64281" ANALYZED_DB="-3.64281"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.9982" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/2/14" MODIFIED_TIME="38073" AUDIO_ID="ARdXd2iIucZ3aXi5xYdpebnFh2lpz/zP3sz97M/eze/87+/O/uvu3s292by9vdvb3c297NrMva3c7N3d3t3a7d6/7uvt38//2/3dv+7a7e5lv9v93b/e2/3c3u/c/f/v//7+/+//3f3u7//u/u//783t7N/uzf39//7O/fzv7s7t/f/+vu3r7u6+7dzd/7/+/f//3/79///P7vz//9/+//y1Vlfc/u/P//39/9//7f3/3+5meuzf3tz97d+VVa/979/u/v7v7+7//N7P3v7+/+/dz/v/37/+/P/vv/77/++v/vz/76/vtJaJa5uVlohrnJWGiGuchoaIe5kQAAAAAA==" TITLE="Kanye West - Heartless (Dj OoriShviro Extended) -88 BpM-" ARTIST="Kanye West"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Kanye West - Heartless (Dj OoriShviro Extended) -88 BpM-.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="Dj OoriShviro"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="224000" GENRE="Black Music" COMMENT="Dj OoriShviro" KEY_LYRICS="Dj OoriShviro" COVERARTID="027/1IR3WDBAGSVHOALDBUXEDYGLHYPA" PLAYCOUNT="24" PLAYTIME="279" PLAYTIME_FLOAT="278.779" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2/1/1" FLAGS="14" FILESIZE="7788"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="87.977" BPM="87.977" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.319542" PERCEIVED_DB="1.66281" ANALYZED_DB="1.66281"></LOUDNESS>
+<MUSICAL_KEY VALUE="22"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="464.324" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7177" AUDIO_ID="AOAlVVVWVFZFRnd1d3d3eHd3Z4eDAAJGiId3d3Zld4h2Znd3eYiDRmZDd2ZWRnZ3dnd2dndmZ2ZnZUQzd2ZmZ2Znd4h2dlZ3ZlZXdmdlZERWdnl3h3h3d4d2dmd4IAA1aIh3eGZmaHdnd3d3eJiIZWZUZUVURFZ3d2dWZTNWZ3dnZmZWV2iHdnVoVlZ4qXZ3eIZlV2eHZ3ZlV3d3h2d3eHhodmd3cgADVoh2eIdmZoZ3dod3d3hGZUQzQ0MzNUZ2ZmVmZ3d3ZmZmdkREVGZWZmYzRFZmZmZXdmZnVmZ3d3ZWRXZneIZ3d4eHd2Z3dxABNXiHZ3d2ZmdnZ2h3Z3iHkA==" TITLE="DJ Khaled Ft. Ludacris, Rick Ross, Snoop Dogg &amp; T-Pain- All I Do Is Win " ARTIST="[ BlackMusic.co.il ]"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="DJ Khaled Ft. Ludacris, Rick Ross, Snoop Dogg &amp; T-Pain- All I Do Is Win .mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="[ BlackMusic.co.il ] [07.2.10]"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="256000" GENRE="[ BlackMusic.co.il ] [07.2.10]" COMMENT="[ BlackMusic.co.il ] [07.2.10]" COVERARTID="026/02I50LCEHZYL4DPT0OA5CNUYZZSD" KEY="Dm" PLAYCOUNT="107" PLAYTIME="225" PLAYTIME_FLOAT="224.444" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="7156"></INFO>
+<TEMPO BPM="149.997" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.284125" PERCEIVED_DB="4.3033" ANALYZED_DB="4.3033"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="18.5267" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7174" AUDIO_ID="ANQDRpqWaWh4d4mv/sz+6e/cm5upmad6qKdoeJi//+n//v/+r//v//7//v/////P/////v////vP//7//f//7//unInMzMjJq8zv/53+2v/63Lyv/8///P/72+3f/83/+/762+zsqnmrrP/93////+///f/9//+//+///P/7+9zf/9///v/8///9nHu9vbnJu9v//6//zf76+8vP/8//3P/7/czv/7//3f766/r//53//v/639r//8////yqu8rv/9///uzb3Nv//8/////8///7mnyeronIudv+uk3Nbfu0trS+uXzMbPuWlaa9y33Oety2tbaO/Vq8dGVBERAAAA==" TITLE="Sean Paul - Temperature"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Sean Paul - Temperature.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="Other" COMMENT="?                             " KEY="B" PLAYCOUNT="268" PLAYTIME="213" PLAYTIME_FLOAT="212.114" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="5024"></INFO>
+<TEMPO BPM="127.945" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.62754" PERCEIVED_DB="-3.68873" ANALYZED_DB="-3.68873"></LOUDNESS>
+<MUSICAL_KEY VALUE="11"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="378.373" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7174" AUDIO_ID="ARslVJhmdnd3iXirq8zM3///////7/////7//+vv79/P//78/Jn////v/////br/3//v//7+/+3//+/v///++qqqzLq8zf///8r//+/v7/7+7O3//9/f7/79/cv/7+//3+39/rv//+/f7+79/bz//9/f3+7t/Ku7y6q8zv///7r//9/v7//967v/7//P7/7//pz////////++8z9/u//7////v//y+//////////y+//7////v7/y///////////u825iqmL25nu2+/v3+///f36urqc27zu////+//v/+///v/8y//vz9///vz9mv//7/////79qe/P3rzLuKaGMg==" TITLE="Daddy Yankey ft. Pit Bull, Lil Jon &amp; The East Side Boyz - Gasolina (Remix)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Daddy Yankey ft. Pit Bull, Lil Jon &amp; The East Side Boyz - Gasolina (Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="188000" KEY="C#" PLAYCOUNT="171" PLAYTIME="283" PLAYTIME_FLOAT="282.567" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="6560"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="96.002" BPM="96.002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.21157" PERCEIVED_DB="-1.05811" ANALYZED_DB="-1.05811"></LOUDNESS>
+<MUSICAL_KEY VALUE="1"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="82.6533" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="AMwXRmVYdVdla7eKiZWJnv7dzP297M/97b/r3tz/3evNvN6968y7287s3+3cvavO3O3Nycy+7c/93ZvKrMnczNuYi8zf/s3L7K3cv/3tvurO2//d2+677a793sztreme65q5iqnczqmKl6mdz/3NvNu83O+8y5t0SL7+3rnbq8utzcyZebu6/93b3rrdrv3e3O2t6a/t3L/a3dv/3evdvO287Ie5eZeKmrh6iaqIvf7MytyqzL7LvZmHZYneyIhml2h2a3eXeam77/zdvtrd2//d6+677b/+3b3srtvf7d3O2t6p/7mauqqcq+25u5uauv/t7d7L3s3+3uvtmIMAAA==" TITLE="Me Love" ARTIST="Sean Kingston"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Sean Kingston - Me Love.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="4" TITLE="httpl.com/forum"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="Other" KEY="C#" PLAYCOUNT="110" PLAYTIME="205" PLAYTIME_FLOAT="204.356" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="4824"></INFO>
+<TEMPO BPM="90.0007" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-3.18779" PERCEIVED_DB="-3.03958" ANALYZED_DB="-3.03958"></LOUDNESS>
+<MUSICAL_KEY VALUE="1"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="899.609" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="APQHmpiHmppk6+2+/////////////////////////////+////////////////////7//////////////////////////////9zv/KvP////////////////////zJq/7f/9zd3d7/7M3/7f////7t7//v3////////////////////////////+3/7b3a7f//vO///////////////////////v//jM3/////////////////////////7//7ypus/f/d/8r/////////7///3////v///////////////////////////f//7////////////+///////9QRAAAA==" TITLE="Sean Paul ft Keyshia Cole - Give It Up To Me (Remix)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Sean Paul ft Keyshia Cole - Give It Up To Me (Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="tzvikaaa--sharetw.info"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="256000" GENRE="tzvikaaa--sharetw.info" COMMENT="tzvikaaa--sharetw.info" KEY_LYRICS="tzvikaaa--sharetw.info" KEY="Cm" PLAYCOUNT="436" PLAYTIME="245" PLAYTIME_FLOAT="244.14" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="7692"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.79223" PERCEIVED_DB="-3.09017" ANALYZED_DB="-3.09017"></LOUDNESS>
+<MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1026.94" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7177" AUDIO_ID="AMcod3d1Z3d3Znd3h3aIdmh3Z4iJp3d3d3h3d3d3d3d3d4eHd3eHiYd3eHiHd3d3d3d3d3h3d3d4iJp2d3d3d3dniIiHZnd2d3d2eImId3d3d3d3d3d3d2dnd3d3d3eJqHd3h3h3d3d3d3d3eHd3d3eIiad3Z3d4h3d3d3d2Z3d3h3dnd4h3d3d3d3d3d3d3dnZ3d4d3d3iaiHeIiId3d3d3d3d3d3d3d3iImodmZ3d3d3Z3Znd3d3d3d3d3iJp3d4eIiIiIh4iHd3d3eIeHd4iZd3h3iIh3iIh4h3d3eHh4iIiJp4iIiIiId4iIiHiIiIiYiHiImqdCAAAAAAAAAA==" TITLE="Vem Dançar Kuduro " ARTIST="http://www.brandnewhiphoprnb.com/"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Big Ali ft. Lucenzo - Vem Dançar Kuduro.mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TITLE="http://www.brandnewhiphoprnb.com/"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="256000" GENRE="Other" LABEL="http://www.brandnewhiphoprnb.com/" COMMENT="http://www.brandnewhiphoprnb.com/" COVERARTID="115/TDIHN4B3VCUDRCZNNGHACJ40RWJB" KEY="C#" PLAYCOUNT="254" PLAYTIME="200" PLAYTIME_FLOAT="199.176" IMPORT_DATE="2012/5/23" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="6356"></INFO>
+<TEMPO BPM="130" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="2.96689" PERCEIVED_DB="5.21947" ANALYZED_DB="5.18912"></LOUDNESS>
+<MUSICAL_KEY VALUE="1"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="160.444" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="26998.3" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="AcEURDMyIjJEREVUVURFRWbv///////+WO7+7v7v/9Sv////2//+ft7+3+3e7u/+//3/7f/////////v///UMjMzIyIjNVRGZVVlaaK////4///+Of////////z////////////////////lREVVVVVVZxE3Z1VlRVVWd4eGeGZ3d4ibd2d2Z3d4p+////////tu////z/////////v////4VVREVVVWVnZnd3d3d3eJh4mJqqq8zc3N7//////f3Kh3ZmZnaLmZmqq7zf/////////////////////////////////////////+ZlVlVFVlZ5mZmGZnZ3moEAAAAA==" TITLE="Becoming Insane (Album Mix)" ARTIST="Infected Mushroom"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Infected Mushroom - Becoming Insane (Album Mix) .mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TITLE="àìòã àìæí, www.Elzam.Net"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="www.Elzam.Net" COMMENT="àìòã àìæí, www.Elzam.Net" KEY="A" PLAYCOUNT="26" PLAYTIME="449" PLAYTIME_FLOAT="448.679" IMPORT_DATE="2010/1/26" LAST_PLAYED="2015/12/5" RELEASE_DATE="2007/1/1" FLAGS="14" FILESIZE="17596"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="145" BPM="72" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.29632" PERCEIVED_DB="-2.51053" ANALYZED_DB="-2.52365"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="99.8409" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67255" AUDIO_ID="AOgTM0QzRERDdGdIVYh2d0dlmpY1N2VnhTczVGZnNmRzZ3dFZHVYiGVzVld3VHNWOJh1dVdXd3VmV0aIdWdHVXh2V1MzRFU3RXN3djdWc3iYRWNzV3dFY2RYiGWDQ1iHZHQzWJl0dUdHd3R3WEVWhWdHVYiFWFZldndGRXRlZ0dldFRXNWWFZ4hFZHRYiFWEVkd2VJRGSYhyIRIREmIhFSMidFcmRHdkNyVTZndHNHR2d0dEdHZoVmJ1V3dWYnVWZlNzV0h4c3RXSIhjVWU1ZmRVNTV4lEdHVohkN0ZTiJc3RGN3djZDEjNGIRFTERQxEUMiJVNyVSd2UmNGJ3cxEA==" TITLE="Hey Sexy Lady" ARTIST="Shaggy ft Sean Paul"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Shaggy_ft_Sean_Paul_-_Hey_Sexy_Lady.mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="224000" GENRE="Reggae" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="F" PLAYCOUNT="50" PLAYTIME="233" PLAYTIME_FLOAT="232.046" IMPORT_DATE="2012/6/27" LAST_PLAYED="2015/12/5" FLAGS="12" FILESIZE="6376"></INFO>
+<TEMPO BPM="103.004" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.0327316" PERCEIVED_DB="4.645" ANALYZED_DB="4.645"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="198.271" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AOEGNYdCWIQliXZVVzWIQjeHNpl2V4lJZ4Sld1lZaIapmZu7zcuqmJqqu6rMqau6m6mbuIy6mrm7ye67m6mKuqmq3/zP7p///Zms/////////////////////97/2v7///fP///8n+///5v///7I/f//+L///9x/3///muh47ruaqYm6qaqv36/frf//man/////////////////////3adoiWmZV4qcj8+f//3/mP3//Pa9/8/6j9//z0vP+/+m93iYiIeKqIeYeK////////////7bubqYqqqrq9qaiah7upqs/////////////////////9ymMhEAAAAAAAAAAA==" TITLE="Eye of the Boomeramg (Dj BrainDeaD's Transition 109-127) www.whitemusic.mx" ARTIST="Survivor VS Felli Fel"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Survivor VS Felli Fel - Eye of the Boomeramg (Dj BrainDeaD's Transition 109-127) www.whitemusic.mx.mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TITLE="www.whitemusic.mx"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="www.whitemusic.mx" LABEL="www.whitemusic.mx" COMMENT="www.whitemusic.mx" REMIXER="www.whitemusic.mx" COVERARTID="010/K20JUCD3BNAWFDCLGZXJDE1J23RD" KEY="Cm" PLAYCOUNT="68" PLAYTIME="226" PLAYTIME_FLOAT="225.332" IMPORT_DATE="2012/8/13" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="9268"></INFO>
+<TEMPO BPM="127" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.205855" PERCEIVED_DB="-0.270534" ANALYZED_DB="-0.28502"></LOUDNESS>
+<MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="239.008" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="ANkDYyMQFFUyMjIlZneYd4eHl3dmiJmJiJmZmanfyZqrzN3//v7/7s7/7u//7f7v/vze7p78/s/v//////////////////////////////////+/3/7/////////////7///3/3v7+/+/t///f/+v/38/+///////////////////////////////////5mJm+zv////////////////////////////////3P/93//s///N//2v//3//9/////v/f////v/v+7+/////////////////////////////////////////////////////////////////3VUQyEQAA==" TITLE="Let's Get It Started (Radio Edit)" ARTIST="The Black Eyed Peas"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="The Black Eyed Peas - Lets Get It Started (Radio Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TRACK="1" TITLE="www.MusicWorld.Lt"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" GENRE="Other" LABEL="Universal Distribution" COMMENT=":::: www.sample.b6.to ::::" KEY="D" PLAYCOUNT="137" PLAYTIME="218" PLAYTIME_FLOAT="217.13" IMPORT_DATE="2012/8/27" LAST_PLAYED="2015/12/5" RELEASE_DATE="2003/1/1" FLAGS="14" FILESIZE="3432"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="105" BPM="105" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-4.82244" PERCEIVED_DB="-3.54356" ANALYZED_DB="-3.54356"></LOUDNESS>
+<MUSICAL_KEY VALUE="2"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="481.174" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AP0DVoUzRGhldleFV4dXZmaGV3Z5ecp3lnmGemjN+57LrYrO/emr+p2bzu3J3eq7rL/9qL7Y67/e/7zeydiu3r6ZzpnJvO3evb69u+zu277dnsvv7f6t255mvOv+reqtd87+uqrbqru+7Zq62bm8vd+YzLjXjN3MiL2ZyZv97Zu9m8m8/sqb7Kuqzeztrs2tqtzc2Z3KnZvO/cms2LuM3tupu8jJm83vy+zr6b3O3qztyuvO/8/azZvHi+6/292cpqzf6qu+nIrM3OmbvYyave7Im9i7mr7bmKvYyavN3Oaqpc1aq5xmqoWlWJl3NFYzQiNDIhERAQAAAAAAAAAAAA==" TITLE="Ayo Technology-(Clean)" ARTIST="50 Cent Feat. Justin Timberlake And Timbaland"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="50Cent Feat Justin Timberlake And Timbaland-Ayo Technology-(Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM OF_TRACKS="18" TRACK="2" TITLE="Euro Express 733U"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="201000" GENRE="Top 40" LABEL="Radio Express" KEY="G#m" PLAYCOUNT="7" PLAYTIME="254" PLAYTIME_FLOAT="253.153" IMPORT_DATE="2012/9/7" LAST_PLAYED="2015/12/5" RELEASE_DATE="2007/1/1" FLAGS="14" FILESIZE="6260"></INFO>
+<TEMPO BPM="140.019" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.347933" PERCEIVED_DB="-1.2589" ANALYZED_DB="-1.2589"></LOUDNESS>
+<MUSICAL_KEY VALUE="20"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="393.098" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AKoAAAERERAAERERESIjMzRJ+rqGZVVURFVVVFRFRFREVUZVZVVc6smGVVWGdmVFVYeIdlVUeHh3VVVYZ3ZlVVd3h4Z2WfrKmHd3d2Z2dnd3dndmZmZmZmZmZmZlVmVVZVZVZWZmZmZ3Z2d3d2Znc1VBARQiMlRVVUMiVkMRATEyEZQS7//9////////////////////7FEV//////////7/////////////UB3//////////////////v/////////////////////////////////6MkVJ////////////////////////////7ty6q5mYmYmKmKmaiqm5qpzLIQ==" TITLE="Funky Voodoo (Captain HooK remix)" ARTIST="Avalon"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Avalon - Funky Voodoo (Captain HooK remi.mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="F#" PLAYCOUNT="20" PLAYTIME="171" PLAYTIME_FLOAT="170.136" IMPORT_DATE="2012/9/20" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="4020"></INFO>
+<TEMPO BPM="68.9625" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.978154" PERCEIVED_DB="0.779466" ANALYZED_DB="0.776184"></LOUDNESS>
+<MUSICAL_KEY VALUE="6"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="115.331" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ANg2ZmZVdmZVZmdlVWZWdmVmVo7szs3P6njc3/yoru/eur3O7f3Nvb7tzMzN7dzc3O3dzLzN6nef//7///////////////7sqYn////////8y9/////////Mzbmt3O7tzd/aedzv/Kee7t66vc7d7c3OztzMzM3d29vc7d3My7zti4qZmLi2RK3//+////////3////////My+//////7//L3d//////////+4nd3u7s3f7Irc7/y4ru/euc3e3v3Nzc7tzczN3Nzc3O3dzMzd+mVmZmZ4mHvt//////////////////////////////////////////////+UQxAA==" TITLE="Play Hard (DJ OneF Intro)" ARTIST="David Guetta Ft. Ne-Yo &amp; Akon"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="David Guetta Ft. Ne-Yo &amp; Akon - Play Hard (DJ OneF Intro).mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="B" PLAYCOUNT="79" PLAYTIME="216" PLAYTIME_FLOAT="215.544" IMPORT_DATE="2012/11/2" LAST_PLAYED="2015/12/5" RELEASE_DATE="2012/1/1" FLAGS="14" FILESIZE="8488"></INFO>
+<TEMPO BPM="130" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-3.06816" PERCEIVED_DB="-2.03725" ANALYZED_DB="-2.03725"></LOUDNESS>
+<MUSICAL_KEY VALUE="11"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.1449" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOESITMiNDIkYyQzNENKlUNWhnmIaHd4d4iJd4iWmYmZmJmprP////////////////////yp7////////////////////+//////////////////z////9z///////////+ZV2h3iHiImZmXeZiKmJmHe/////////////////////6oz/////////////////////////////////////////////////////////+oh3eIiIh4qamImoiaqZmIq/////////////////////+pv////////////////////////////////////////////////f//7//v//9AAA==" TITLE="Limbo" ARTIST="Daddy Yankee"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Daddy Yankee - Limbo.mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TRACK="10" TITLE="Prestige"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="257000" GENRE="Latin" COMMENT="WHOA BITCH WHOA" KEY="G" PLAYCOUNT="63" PLAYTIME="225" PLAYTIME_FLOAT="224.758" IMPORT_DATE="2012/11/23" LAST_PLAYED="2015/12/5" RELEASE_DATE="2012/1/1" FLAGS="14" FILESIZE="7104"></INFO>
+<TEMPO BPM="125.005" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.57447" PERCEIVED_DB="-2.76954" ANALYZED_DB="-2.76954"></LOUDNESS>
+<MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1047.64" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67254" AUDIO_ID="APBclmV8h1Vcl2Vop2V4uKu4y6zJu5nKjairrZmqecmJmMqbp8yXp4qJp3ypiXq5qprJmpm5nLnLmsqtqrutucyaqbyq2qy5zKy5u6rJnKmZjLmZe+uJeLhmZLubp6unmY2puHyqmnm5u5m6qKenm6iqqIdql3ZrmJlY2nZnyIZlu6vKrKrKnarLnKmsmsqrqsqbuMyrybypyouZuou4e5jJnKrZeqatqricuJl+uLqLqoqb26ypyqy5upvKrJrKjsrLm7mrmcusqMqbuaqauZypu5yJqoq5q6m4m5jKm7i6mqmcmcp7eKp6uayYt4qYuYq4U0VERDM0MzNDMzQzIA==" TITLE="Gangsta's Paradise" ARTIST="Coolio Feat L.v."><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="coolio   gangsta's paradise - [MP3JUICES.COM].mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TITLE="Rapsody Hits"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="256000" GENRE="Rap" KEY="Cm" PLAYCOUNT="25" PLAYTIME="241" PLAYTIME_FLOAT="240.431" IMPORT_DATE="2013/1/17" LAST_PLAYED="2015/12/5" FLAGS="12" FILESIZE="7552"></INFO>
+<TEMPO BPM="79.9559" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.646404" PERCEIVED_DB="2.94081" ANALYZED_DB="2.94081"></LOUDNESS>
+<MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="126.355" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AOE+/+3////8/////d//7/+9yc/////////////////+7/3v2HdpiriGR4e6h2aHq5mHaarKqpmZmZmpiZq6uqqqqqua7Mq7qquZi6qZqpu7qqqJunjLzMzM3t3f3d3d3u3e7f+nm+z////////////////////N3////////////////////bz9mZmZmZiZmJmrq6qqqqunrcuryrq5mMu5mpmrqquoi6h8vamYiImHiIiJqqqqu7iIiJrf///////////////////93f////////////////////7v///////////////////////6hlQyEREAAAAAAAAAAAAAAA==" TITLE="Glad You Sunrise (Dj BrainDeaD's Mashup)" ARTIST="The Wanted VS Avicii"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="The Wanted VS Avicii - Glad You Sunrise (Dj BrainDeaD's Mashup).mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" LABEL="EMPR" COMMENT="Visit Dj BrainDeaD:  facebook.com/braindead.official  Youtube.com/djbraindead" KEY="Gm" PLAYCOUNT="34" PLAYTIME="226" PLAYTIME_FLOAT="225.28" IMPORT_DATE="2013/5/24" LAST_PLAYED="2015/12/5" RELEASE_DATE="2011/1/1" FLAGS="14" FILESIZE="8840"></INFO>
+<TEMPO BPM="127.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.655181" PERCEIVED_DB="-2.78053" ANALYZED_DB="-2.79139"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="220.862" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/12/4" MODIFIED_TIME="81986" AUDIO_ID="ALcCQiEHrIiI/bmYm/26q/3MrM3////f///+////3//Zzu///////+/v/f///+///tvKqZhZv////+///////87f3/v////smrZ6/+7u3/3u7f/f/u/8//27zZqru9ybzMyrqpu9vd/+/f3/3n7//v/e/s/YeM79iH2pmId4iKqYid/9/8//z/u8+6/baHdm/+7u7//u3v/f/u/8//27zZqrutybzLyampu9qqmYZ4iYh4mZh3mpq6vLvLvKqJiJd2hlff/f/P/978//3/z/7v/cvMubu6zZrMy8y6rd7cuHV3d4l5loZ4iGhqepeHmIl4iFqoh3lDIFmmEAAAAAAA==" TITLE="Freaks" ARTIST="French Montana Feat. Nicki Minaj"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="02- French Montana Feat. Nicki Minaj - Freaks.mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TRACK="2" TITLE="Segalovich BASE BLACK Vol. 2"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" COMMENT="Segalovich BASE BLACK Vol. 2" COVERARTID="020/UA5PJDCLBMNLDAOG3DMICAEO41ZA" KEY="Em" PLAYCOUNT="11" PLAYTIME="184" PLAYTIME_FLOAT="183.192" RANKING="255" IMPORT_DATE="2013/5/24" LAST_PLAYED="2015/12/5" RELEASE_DATE="2013/1/1" FLAGS="14" FILESIZE="7416"></INFO>
+<TEMPO BPM="96.5006" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.41353" PERCEIVED_DB="-1.62378" ANALYZED_DB="-1.62378"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="48.2391" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="2535.27" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AK0AAAEpmWqWiJWoaIlZhmV4hovendy86d3Kzp3dqszM3+ycza3YrNjdrLybrLu67aveqrvM2rvMzpur3My72s2+3Kz9q9zemqzcq5Vpyq3vztzO+9zM373Lrcrb3f/v/9/+/v3/7u/d6///+57OvMqs+c273rvey7z6zN+t7L3q3NrOuqzbraa5mI7/ztzO+9zM373Lrcrb3v/f79/9/f7/39/d6/7v7vm/mtyu6q36v7isvMvN+7/Kzb78vPzO13qaq83Zu6vdq6q8ysqnmGl4v/vt7O/O38783fvvm5fP/M/6/9zez/3O+LvKvM/+zvvv/O7P/8/7u8y831AAAA==" TITLE="Mi Deya" ARTIST="Nechi Nech Feat. Soul J"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="11- Nechi Nech Feat. Soul J - Mi Deya.mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TRACK="11" TITLE="Segalovich BASE BLACK Vol. 2"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE BLACK Vol. 2" COVERARTID="020/UA5PJDCLBMNLDAOG3DMICAEO41ZA" KEY="D#m" PLAYCOUNT="41" PLAYTIME="173" PLAYTIME_FLOAT="172.748" IMPORT_DATE="2013/5/24" LAST_PLAYED="2015/12/5" RELEASE_DATE="2013/1/1" FLAGS="14" FILESIZE="7004"></INFO>
+<TEMPO BPM="99.9994" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-4.84017" PERCEIVED_DB="-1.46545" ANALYZED_DB="-1.46545"></LOUDNESS>
+<MUSICAL_KEY VALUE="15"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="29.3113" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/12" MODIFIED_TIME="50107" AUDIO_ID="AMsTNHhld5iIZ3d3V5l3d3iZlleJh3d3iHZnZniJma//+p3//5j///mP/v2L///Kz//6nf//mf//+K///8z///3v//zO///e///93///3f///M///9v//7v///mf/v+b/+/4f//8mv//ud//+p///7z/7/q//v2s//+4z//8r///zP///t///sz//+7///3f///d///8v///2v/v2t/++p3//6v///pup2hmZnaHeGhXeIiP///v+Y7s/or+78iv/PuN//+q3//5bv3/mv7f2Z///s7//+3///zP///e///93///3v//7O///s3//6v/7/mf/f6c/9/YVEMhEAAAAA==" TITLE="Shisha" ARTIST="Massari Feat. French Montana"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="03- Massari Feat. French Montana - Shisha.mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TRACK="3" TITLE="Segalovich BASE Vol. 16"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" COMMENT="Segalovich BASE Vol. 16" COVERARTID="016/QY4S00B2HI4UZCXZC023DP3LDJPB" KEY="Gm" PLAYCOUNT="4" PLAYTIME="204" PLAYTIME_FLOAT="203.128" RANKING="255" IMPORT_DATE="2013/8/15" LAST_PLAYED="2015/12/5" RELEASE_DATE="2013/1/1" FLAGS="14" FILESIZE="5260"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="88.09" BPM="88.09" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.530658" PERCEIVED_DB="-1.82825" ANALYZED_DB="-1.82825"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="143.754" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AL4AEhEhFDEhEzEiE0Eiz//Yz//////6r//s////////////////7/////////////7HXf///////////////////////////////d//+q/////v647//////J7//////q3//t//////////////////////////////+qn////////////////////////////////v//6r//////6p///////L///////q///f///1///2///23//3r/////////////+Hj///z///7///3////////////v///v///f//2d//////+8//////+8///////s///eUQAAAAAAAAAA==" TITLE="Love More" ARTIST="Chris Brown Feat. Nicki Minaj"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="11- Chris Brown Feat. Nicki Minaj - Love More.mp3" VOLUME="Macintosh HD" VOLUMEID="aaffff3a"></LOCATION>
+<ALBUM TRACK="11" TITLE="Segalovich BASE Vol. 16"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 16" COVERARTID="016/QY4S00B2HI4UZCXZC023DP3LDJPB" KEY="A" PLAYCOUNT="13" PLAYTIME="190" PLAYTIME_FLOAT="189.84" RANKING="255" IMPORT_DATE="2013/8/15" LAST_PLAYED="2015/12/5" RELEASE_DATE="2013/1/1" FLAGS="14" FILESIZE="7912"></INFO>
+<TEMPO BPM="105" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.32858" PERCEIVED_DB="-1.04242" ANALYZED_DB="-1.04242"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="481.817" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/12" MODIFIED_TIME="50107" AUDIO_ID="ANNFdmd3Vndnd3ZmdmeGV3dnd3iFVXiXeFV3ZWd1V4iYd2VndUm7t4mYeqyZqIvLp5mIeqmLzK7//////////53/yv/6/////p//////////////////////+s27vMyphniHaJd3iquJiHeIed3czdyrqZmquqiJq7qaqZnMz///////////////////////2//////////6bP/p//rf//uq3//////////////////////q39zN7bu3iqh5qXirzLq6msy77t3e7by5q7q7y7u93LzM297s///////////////////////O///////////////////////+MAAAAA==" TITLE="Timber" ARTIST="Pitbull Feat. Ke$ha"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:ינואר 2014/:House/:" FILE="01- Pitbull Feat. Ke$ha - Timber.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="Segalovich BASE Vol. 18"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 18" COVERARTID="019/TUUDXEADJQXUCDBIUANRCPD04XLD" KEY="B" PLAYCOUNT="35" PLAYTIME="211" PLAYTIME_FLOAT="210.521" RANKING="255" IMPORT_DATE="2014/1/17" LAST_PLAYED="2015/12/5" RELEASE_DATE="2013/1/1" FLAGS="14" FILESIZE="8480"></INFO>
+<TEMPO BPM="130" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.128956" PERCEIVED_DB="-1.26324" ANALYZED_DB="-1.26324"></LOUDNESS>
+<MUSICAL_KEY VALUE="11"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="36.1418" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ATtZmZq5mZq5mZq5mazKmZq6mZq5mZq6qZq7ubu7ubu7uqu7uqu7u6rbqpnLqqmaqqacl1Q0VENUQ0VUM0VVd3ZCWGZEM1dnZWiHmWeZp3eHZVRWZWY2u5mZq6mrvLuquqqt///////r///////v///////u////////y4ZmV3dkJXZkQzVmdlZ3eZZ4mndndlVFZlZja7qrzNzd3d3M3My67//////+v//////+///////+7//////////////97v/////9///////+/f/////+7f/////+3P//////zf//////eP///////aqpm6mZm6mZm6mZmnQhEAAAAAAAAA==" TITLE="Shot Me Down ( 2o14 ) [ www.MzHipHop.com ]" ARTIST="David Guetta Feat. Skylar Grey"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:פברואר 2014/:House/:" FILE="David Guetta Feat. Skylar Grey - Shot Me Down ( 2o14 ) [ www.MzHipHop.com ].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="www.viperial.com"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" LABEL="www.MzHipHop.com" COMMENT="www.MzHipHop.com" KEY_LYRICS="?" COVERARTID="070/GK2ABNCZHNXHUBBKZMJQC00SYE5C" KEY="Fm" PLAYCOUNT="29" PLAYTIME="316" PLAYTIME_FLOAT="315.089" IMPORT_DATE="2014/2/13" LAST_PLAYED="2015/12/5" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="12484"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.455478" PERCEIVED_DB="-1.13053" ANALYZED_DB="-1.14596"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="52.4991" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOgkJCNCREQkJfunzMu9udv9zM7o7OvNzsnK/Muv//z+/v/v///9/+////7/7/7+/v////7//u/////////////////+7//+7v//7////v////////////7///zv/v/v/v/87//u//7v7/7//v///f/+7+/+//zv//7//u/v/v/+//7////9////////3d/////9//////3v/v/////+//////////7//v/73sqnioaYrqib2JurmayniLyaebh1bLmsqLrPuazqrM2qvcmq383M/9q//9/v/f3+3979/e/f7/39/t/e/u7/7//+/v/v7/7+/+///v3/7//+uVYQAA==" TITLE="The Monster (DJ Tzealon Dancehall Remix)" ARTIST="Rihanna Vs. Specialist"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:מרץ 2014/:Hip Hop/:" FILE="Rihanna Vs. Specialist - The Monster (DJ Tzealon Dancehall Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Dancehall" COVERARTID="070/GSSTHYD1QTVZLCAXA5A5D3VT0NTC" KEY="E" PLAYCOUNT="50" PLAYTIME="232" PLAYTIME_FLOAT="231.912" IMPORT_DATE="2014/3/12" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="9564"></INFO>
+<TEMPO BPM="105.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.47518" PERCEIVED_DB="-1.72814" ANALYZED_DB="-1.72814"></LOUDNESS>
+<MUSICAL_KEY VALUE="4"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="168.361" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67253" AUDIO_ID="ANsDREZplUyYdUvaynnImGbsq4a8ineuqqd8iJZM2rlo2Yh33KuGq4lVjru4nrqna9q7edqXZ928qcysiJ7Lyoy6t4zcy5rbunndvbi8q6q+zMmdqJda2rln2Zl3zKyIrZupnsq4e5nJi+vKiduZiM2sqKyJd47LuI3KuHnrzInbuYfezbm9q5iey8qLy8mb7MuJ287J3r3LrbuqruzZa8mmZ+urhtmaZq2qtoyJmG7cy4zIdTNWjJjrmWa+vMidqXZ2RLqc2smZ7L2ozLyq7+7Krbzsrfzbm9vaq+3u7My8ma7MyY26qJ3c26vau6vtvLi8rJrP/ZVWRCMyMjEAAA==" TITLE="Genie In A Bottle" ARTIST="Christina Aguilera"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אפריל 2014/:Hip Hop/:" FILE="christina-aguilera---genie-in-a-bottle.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="Christina Aguilera"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="Other" LABEL="RCA" PLAYCOUNT="7" PLAYTIME="219" PLAYTIME_FLOAT="218.567" IMPORT_DATE="2014/4/17" LAST_PLAYED="2015/12/5" RELEASE_DATE="1999/1/1" FLAGS="12" FILESIZE="5128"></INFO>
+<TEMPO BPM="87.9568" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.0771" PERCEIVED_DB="0.280632" ANALYZED_DB="0.280632"></LOUDNESS>
+<MUSICAL_KEY VALUE="8"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="410.324" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ANZGVVVVVVVVVFVVVVVVVVVVVs//////////////////////zv/////////v////////////7v/////////////////////+/f//////////////////////////////////////////////////y5m8qZqszN/97+7uu9/e3e3cqazcqq3v7f//27zP7/////////////////////////////////////////////////79/////////////////////////////////////////////Ujv/////////////////////53v/////////////////////rv+yoMRAA==" TITLE="OTHERSIDE BOUNCE (STARJACK &amp; COLLINI BIG ROOM EDIT)" ARTIST="RHCP vs TJR &amp; VINAI"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:מאי 2014 - עדכון 2/:House/:" FILE="RHCP vs TJR &amp; VINAI - OTHERSIDE BOUNCE (STARJACK &amp; COLLINI BIG ROOM EDIT).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="A" PLAYCOUNT="20" PLAYTIME="214" PLAYTIME_FLOAT="213.838" IMPORT_DATE="2014/5/29" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8348"></INFO>
+<TEMPO BPM="127.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.04098" PERCEIVED_DB="-4.51053" ANALYZED_DB="-4.52988"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="28.1066" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="AaY3VGZDMzMzIkNVh5ZWdnVX3Lyb/bq9q/62qcjIhoiHmLmIh3d3iIh4VO////////+M/////////6r//////9uqm//////////////////brHn////////t7P////////97/////////8///////bqrbP7////////f/////////J25h3Zod2Z5jv///////+////////////7bzbu9qr2qrZismKyYrKiLy7u7vMu8y77t7t3t3e3v2pl3d3irz/tYiIqqqqq7uGaf//////2f//////////3M7////////+z//////+y7lb////////+5yby5mHd3d4eCEAAAAA==" TITLE="Bella Donna (Blastoyz Remix) 2014" ARTIST="Bliss Vs. Mekkanikka"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:יוני 2014/:Gili Trance/:" FILE="Bliss Vs. Mekkanikka - Bella Donna (Blastoyz Remix) 2014.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="D#" PLAYCOUNT="3" PLAYTIME="423" PLAYTIME_FLOAT="422.113" IMPORT_DATE="2014/6/6" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="16480"></INFO>
+<TEMPO BPM="73" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.05277" PERCEIVED_DB="-0.950534" ANALYZED_DB="-0.958267"></LOUDNESS>
+<MUSICAL_KEY VALUE="3"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="29.2953" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="AZcAI0NEREREREa6id3deIubz+is273qnv7tx0VFVWZ3eIhX////////////////////////////////+P/////////+r/////////+U//////////////////////9jMiIhIzNEd5mqqbuqvLu+zc3N3t7d3t3/0Tjf/////////7/////////////////////////////////rZf//////////////////////UiIzRFVVVVVURERERERVZ4dUREWc//////////+f////////////////////////////////n//////////////////////4RUVFVVRUVFMgAA==" TITLE="Baileys (Original Mix)" ARTIST="Upgrade"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:יוני 2014/:Gili Trance/:" FILE="Updrade - Baileys (Original Mix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="Baileys"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Psy-Trance" LABEL="Regroup Records" COVERARTID="062/4BGMLXAZCR01SDDUOLO1CHYQFBKA" KEY="Fm" PLAYCOUNT="6" PLAYTIME="408" PLAYTIME_FLOAT="407.406" IMPORT_DATE="2014/6/6" LAST_PLAYED="2015/12/5" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="16056"></INFO>
+<TEMPO BPM="142" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-3.09528" PERCEIVED_DB="-4.50053" ANALYZED_DB="-4.5195"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="51.8942" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AKckREMzMiIiIiIiIiIiIiIiIiIiIyIjMjMzMzMzMzMzMzNDRERVRVVmZnyY3/2ZqsmIuaiJv6iLq5q82qrburvfyr3Mu8zrq9zcz8/Lzfzd7O7v/v///////sm8z//////////////P////////////////////////////////////////////yqrJd5qHiK2oirmZm8uZvKqqz9ms2rq8zJu9vL6/ysz73Nzfz/7///////+4u7////////////////////////////////////////////////////////////////////////////////////////+GVDIRAA==" TITLE="Vago Baileys (Avishay P. Mash Up)" ARTIST="Nari &amp; Nilan Vs Upgrade"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:יוני 2014/:House/:" FILE="Nari &amp; Nilan Vs Upgrade - Vago Baileys (Avishay P. Mash Up).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Blues" COMMENT="Avishay P." KEY="F" PLAYCOUNT="11" PLAYTIME="168" PLAYTIME_FLOAT="167.314" IMPORT_DATE="2014/6/6" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="6540"></INFO>
+<TEMPO BPM="131.997" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.20296" PERCEIVED_DB="-4.24053" ANALYZED_DB="-4.24529"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1674.78" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="APImeZaIeZz//v////////////////////////+13s7t+r6e6+7OrNnur+38ra7r/s/N/v/f/v/v7vz/7+7//+/9/9/+/P/v/P3v////7//////////+///v///////97+7+/7/+///v///f/P7/z/3/z//+/s/////////////6XOv+7qvZ7r7s+t6+6/7Pyururuzs3//+/9/9/e/P/v7v//3v7/3/79/9/9/v/////v//////////7//+////////7f7v7/z/7//+/9/9/8///P/v/f//7///7//////9///////f/v////7/7//+/+/9///f/f/f//1iERAAAA==" TITLE="Bailando (www.Only-Music.co.il)" ARTIST="Enrique Iglesias feat. Sean Paul"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:יולי 2014 - עדכון 1/:Hip Hop/:" FILE="Enrique Iglesias feat. Sean Paul - Bailando (www.Only-Music.co.il).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="www.Only-Music.co.il"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="160000" GENRE="Prime Music" LABEL="www.Only-Music.co.il" COMMENT="www.Only-Music.co.il" KEY="G" PLAYCOUNT="54" PLAYTIME="243" PLAYTIME_FLOAT="242.364" IMPORT_DATE="2014/7/24" LAST_PLAYED="2015/12/5" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="4740"></INFO>
+<TEMPO BPM="90.9998" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.52689" PERCEIVED_DB="-2.11041" ANALYZED_DB="-2.11041"></LOUDNESS>
+<MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AOdrqIaqiEqokyRFa7mmq5l5uqhmaG///v//////3//+//+///z//8/////////////+///vz//5v7/M//ufz/z//p//+///ffvd7t3L3cu8zMu7///Z//+v//f//6//+v//v//8///5QyNEQjf7/++d+/zv76v7/t//3f7/r//47r7u/t293LzczMu///q//9z//p//+///r//9///f//6DNHVFRol3dnh4eJeHeHZ///r//8///M/Xjf//v//7//+XZne7u8qYeauquqmIq6vLqpu7vMy8y7cRJf//3//////9///v//v//8//+//////////////v//yWIAAAAA==" TITLE="Problem (DorZ Ext)" ARTIST="Ariana Grande Feat. Iggy Azalea"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:יולי 2014 - עדכון 2/:Hip Hop/:" FILE="Ariana Grande Feat. Iggy Azalea - Problem (DorZ Ext).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm" KEY="G#m" PLAYCOUNT="25" PLAYTIME="231" PLAYTIME_FLOAT="230.818" IMPORT_DATE="2014/7/30" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="9012"></INFO>
+<TEMPO BPM="103" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.50887" PERCEIVED_DB="-0.613388" ANALYZED_DB="-0.613388"></LOUDNESS>
+<MUSICAL_KEY VALUE="20"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.3093" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AKTP3/p6///Xf/3/hoqZiJ/+/9if/v+H/8/6iJmYq+/d+mT/v//v+/+Fr8///f/Pt0/6////z/lnmZmJmkeFeYZoZ4mHdmd4apaZ/7/6m/z////+/Ir/z///+v/cz/////+/66/+///4R2Vo2pmb3mWoic2pmq3+36dP+//+/7/4Wf3v/9/7/HT/v//+/P+Wj+z//cyZ+5h3u3aciqq9hKdXq7yeyXeK2XjK69vZRYSb/7/8mv3v///8/7j/z//+hlVo7/3///+v+7z+///8Vojc24qLz3SZi97KvL3/v8d//f//39/7iP/v/+///+jP///+/t+3epmYiIeXgxAAAA==" TITLE="Twerk It Like Miley (DJ Kobi M ShortCut Power Edit)" ARTIST="Brandon Beal ft. Christopher"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014/:Hip Hop/:" FILE="Brandon Beal ft. Christopher - Twerk It Like Miley (DJ Kobi M ShortCut Power Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Brandon Beal ft. Christopher - Twerk It Like Miley (DJ Kobi M ShortCut Power Edit)" KEY="B" PLAYCOUNT="26" PLAYTIME="164" PLAYTIME_FLOAT="163.866" IMPORT_DATE="2014/8/7" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="6400"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="102" BPM="102" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.20332" PERCEIVED_DB="-1.04771" ANALYZED_DB="-1.04771"></LOUDNESS>
+<MUSICAL_KEY VALUE="11"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="316.678" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7177" AUDIO_ID="AIBDIjdjVkIidzVkIidzVlEgRTNlEyZkRmEyZkRmEyZlRmExWZrqap68u8aZ3bu8iYfOubd1Vp///7+kRf+b+VVv/9+1Wf/7/+lq/8/9ZL/9/9mI/8/+dIZnU3aXlKU0ZlimN8ZWRFWHhHlERWhlVYkyh0NnRHVmREN6VWZCWIyo///5/57//+/////8/5///9/9//+P/87/+v/8//+v/+///qeM////+4v////qn////In//f/8r////Zj//f/8r////prv//5q/////sjP/P/+Zv///7Wf/v//df///7iP////hP///7Zf/+/+l2VEMhEAAAAAAAAAAAAAAAAAAA==" TITLE="Prince Of Yeah (DJ Kobi M Break Edit)" ARTIST="Will Smith Ft. Usher"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014/:Hip Hop/:" FILE="Will Smith Ft. Usher - Prince Of Yeah (DJ Kobi M Break Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Will Smith Ft. Usher - Prince Of Yeah (DJ Kobi M Break Edit)" KEY="G" PLAYCOUNT="26" PLAYTIME="128" PLAYTIME_FLOAT="127.968" IMPORT_DATE="2014/8/7" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="5004"></INFO>
+<TEMPO BPM="104.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-5.52646" PERCEIVED_DB="-1.10004" ANALYZED_DB="-1.10004"></LOUDNESS>
+<MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="25.8916" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOF9rMi8i8m8jMjLmCbMvKrKrKvIvIvItniIZmd4Vmd2VmdUVr7M2c2cyd68ysyczOvOzdrevdnevuv/7/vtrdrtztvtzrzs7qzr7q3s/q7t7bqM/v7O/f7P/u7P6sisqYh4hmiIh3iJe5nOzdnNrNvf3dvrq537777r787q78/s7+/87M7b7N/N/O++/O6t/P6+7v2/7+zJj/3+v/7uz/3uv+3+7/7c7+/t/97r/puZmoiHmImaqXh3h3l4d2VneGZ5mZq6ibzLy6i7uqvMq6urzK3rrLvLrM3Lm72r2r/+/7/+/+/+7c/t/u/u7P/v7N2syLyMycucqcqlIhAAAA==" TITLE="Impossible (DanceHall Remix)" ARTIST="Shontelle"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014-עדכוןן 1/:hip hop/:" FILE="Impossible (DanceHall Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="G#" PLAYCOUNT="51" PLAYTIME="226" PLAYTIME_FLOAT="225.045" IMPORT_DATE="2014/8/30" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8808"></INFO>
+<TEMPO BPM="92.9998" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.962317" PERCEIVED_DB="-1.56898" ANALYZED_DB="-1.56898"></LOUDNESS>
+<MUSICAL_KEY VALUE="8"></MUSICAL_KEY>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AK8SIjdlV1NWRWU0dmZ0JFRWqlRVU2VERkRTRGUiIiIhv////v////lndXZnd2Z43/7MS+/857Z3WGNndUVYu5qqiJmKqYmYmZdVZnjf5u/Z/3r/f/p/+c/n7/z/iv+P+3/6z/fv+f+a/8pmVWZFVmV0ZWVWVEZFVK/////////8d4aEVFRmZpdmd2Z3dzW//+3Uzv+lVqupqpiZiaqKqImYVWZ4v/fP+v+Y/778b/3P+M/7/5j/rv1//r/3v/n/qf/MhlREZkQzRXQ0RGVEZWZ/+6////j///6M/8/6n///+f///67///uf/+/Z/////////////////2VlZmMAAA==" TITLE="איזי - בן הבודדים - רשמי להורדה"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014-עדכוןן 1/:hip hop/:" FILE="איזי - בן הבודדים - רשמי להורדה.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" KEY="F" PLAYCOUNT="17" PLAYTIME="175" PLAYTIME_FLOAT="174.811" IMPORT_DATE="2014/8/30" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="4100"></INFO>
+<TEMPO BPM="94.9997" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.38709" PERCEIVED_DB="-0.903572" ANALYZED_DB="-0.903572"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="2463.34" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ALkAeImYiJiImYiaiImYiKiImYiJiIqr7u3u7u7u3u7t7v3u/u7v3u/rd5rP/u//7//u//7//v/////v//7//sV4qneIZIqYnJdkWYuZiZqoWGqoeVmpmYiIWNuIu6hWmLmYqquWl7uYlmypmqt0WKmau5VYd4mKmZqrq8vv7//+///////v/////+///v//7////8zLzLzd3czMuoh4hmVG3////////////////////////8mr7////////////////////////+7//////////////8//////////////7//v7+7v7u797v7f/97/7v/4VVeHZUQzIhERAAAAAA==" TITLE="Zedd vs David Guetta  Showtek feat Vassy   Stay The Night vs BAD (Dimitri Vegas  Like Mike Mashup Reboot)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014-עדכוןן 1/:אוגוסט 2014 - עדכון 1/:House/:" FILE="Stay The Night Ft Bad.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="F" PLAYCOUNT="29" PLAYTIME="185" PLAYTIME_FLOAT="184.896" IMPORT_DATE="2014/9/4" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="7228"></INFO>
+<TEMPO BPM="127.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.22675" PERCEIVED_DB="-2.36053" ANALYZED_DB="-2.36387"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="765.916" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AMFpZmZlVWVVVmVVVlVVZVVWVUNVfO3sqbyKq8qIu3qqyYi7eqvJiM2bzuu77quu2qvtqr/t/f7v7/7oq//////////////v/////////8zN/////////////r3////////+zf/+7Ku87Zupmr3du7mKvf/u7ezM3/////////////uv////////7Nz/////////////7f////////////3////////////////////////////////////////////////4d6+8qIiIiGd4h4e8Z3eGd3hWZmiJ61Z3h3iHd3d4eLh3eIiHhndlRERDMiIiEREREREQAAAAAAAAAA==" TITLE="Turn Up The Speakers (Deville Party Break Intro)" ARTIST="Afrojack, Martin Garrix, Chris Brown"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:ספטמבר 2014 - עדכון 1/:House/:" FILE="Afrojack x Martin Garrix x Chris Brown - Turn Up The Speakers (Deville Party Break Intro 128).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="EDM Mash Up / Bootleg" KEY="F" PLAYCOUNT="10" PLAYTIME="193" PLAYTIME_FLOAT="192.784" IMPORT_DATE="2014/9/25" LAST_PLAYED="2015/12/5" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="7552"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.64786" PERCEIVED_DB="-2.00118" ANALYZED_DB="-2.00118"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="25.2155" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AQVZiHd3d3d3d3d3d3iLzN/czbvcu9vN/+/v7//////ZQzVWZnfv/93f//7d///d3v/+zN/////u//3Lz/xp+Wje3M//mPx8/J/93/3Kru7u7e7///////////+q//////////////////vf//////////////+pq6z////////////////////ruqvLu7usy7u73LzMzO//7v/u/v//7/7v///+7///////////////////uoh5////////////////vMu+///////////////d3s3f/////////////////f//////////////////1Lu8yr2qzKvsvNq8yr2q0A==" TITLE="Empire Of The Sun Vs Laidback Luke - Alive Flashing Lights (BeatBreaker Edit) ****"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:ספטמבר 2014 - עדכון 1/:House/:" FILE="Empire-Of-The-Sun-Vs-Laidback-Luke-Alive-Flashing-Lights-BeatBreaker-Edit-.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Dm" PLAYCOUNT="10" PLAYTIME="262" PLAYTIME_FLOAT="261.433" IMPORT_DATE="2014/9/25" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="10240"></INFO>
+<TEMPO BPM="129.98" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.26083" PERCEIVED_DB="-4.07177" ANALYZED_DB="-4.07177"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="508.61" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ATlHdlmYdYlmZZd4aJd3eZeYioiIuqqImIiIiZmqvM3e+xBHf////////////////////////////4/////////////GETSae7uWZ3q8/9qaqZmZmZrN3v//pI//////////////r////////////8fv///////////shXdVRFUzNCI1ZTMzVVZVZGVWVWZnZ2ebqpu5uqy6urusuquqq8u8ze/////Vr/////////////////////////qHee///////////////ezMzbzd3e///jNVRDMyIiz//////////7qUTv///////////////////////JdlVVUyIhEQAA==" TITLE="Upgrade_Vs_Azax_Syndrom-Chakra_Flow(www.mp3vip.org)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:ספטמבר 2014 - עדכון 1/:karahana/:" FILE="Upgrade_Vs_Azax_Syndrom-Chakra_Flow(www.mp3vip.org).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" KEY="Am" PLAYCOUNT="5" PLAYTIME="313" PLAYTIME_FLOAT="312.764" IMPORT_DATE="2014/9/25" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="4888"></INFO>
+<TEMPO BPM="71" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.70362" PERCEIVED_DB="-2.67053" ANALYZED_DB="-2.6854"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="77.7471" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="AL0AARERESIiISIjMzMzNFVmYxEWindUMzMzM0RFVVVmd3iIiZmaqqqqqqu7zN7u0gGv///////////////////////q//////////////////////qLj////////////////////////+vIhlVERDNERERVVmZ3d4iIiIiId2ZlVWdlZ2VVZmZ4d4mprNyneIiIiIeIiIh3d4dniImJiJm//+/v/////////////////DIRI0XP/////////////////////////////////////////////////////////////////////////97czMy6qZmIiHdlZVRDMyIREA==" TITLE="yahel-waves-of-sound-upgrade"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:ספטמבר 2014 - עדכון 1/:karahana/:" FILE="yahel-waves-of-sound-upgrade.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="128000" KEY="C" PLAYCOUNT="4" PLAYTIME="189" PLAYTIME_FLOAT="188.656" IMPORT_DATE="2014/9/25" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="2948"></INFO>
+<TEMPO BPM="70.0002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-4.28608" PERCEIVED_DB="-4.06053" ANALYZED_DB="-4.07381"></LOUDNESS>
+<MUSICAL_KEY VALUE="0"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1795.08" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7177" AUDIO_ID="AR4UISUyJTIiIiRzElQiVSIyMkd4iZmIiIiJiJqpmZiXMjZTN1MkNDSIiImIljNWVEdUQzQ2dERmVHVEQ0RoiampmZmZmZmZmpmZmZqZmqpDJFMkcyNCM3ZDVkNHVEM0NnQ0ZTSFM0NDWZmZmJqpq6maqZqqmamamaqqmpqquoVEZkWHVFRUWFRGZEZ1RERFiZmZiJhTRmRHZTQ1RYUzZlR3U0REWZmZqYmYmZqJmZiZqZhERWVGhUVkNImZqqiamqqpqqmZqpqpqqmquZmZmJmYmZiKmIqZmampmZq4ISRCJUISEiNzIkUyRjIiIjYyI1MjYxIiImUhNTI2MiIiEA==" TITLE="Crazy In Love (MMP Intro) (Clean)" ARTIST="Beyonce ft Jay Z"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014/:Hip Hop/:" FILE="Beyonce ft Jay Z - Crazy In Love (MMP Intro) (Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Intros" KEY="Gm" PLAYCOUNT="32" PLAYTIME="286" PLAYTIME_FLOAT="285.884" IMPORT_DATE="2014/10/18" LAST_PLAYED="2015/12/5" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="11196"></INFO>
+<TEMPO BPM="99.2612" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.214927" PERCEIVED_DB="2.46973" ANALYZED_DB="2.46973"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="364.508" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AMmN3e3t//3d3d//3d7e3//t3d3/////////////r///////////////65iZmYiYiIiJiImJiJmYmJv///3//s//3P///////////97//////////////////////////////////////////////+/v/////uu6zJq6qr/8qqyq3/uanKvv/9/8z//+//7v//3/y///7//////////u7u7d7u7/////////zv//////////////////////////7////////////////////8//////////////////////////////7+7///7//+///v/////v///9QQAAAAAAAA==" TITLE="Rambo Love It (#RAGE EDIT)" ARTIST="Deorro x J-Trick x Icona Pop"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014/:House/:" FILE="Deorro x J-Trick x Icona Pop - Rambo Love It (#RAGE EDIT).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Deorro x J-Trick x Icona Pop - Rambo Love It (#RAGE EDIT)" KEY_LYRICS="promodrops" KEY="G" PLAYCOUNT="14" PLAYTIME="201" PLAYTIME_FLOAT="200.751" IMPORT_DATE="2014/10/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="7844"></INFO>
+<TEMPO BPM="128.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.67708" PERCEIVED_DB="-4.02478" ANALYZED_DB="-4.02478"></LOUDNESS>
+<MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="33.0893" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ANOv///////////////////////ZiJiHeImIhYu7y7urq7zMys3Ny7urq7u7yb3//+7v7v7u+8//////////////////////+bz////////////////////bx3i///////////////////7byIf+mImId4iYiFi8vLu6urvMzKzc3Lu6uru7vJvf//7u/u/+773//////////////////////5vP///////////////////9vHeM///////////////////tvIh8///////////////////////7/////////////////////7h6v////////////////////7VXoA==" TITLE="La La La (BeatBreaker Soccer Anthem Edit)" ARTIST="Shakira Vs Sick Individuals"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014/:House/:" FILE="Shakira Vs Sick Individuals - La La La (BeatBreaker Soccer Anthem Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Shakira Vs Sick Individuals - La La La (BeatBreaker Soccer Anthem Edit)" KEY_LYRICS="promodrops" KEY="G#" PLAYCOUNT="13" PLAYTIME="211" PLAYTIME_FLOAT="210.599" IMPORT_DATE="2014/10/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8228"></INFO>
+<TEMPO BPM="128.013" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.40133" PERCEIVED_DB="-3.77296" ANALYZED_DB="-3.77296"></LOUDNESS>
+<MUSICAL_KEY VALUE="8"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="62.4008" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOG//4ev/5d//8dv//h7//l4//t3//6H3/+7v///3///3////v//+////////////////+/MrMyqqrqruquom5vty8zMzMzLzLzcu8zf/Yd6/pmX/pZW/8q63//+j///fv//////yv///////////////++7q8ypq8u7u7upq5zMu8y9zM3L3Mzcu8zf+oiIaIiHZ2Z4irvJ7///7////////////////////////f//mc7Lisisqcmrmqm6vKz8u7u6u72qy7u7qarP7b3c7d3dztzdy83O/8hmv9mpf9hVb/yrrv/5eP/6d//9h9//hX//l3//x37/+Hv/+FQQAA==" TITLE="Hey Mama (CK Intro - Clean)" ARTIST="David Guetta ft Nicki Minaj &amp; Afrojack"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:דצמבר 2014/:hip hop/:" FILE="David Guetta ft Nicki Minaj x Afrojack - Hey Mama (CK Intro - Clean 86).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="static-city.com"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Top 40 / Dance" COMMENT="static-city.com" KEY_LYRICS="static-city.com" KEY="Am" PLAYCOUNT="23" PLAYTIME="226" PLAYTIME_FLOAT="225.254" IMPORT_DATE="2014/12/11" LAST_PLAYED="2015/12/5" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="8824"></INFO>
+<TEMPO BPM="86" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.19681" PERCEIVED_DB="-2.07284" ANALYZED_DB="-2.07284"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="45.7199" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOBliGWIVYhWeGdod1iGWZau+t3c3Ozc7tzuzO7N3c3f7v/8qZmYmqq6qZqqqqmaqqpWf///////////////////////+P///8j/////iIupn///////////////apiOeqqqmrq7uZu6uqmrqrdWz///////////////////////////+o//////qZu6///////////////7iJmqm6qpm6q7qZuqqpm6mpZn/////////////////////////////////////////5//j/7P/8/7//r///Zr/////////////////////////////////////3VVUgAAAAAAAAAAAA==" TITLE="GDFR (Transition 130-73 / Dirty)" ARTIST="Flo Rida ft Sage The Gemini"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:December 2014 - update 2/:Transitions/:" FILE="Flo Rida ft Sage The Gemini - GDFR (Transition 130-73 - Dirty).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Dms"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Hip Hop" COVERARTID="065/BOUURUC54REDADYF50IYA2HWTEHD" KEY="Gm" PLAYCOUNT="27" PLAYTIME="224" PLAYTIME_FLOAT="223.634" IMPORT_DATE="2014/12/22" LAST_PLAYED="2015/12/5" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="9236"></INFO>
+<TEMPO BPM="72.9999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.58544" PERCEIVED_DB="-2.17053" ANALYZED_DB="-2.17401"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="3230.32" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="ANkSMiMhMSMkQjQzMjarmaibqqmaqZqZhWaLuJuKvM3qes3///yZv9/97d/e/97v3e3v3v3v3+z+//yJyq/d7u2ZhniIeYuXeXaYmYnZeHioeanKZ6eLZ6rLmIh3d3dkiXmHiHh4u6rO//7//////+/+/8/t/9/+/////+zP/v/9z+zNm97r3M///P///v///v////797////c7e/u/t7e3v3u3+z93s3u793+7v6py53Ozf/ZmYrdzM/+/9/8/d/9/+//////7////93f//3////////P///v///e/////Jd5jN69/7mJiaqaiaiKeZVjSJdph4q7yWaa3u22QQAA==" TITLE="I Need Your Love" ARTIST="Shaggy ft. Mohombi, Faydee, &amp; Costi"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:January 2015/:Hip Hop/:" FILE="Shaggy - I Need Your Love.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Dm" PLAYCOUNT="31" PLAYTIME="217" PLAYTIME_FLOAT="216.686" IMPORT_DATE="2015/1/16" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8488"></INFO>
+<TEMPO BPM="89.9998" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.941532" PERCEIVED_DB="-2.6041" ANALYZED_DB="-2.6041"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="16.0602" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AJI3hjQjZUIyNlIxNlQ0R4Y0I2VCMjZCMTVTP+///u///v3////////v///////////+upl7/JuVNneodYmIZodmiFZ2ZUaJyGeqq83M7c2667zN3u7/7v///93u/v7//////////////8//2a7/+Jz//93//////9iv//m7//2q////36r7jbnemvuOqM2866//////zs7d3N35WFuf///////v///////7//////////////uc/////////////////////////////////6yOv/////////////////////////////////9TMhAAAAAAAAAAAAAAAAAAAAAAAA==" TITLE="Sugar (Anthem Kingz Remix) CK Cut Clean" ARTIST="Maroon 5"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:February 2015/:House/:" FILE="Maroon 5 - Sugar (Anthem Kingz Remix CK Cut Clean 128).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static-City - PromoDrops.net"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="A#m" PLAYCOUNT="28" PLAYTIME="147" PLAYTIME_FLOAT="146.39" IMPORT_DATE="2015/2/20" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="5732"></INFO>
+<TEMPO BPM="128.002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.77862" PERCEIVED_DB="-3.37053" ANALYZED_DB="-3.37832"></LOUDNESS>
+<MUSICAL_KEY VALUE="22"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="57.4301" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="DypazMzd3czcq97tzu3u27qrzNzd3Mzu7+7u3az/67u6q83LqrvN3bq7zcl3qoiGeqmZu7rMzczL2+7u67u8/9rP7v//7v//3t///////+pZ/9/93MzM3//MzdqJq73e6pqr3d7um6rtvt3/7/3u3pmazeyZrd7u7/7P/bzL7uzLzu1pu97czMzMzLu7u7zcu7zM3dy7zN3dzM6927zd2s3+3d/6iauqqqq73aq9zd26vN3d3v7MzMzNzK3/////////////+7u7u8u7y8yrys/+zf/szP/9ys3/+87/////////////////2e/+rv/5z/y6u8vMu7y7upq7q7upgA==" TITLE="R&amp;B Set 2010" ARTIST="DJ Mushon"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:March 2015/:set/:" FILE="DJ Mushon - R&amp;B Set 2010.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" GENRE="Other" KEY="Bm" PLAYCOUNT="25" PLAYTIME="3882" PLAYTIME_FLOAT="3881.59" IMPORT_DATE="2015/2/28" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="91272"></INFO>
+<TEMPO BPM="97.0008" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.58838" PERCEIVED_DB="-1.44053" ANALYZED_DB="-1.45715"></LOUDNESS>
+<MUSICAL_KEY VALUE="23"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="129.295" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7177" AUDIO_ID="AJWv/////////////////////////////////////1IiIkf//+U2hUEjLP//+UWGZWZ4////////////////////////m////6n///+4/////8h5///4RIZzMzR3lmeXUSIzNJ//////////////////////////////////////////////+1Wv//xln//9ZW///4Xf//+mfP//tmr//8Z5///peJdTMzWGYzM0hqVnlkFEVFWv////////////////////////////////////////+Fz/////////////////////////////////////////xW///9MREAAAAA==" TITLE="Candy Shop (Knock2 Twerk RMX / Clean / Chorus Only / Short Edit) - 11A" ARTIST="50 Cent"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:March 2015 - update 2/:Hip Hop/:" FILE="50 Cent - Candy Shop (Knock2 Twerk RMX Clean Chorus Only Short Edit) - 11A.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Bm" PLAYCOUNT="7" PLAYTIME="149" PLAYTIME_FLOAT="148.872" IMPORT_DATE="2015/3/26" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="5820"></INFO>
+<TEMPO BPM="99.9998" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.508666" PERCEIVED_DB="0.697876" ANALYZED_DB="0.697876"></LOUDNESS>
+<MUSICAL_KEY VALUE="23"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="27.1096" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOx7p2dZn/qsm/uvu6dn7Z/6rK/7r7mHdWeZz/rK/////7uMus//zJy8mYdldmd3hlR3WN/9y63M3v3Mpnfv///////////////////X//////////////////////////////////////////////eoiHlVd4d1eEbP+treq7/+7MlXz////////////s/+/////////Inf/////////v///////////////////v/////////6uaZmmHeqhpZ4z/34x8+u69jKt5//////7///////+9rK35/s92Vb///+/v////7+/a///v7/7////v/5dmNlVnmZhliJcwAAAA==" TITLE="Hotel' (Mordye More!) -103-" ARTIST="Kid Ink Feat. Chris Brown"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:March 2015 - update 2/:Hip Hop/:" FILE="Kid Ink Feat. Chris Brown - Hotel' (Mordye More!) -103-.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Edit's Pack Collectoin By Mordye' More Vol.8!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="224000" GENRE="Abstract" KEY="A#m" PLAYCOUNT="11" PLAYTIME="237" PLAYTIME_FLOAT="236.424" IMPORT_DATE="2015/3/26" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="6468"></INFO>
+<TEMPO BPM="102.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.480933" PERCEIVED_DB="-0.949234" ANALYZED_DB="-0.949234"></LOUDNESS>
+<MUSICAL_KEY VALUE="22"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="29.8384" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AMM/9v6t/Y/4/37sz/f/n////v/f/f///9//////v/r////P+//v/v///8/8////v/z///z//////////+////3////////P///+//7e///9////3////////v////////////3////////////////8/////////////f///////8////////3////v/////v//////////3////////////////+//////////7u2u/v7r7u/Wzv/e//7+ve3/+u7f7e///u////////3////////////+////////7//////v+//f/8/9/7////////7///+f/f/u///2EAAAAA==" TITLE="ילרמשכ קותמ (DJ Tzealon Official Dancehall Remix)" ARTIST="דעילא"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update1/:Hip Hop/:" FILE="06- אליעד - מתוק כשמרלי (DJ Tzealon Official Dancehall Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="6" TITLE="Segalovich BASE Vol. 22"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 22" COVERARTID="117/VPJIBPBE4AXEYAPJQCEWCR3S5ZDA" KEY="G#" PLAYCOUNT="22" PLAYTIME="196" PLAYTIME_FLOAT="195.396" IMPORT_DATE="2015/4/18" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="7824"></INFO>
+<TEMPO BPM="95.0007" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.58714" PERCEIVED_DB="-1.36984" ANALYZED_DB="-1.36984"></LOUDNESS>
+<MUSICAL_KEY VALUE="8"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="528.986" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AN0Hmnmqq4eouqramavN/s7cy8/a7t/t7u3/783//u3u7c7t/s/u/O/+7v7vzP66/tze/tze3s3v393v++//7P///d7/z/7///3v//3f/+7/793/797//97//uze7d7rzszbrO/M7b253t/d7M3e2b2/27ut7//M/u/t/t7d7v/f/vzf/f7v/9z/+/7c/v+u//+///6//968/+3O/u3O/u7//u/+3//+7//97/7u/v/t/+/f//7bz7vO/M7L7L3e3M7M2q/v7P3Ozvqcvf3v3t//7e7v/v7f3f7v/e/93/7/3+783+/+/u/d/u/9/u3e7v/f/vzf/u3e28uHirQAAA==" TITLE="רבג לכ לש םולח (DJ Tzealon Official Dancehall Remix)" ARTIST="לטיו דעלגו לנימילבאס"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update1/:Hip Hop/:" FILE="07- סאבלימינל וגלעד ויטל - חלום של כל גבר (DJ Tzealon Official Dancehall Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="7" TITLE="Segalovich BASE Vol. 22"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 22" COVERARTID="117/VPJIBPBE4AXEYAPJQCEWCR3S5ZDA" KEY="Am" PLAYCOUNT="23" PLAYTIME="221" PLAYTIME_FLOAT="220.604" IMPORT_DATE="2015/4/18" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="8832"></INFO>
+<TEMPO BPM="96.9997" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.864078" PERCEIVED_DB="-2.59861" ANALYZED_DB="-2.59861"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="362.783" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AQuO3Ozs3d7OuWVc7M3Ozc3s7//+zM+Yu7m6mnrP///9q7vd3c7/////3//////////////////////////////////////////////////////////////////////v///+//////////////////7//////////////////////////P////////////////////////7////v/////v/////+/////+//////////////////////////7/////////////////////////////7////v///////v///+//3////v/////+///v/+//////7//LdUMiIREQAAAA==" TITLE="El Tiki (DJ Kobi M Regga Rework)" ARTIST="Flaco Flow &amp; Melanina feat. Big Mancilla"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update1/:Hip Hop/:" FILE="Flaco Flow &amp; Melanina feat. Big Mancilla - El Tiki (DJ Kobi M Regga Rework).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="8A" KEY="Am" PLAYCOUNT="31" PLAYTIME="268" PLAYTIME_FLOAT="267.259" IMPORT_DATE="2015/4/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="10456"></INFO>
+<TEMPO BPM="97" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.57535" PERCEIVED_DB="-4.30607" ANALYZED_DB="-4.30607"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.8629" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/26" MODIFIED_TIME="86369" AUDIO_ID="ALxYZneGZndmZoZmaHdmh3aId2r8ru/tpt3aa9yWzcpq3Ja9y2rcpr7cnf/r3/677trP7rv//N//3O783/////////68y8vL3d7d3e3u///4q73///////////////////////+aq////////////+//////////////////25ZCIhIlZ4zdpp3LaMymjdyL////7Mu7vLu6vczMu7vKu7uru8ze3u7+7///+Kur///////////////////////////////////////v//////////////////////////////////////+526h4ineKl3d5d3eYd3mIiZd3z+nJEA==" TITLE="Hey Ho 2015 (Kingz Essential Party Starter)" ARTIST="Anthem Kingz"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:" FILE="Anthem Kingz - Hey Ho 2015 (Kingz Essential Party Starter).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Fm" PLAYCOUNT="6" PLAYTIME="189" PLAYTIME_FLOAT="188.5" IMPORT_DATE="2015/5/8" LAST_PLAYED="2015/12/5" FLAGS="12" FILESIZE="7380"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.55841" PERCEIVED_DB="-3.65298" ANALYZED_DB="-3.65298"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="29.0301" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="APBrqYd4dmZmaHZmZnh2Zneby7qZmZiYiJqpmrvOzLzcWMvMzN3Ly8zdzLy7zczNzdz+//////////7//////////+7t3d7t3c7////////////////////v///////ZN8//////////////////+5z///////////////////ie////2c3M3d7M3Mzevc3Lzs3d3O/////////+///////////+///////8c57//////////////////7nf//////////////////2J////////////////////7f//////////////////5mj//////////////////6Y1MQAAAA==" TITLE="I Love Sax (Icona Pop vs Lucky Date vs Tujamo Surprise Banger)" ARTIST="Anthem Kingz"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:" FILE="Anthem Kingz - I Love Sax (Icona Pop vs Lucky Date vs Tujamo Surprise Banger).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="G#" PLAYCOUNT="16" PLAYTIME="241" PLAYTIME_FLOAT="240.065" IMPORT_DATE="2015/5/8" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="9396"></INFO>
+<TEMPO BPM="128.002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.19553" PERCEIVED_DB="-3.68994" ANALYZED_DB="-3.68994"></LOUDNESS>
+<MUSICAL_KEY VALUE="8"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="31.0516" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ANRFdWVWZkZGVWZkZGRWVkZGRmZlZGRWVUZGRmZldWV3eIqbq7z//////////////////////4n//////////////////a2/ze/////8vLt8u6rbp6momqhYqYn+vP/Mndzv+7jdy97LqZh+7rz9/v//z9/f///7mP///6qf+//////73////7///////9u//////////////////////////////+/////+////////7u3dzf////////////z/////////zv////////////z/////////zv//////////////////////iL//////////////////////qt8gAA==" TITLE="Love Me Like You Do (Kingz Epic VIP Weapon)" ARTIST="Anthem Kingz"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:" FILE="Anthem Kingz - Love Me Like You Do (Kingz Epic VIP Weapon).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="D#" PLAYCOUNT="19" PLAYTIME="212" PLAYTIME_FLOAT="211.931" IMPORT_DATE="2015/5/8" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8276"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="128.001" BPM="128.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.37109" PERCEIVED_DB="-3.55151" ANALYZED_DB="-3.55151"></LOUDNESS>
+<MUSICAL_KEY VALUE="3"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.7485" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AP+v/////////////////df///////////////////+VMiEXmsyqiYmEMzWqqYh4iEMzSZqoiqh0M0SKqYh3u73f7e7e3f////7d3u3f///////s3u7t3/////7e6Iv//////////f///////////////////P///////v/Ll2VF26mZiIiHh4qYiIh4iHd53P/tzJiIiJq+7cun3t/f/u///u7////u7//u7////+3cve7t3v/////e7Grf/////////7///////////////////8///////+/f/////////v///////Wmqu7qcu7upqbu7qszLuGqbykIREQAAAA==" TITLE="Feel So Close (Deville 2015 Headliner Bootleg) Clean" ARTIST="Calvin Harris, Tiesto, KSHMR, Autoerotique, Max Styler"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:" FILE="Calvin Harris x Tiesto x KSHMR x Autoerotique x Max Styler - Feel So Close (Deville 2015 Headliner Bootleg Clean 128).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Bootleg / Melbourne / Electro House" KEY="Em" PLAYCOUNT="16" PLAYTIME="256" PLAYTIME_FLOAT="255.347" IMPORT_DATE="2015/5/8" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="10000"></INFO>
+<TEMPO BPM="127.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.4184" PERCEIVED_DB="-3.10053" ANALYZED_DB="-3.10913"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="24.6896" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="DXUSZ3d3e8zLqpiczdzcZa2Ymd7d2qq+7dto3riu/uyZ77mIjehn7t6oj/6FVn3u+onu7ZRpmqqqqquqqqqXeJdKutt3f//////6nN/7////+97Lq4///u7+3///+7q8//mv////////3cvf////6o///Hj//////Yi859/////97+nf+7//6d/pn+/nRUf////Gf////v//qKzGR6qZ3///+qz//qqq7//+/v2Ymb/////////cuHh4nP//////9lRW///f//VYrP///93v//////9kM0VVXO7K6kRVZmd87trtVniJmaq7uv///////v53iP////VWiIiP///7gA==" TITLE="Amit Agami - Deep It #2 (Jan' 15 set)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:sets/:" FILE="Amit Agami - Deep It #2 (Jan' 15 set).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="F" PLAYCOUNT="24" PLAYTIME="3446" PLAYTIME_FLOAT="3445.18" IMPORT_DATE="2015/5/8" LAST_PLAYED="2015/12/4" FLAGS="14" FILESIZE="134580"></INFO>
+<TEMPO BPM="124" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-5.90293" PERCEIVED_DB="0.109466" ANALYZED_DB="0.159256"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1160.4" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7177" AUDIO_ID="AN8SISIkIhIjZCIjIzIyMzeNt+RJrY1zmOqbJ57J5oqHeGeWdneId1aGeGd4mKd5lkh3mYiIdWZXiZmqnf//+8///+zbq8ibmryr3///3P/u/s7KvJnLu7u7l3dmiXiXaLmHZmmYmqzLiK1nuYrJmpdnd5mKq5j///6+///+3bvMmcus7N////3v///97bzazsvMq7dmZleHdmmZdndmh3Znm6map3qpq6m5irlpqaqqp4eJeKd2h3l1RUVFWIZ4mav///7f///97Lzczbzt7N////3////u3My83tze3f///9/////////r////3////v/////4dmrfl4ma1wAAAA==" TITLE="Bang Bang(DJ Ron Margan Extended Mix) 75bpm" ARTIST="Jessie J, Ariana Grande &amp; Nicki Minaj"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:Hip Hop update/:" FILE="Bang Bang(DJ Ron Margan Extended Mix) 75bpm.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="5A - 7" KEY="Cm" PLAYCOUNT="19" PLAYTIME="223" PLAYTIME_FLOAT="222.824" IMPORT_DATE="2015/5/12" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8760"></INFO>
+<TEMPO BPM="74.9984" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.0246901" PERCEIVED_DB="-1.00361" ANALYZED_DB="-1.00361"></LOUDNESS>
+<MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="92.3809" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOwaqqzKqsyqq8v7///////////5///+7trNu7zNx73////////v//z////////////avv//////////////r+/8/v+v//zM/////////////v//////////+Z3/7r+8/frf3r3//e+/3uz877///////////f//z////////////rzv//////////////r+/8/v+v7/zM///////////////////////////73s/N/fvf3q3+///////////////a28zficm6r///////////3P///u3+zv/v/////////f////////////////////////////////////////cA==" TITLE="Hachi Israeli Remix (with Hatikva 6, EZ, Nechi Nech)" ARTIST="Gal Goren &amp; DJ Smiley"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:Hip Hop update/:" FILE="DJ Smiley &amp; Gal Goren - Hachi Israeli Remix (With Hatikva 6, EZ, Nechi Nech) .mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Fm" PLAYCOUNT="11" PLAYTIME="236" PLAYTIME_FLOAT="235.886" IMPORT_DATE="2015/5/12" LAST_PLAYED="2015/12/5" RELEASE_DATE="2014/1/1" FLAGS="14" FILESIZE="9252"></INFO>
+<TEMPO BPM="104.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.13475" PERCEIVED_DB="-3.49782" ANALYZED_DB="-3.49782"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="485.877" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOtFNlVTZkVFdGRXRlR0ZkdVZHY0RERlVWVUVVVVRVVEWHeWd2dop6iJeZmnmXp5l7mbipi4mnqJl5iLiqaYiZqYuJmKiri6m4qoqJqKiaiqm5qnqWVVVVVFRVRFRURpl6iZeYi4qnuJp6iKiYenm4uZt6mKeZiniWmXqIl5mqipmomYuauKmLipiomYqJuKqKeJZEVUVVVURFRERVenqYl5l7mbipi4mnqIl5iLiqeomnqYp5l5iri5eYmZqJqKiaiqm5qnqZp6maiZi5q4qXqaqKmaipm4qpuJqKmaipioq4uYp4mKaJaWeWqXuJpqhoWIV1Z2p3pphpdVQyIQAA==" TITLE="ED Sheerman - Dont (B-BaS DanceHall remix 100 bpm)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:Hip Hop update/:" FILE="ED Sheerman - Dont (B-BaS DanceHall remix 100 bpm).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="4A - 8" KEY="Fm" PLAYCOUNT="24" PLAYTIME="236" PLAYTIME_FLOAT="235.259" IMPORT_DATE="2015/5/12" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="9240"></INFO>
+<TEMPO BPM="99.9991" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.0789526" PERCEIVED_DB="4.39389" ANALYZED_DB="4.39389"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="29.0352" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7192" AUDIO_ID="ARBrmImHiIeIeIiJmJqoiM27rbu8mtu8yq3Lrbu7vtz73My8vc3K+9zMzMzN6+7NzMvM3Nu/zczMzNzuyqiIeHhod3eGhnZ3Z3iKqaqqq7q7u7vMzJeJVb//7//v/v/7//////6a7P////////7v/////8zf6oioeZd7ibl3qYineqi8zr3My7rc3K+8zMzLzN6+3MzMu83Nu/zczMy9zuyqiIeHhod3aGdnZnZ2eKqamqqqq7u7vLzJeJVs///////v/8//////6a6/////////7v/////8zf3////////+///////d/97t3+zu3P/d7s7939ituGVUMRAAAAAAAA==" TITLE="PITBULL - SHAKE YO ASS (STARJACK FUTURE HOUSE EDIT)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:May 2015- Update1/:House/:" FILE="PITBULL - SHAKE YO ASS (STARJACK FUTURE HOUSE EDIT).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Cm" PLAYCOUNT="10" PLAYTIME="272" PLAYTIME_FLOAT="271.804" IMPORT_DATE="2015/6/5" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="10632"></INFO>
+<TEMPO BPM="124.99" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.759002" PERCEIVED_DB="-1.77053" ANALYZED_DB="-1.78452"></LOUDNESS>
+<MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="10.0882" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AKUVmXd4ZWh3hFiYdnh2ZmZTOIdmiId3eEV3iZeYZ3hoqe///////////////+//3/7v/////////////////8a//v///////////////////////////////////////////////v////3/7f7u///+/f/////////f///u///////////////////////////////////////////87+/f38/f7v//787/7f//7//u//7/7v/7/v39/f7///////////////////////////////////////////////////////////////////////////////////+WQQAAAA==" TITLE="DJ gal malka - Ba La lirkod"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:June 2015/:Hip Hop/:" FILE="DJ gal malka - Ba La lirkod.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="250000" KEY="E" PLAYCOUNT="22" PLAYTIME="165" PLAYTIME_FLOAT="164.65" IMPORT_DATE="2015/6/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="5044"></INFO>
+<TEMPO BPM="95.0005" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.13654" PERCEIVED_DB="-4.24242" ANALYZED_DB="-4.24242"></LOUDNESS>
+<MUSICAL_KEY VALUE="4"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="543.953" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AL9rm6q6qauat7uMp7qburu7qqvKvIzK/+3P/+3M3cu7zavKy3iK7bvaze//2azv///amt7ezNvNq7rLvKu7q9vM3c3M3M3//////ajP/////////////67////////////////67/7/////////////////////////////yd7/7f///s///s///9/u/e///93Jrdz/7//////////////////////////////////s7//u/v7e/u7L/+3L3/////7////////+qK//////////////v//////////////d3fmv////////////////////////////////gwAAAA==" TITLE="I Need Your Love (BrainDeaD Remix)" ARTIST="Shaggy Feat. Mohombi &amp; Faydee Costi"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:June 2015/:Hip Hop/:" FILE="Shaggy Feat. Mohombi &amp; Faydee Costi - I Need Your Love (BrainDeaD Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Visit BrainDeaD:  www.facebook.com/braindead.official  www.soundcloud.com/djbraindead  www.youtube.com/djbraindead" COVERARTID="012/MIBJLOAWJJ5GCAMSFB1VBOUZ5QGC" KEY="Dm" PLAYCOUNT="5" PLAYTIME="192" PLAYTIME_FLOAT="191.19" IMPORT_DATE="2015/6/18" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="8372"></INFO>
+<TEMPO BPM="101.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.84236" PERCEIVED_DB="-4.39568" ANALYZED_DB="-4.39568"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="76.7895" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ASh93c3tzczvzMzdzLu77d3d7d3N3d3d3//c7//v7/7///7+7c3b/b//7+///+7//+3+3/1////+//7u3//d79rvzu7u/e/t7d7/7v7N/s7/zLl2VFuJiWh6nIiqnLirzMrP//////////////+9////////////////7////////////////9//7u397/7u/v7u3M+V/+/u7//e3f/83+yu7O3d/s7+zc3u/N7s7t3/7d3MvbvKrLq7vu3v//////////////+9////////////////7////////////////qz///////////////zf/+7v/+3e3/7d3/63hRAAAA==" TITLE="Waiting For Tiger Love (DJ CAL Bootleg)" ARTIST="Avicii ft John Legend vs R3hab"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:June 2015/:House/:" FILE="Avicii ft John Legend vs R3hab - Waiting For Tiger Love (DJ CAL Bootleg).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="F#m" PLAYCOUNT="13" PLAYTIME="297" PLAYTIME_FLOAT="296.385" IMPORT_DATE="2015/6/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="11580"></INFO>
+<TEMPO BPM_TRANSIENTCOHERENCE="128" BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.11055" PERCEIVED_DB="-3.08247" ANALYZED_DB="-3.08247"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.8287" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AMGP7//f/v/////e7///////////////////7t7vzdzP3c3//////////////////2nv///////////+7+3//////////////////////////////////93v3ey/3d3v////////////////7onP///////////+/v///////////////////////////////27//v7////+////7f/////////v/////////u3+6+2+7u3v/f///////////////8iv/////////////v7///////////////zf//////////////3N3///////v/////zv3///////ztvr7eqnAA==" TITLE="Policeman" ARTIST="Eva Simons ft. Konshens"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:July 2015/:Hip Hop/:" FILE="Eva Simons ft. Konshens - Policeman.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="F#m" PLAYCOUNT="16" PLAYTIME="194" PLAYTIME_FLOAT="193.045" IMPORT_DATE="2015/7/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="7564"></INFO>
+<TEMPO BPM="105.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.687888" PERCEIVED_DB="-3.97897" ANALYZED_DB="-3.97897"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="5.06799" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AS8XuVh0mqmI6oiFVVe//v/////////+/v//7+7//v//y/zPvf/////////v/c/////9/+z9/vzKmNqar/7//////////v7//+/u//7/78v7z8y73qzZ3a3K7K6r+5v4z633z8/X/7/2//6YmYmJqrmJqbucy/y/zfrvz/j/r/n//4j731z8/0/7/2//2Gh3dniJd4h3domvzfvffPz9b/v/b//4iZiYmquYmpmYq8/d/O/P/f+v/P+///rPvfn/3/n/v/r//Yhrh5hrl5d7d5Wc/d/O+c/P+f/P+f//mJmJiau5iamZirv2X4fzn4/x73+i//80dUYld3Und3Q3dw==" TITLE="Crank That vs Watch Me (Deville Club Segway) Clean OG Edit No DJ Intro" ARTIST="Soulja Boy, Silento"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:July 2015 - update 1/:Hip Hop/:" FILE="Soulja Boy x Silento - Crank That vs Watch Me (Deville Club Segway) Clean OG Edit No DJ Intro 4A 70.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Cm" PLAYCOUNT="16" PLAYTIME="303" PLAYTIME_FLOAT="302.864" IMPORT_DATE="2015/7/24" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="11836"></INFO>
+<TEMPO BPM="69.9998" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.06754" PERCEIVED_DB="-1.65593" ANALYZED_DB="-1.65593"></LOUDNESS>
+<MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1097.96" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AUF//v/v/v7v7/7/7lbv//////////////y6usy7uZqrqruKyrvLu6uryaq6y8ucz+28qqq5q7q8qpvJz+yYiIiIiJqqqpvMl9///////////////e////////////+qmv///////9///////v//////////////7///////////////7v//7f///////////////5mIiZiZq7u6qqmXr///////////////r/////////////+Y7//////////////s//////////////5p7//////////////q//////////////Z6dnZnZnaJZnZnZnaIZnZnZnaIZnZnZmaFAA==" TITLE="Nadav Guedj - Golden Boy (San Atias Mashup)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:July 2015 - update 1/:House/:" FILE="Nadav Guedj - Golden Boy (San Atias Mashup).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="G#m" PLAYCOUNT="10" PLAYTIME="321" PLAYTIME_FLOAT="320.679" IMPORT_DATE="2015/7/24" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="12532"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.25892" PERCEIVED_DB="-2.0312" ANALYZED_DB="-2.0312"></LOUDNESS>
+<MUSICAL_KEY VALUE="20"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="99.7551" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ASKv//////////////7/////////+3VVWayqmsqZmLqqvM3u/1ERERGf/////////////9n/////////////lW//////////////////////2f/7q9y3i////////P//////////////////l3eZQzIyIyIX/////////////////////////////////////////////9MARUMzMzNG9VVmd3eO2IiIiZmvuZntiKv/nPr+v8iszMzMzLi8y8zMzN7/7v7//+7/7dmYSZ///////////////f/////////9hlRXr/////////////////////////lSIRIlllMiEA==" TITLE="Undercover - Chapati [Roni Levi Edit]"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015/:Trance/:" FILE="Undercover - Chapati [Roni Levi Edit].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="7A" KEY="Dm" PLAYCOUNT="3" PLAYTIME="290" PLAYTIME_FLOAT="289.698" IMPORT_DATE="2015/8/7" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="11320"></INFO>
+<TEMPO BPM="72.5001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.93767" PERCEIVED_DB="0.0494661" ANALYZED_DB="0.0323944"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="2924.05" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="ALA4d3dnd2d3Z3ZnYld2d3Z3dnd2d3eL/////////////////////////2Es2ni9zLfMhozM26q3WrvLprpmq7zrzcmMvNqaunjMu6u8zIi7zczZi7q5rL7Xacx3uaaanLdrz8zMuZi7qXeHibzbqZmZmtu7rMdHrf/////////////v///////////+7/////////////////////////7/79zv////////////7////////////v//////////////////////////////////////////////////////////m/////////////////////////////pSEAAAAA==" TITLE="BBHMM (R3hab Remix) (Audio1 Edit) (Clean)" ARTIST="Rihanna"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 1/:House/:" FILE="Rihanna-BBHMM(R3hab Remix)(Audio1 Edit)(Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="2010s Dance, Top 40" KEY="Em" PLAYCOUNT="7" PLAYTIME="177" PLAYTIME_FLOAT="176.091" IMPORT_DATE="2015/8/14" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="6896"></INFO>
+<TEMPO BPM="128.006" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.66914" PERCEIVED_DB="-3.39053" ANALYZED_DB="-3.39025"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="55.8391" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AMUjQyNnczeZiENIVWRG/p/d37///uj97frv/////8/f//z///3////////v////+P3/+3ib7+yanNzrrP/cyszfZ89/7v/s//77////r////////v/9/////+///6///vr///vv///P/+/O/u36/+753+3vv7Zv///+/f//////38////3LvMvMuv/cy6y/tY/I/f/5///9v+//rv/2W//+/P///+//79////j97frf/u9vzt+9/+34+836v/3fj8zvtURc/v7//9//z/////////7by9ytus/tzKvM9nv37+/+v//vv///+v//////38//7////vz//4ZWIQAAAA==" TITLE="679" ARTIST="Fetty Wap Feat. Remy Boyz"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Hip Hop/:" FILE="05- Fetty Wap Feat. Remy Boyz - 679.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="5" TITLE="Segalovich BASE Vol. 23"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 23" COVERARTID="035/D34214B20ENY5CZH2N4XA1ZLFRVB" KEY="Bm" PLAYCOUNT="19" PLAYTIME="197" PLAYTIME_FLOAT="196.754" IMPORT_DATE="2015/8/20" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="7824"></INFO>
+<TEMPO BPM="95.0001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.27359" PERCEIVED_DB="-1.51263" ANALYZED_DB="-1.51263"></LOUDNESS>
+<MUSICAL_KEY VALUE="23"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="29.7214" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="ANACI0VXdlZ//5iGeHiYaXeIaZiIh4iIh4iZd5iJmZiK///3+t77////+7372Z///L/9/////q7Nz////67vz////77ajv///9z////v//v/7Ln///v+/f////3e/KZoZWZWZmZGVndVVX////+v3r////+e37+Lr4yLrZuJvZ7L563/7f/6/v3////7/vv////73vz////+z/7v///+3c3P///+y97/////3d3f////ut3//////PvM/////P79////+v39/////u/73////83s3////7/v3////6/Ov////7t+z//dq1VmVFVUQyIiISIRERAAAAAAAAAAAAAAAA==" TITLE="Do It Again" ARTIST="Pia Mia Feat. Chris Brown &amp; Tyga"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Hip Hop/:" FILE="06- Pia Mia Feat. Chris Brown &amp; Tyga - Do It Again.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="6" TITLE="Segalovich BASE Vol. 23"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 23" COVERARTID="035/D34214B20ENY5CZH2N4XA1ZLFRVB" KEY="D#" PLAYCOUNT="12" PLAYTIME="208" PLAYTIME_FLOAT="207.696" RANKING="255" IMPORT_DATE="2015/8/20" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="8252"></INFO>
+<TEMPO BPM="95.9994" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.445581" PERCEIVED_DB="-0.667053" ANALYZED_DB="-0.667053"></LOUDNESS>
+<MUSICAL_KEY VALUE="3"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="245.009" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AOETVVMiMiEiRVQiRDIiSrljRWzOm92arJvKi+qqmb2ruq3sy6yc2ryqvbzMq82bu8vKqrmtqbyqy5vMvNqry77//+////7v/+7+///v7f/+7v///v3//u/v///v7+uKqpe4iJmod3qpiYqGruqa29+6vcvtqbu9y9qb7//+////7v/+7+/////f/t3d7v/uzv/t7O7t3NzPu9qIuoq5jcmqma28qqz/287N/KzMz929zey+zKzszLjNq8y7/azd7tzL3czKrc3su73du8y627zLvu/u/e///+///s/v//3u//7d///93u//7v3/uZqHnLmXeLh3d+cQAAAAAAAAAA==" TITLE="Trap Queen" ARTIST="Fetty Wap"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Hip Hop/:" FILE="08 - Fetty Wap - Trap Queen.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="8" TITLE="Segalovich BASE Vol. 23"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 23" COVERARTID="035/D34214B20ENY5CZH2N4XA1ZLFRVB" KEY="C" PLAYCOUNT="13" PLAYTIME="225" PLAYTIME_FLOAT="224.862" IMPORT_DATE="2015/8/20" LAST_PLAYED="2015/12/4" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="8920"></INFO>
+<TEMPO BPM="74.0014" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.8357" PERCEIVED_DB="-1.0283" ANALYZED_DB="-1.0283"></LOUDNESS>
+<MUSICAL_KEY VALUE="0"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="103.655" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="68254" AUDIO_ID="AQMGvLu7u7q6q8qrq6zLuEiM/9//7/3v/+/9//7//e/KmGeJiIh5mau6u7q7vMy7zKvLq8zM3IaZ/+/////v/9//7////r29/+/////v/9////+5qp/u/9//7//v/+//7/7//+/tuXeJiJh5mZu6q7q7u8vLvLu8q8y83JaI7////////9//7////73M///////v/9//7//Zqo7+//7/7v/u/o7/7/7v/8/sqXZ5iJh4mYq7qrq7u9vLvLu8u7y8zbeIz//////u/+7/7////8zb7/7////+/+//7//6mozt3/3f3O/c793/zf/d/d/8z/3v3e/M/93+zf/d/d/7EA==" TITLE="Fun (Damaged Goods Remix)" ARTIST="Pitbull Feat. Chris Brown"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:House/:" FILE="07- Pitbull Feat. Chris Brown - Fun (Damaged Goods Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="7" TITLE="Segalovich BASE Vol. 23"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="254204" COMMENT="Segalovich BASE Vol. 23" COVERARTID="035/D34214B20ENY5CZH2N4XA1ZLFRVB" KEY="G" PLAYCOUNT="5" PLAYTIME="259" PLAYTIME_FLOAT="258.873" IMPORT_DATE="2015/8/20" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="12" FILESIZE="8160"></INFO>
+<TEMPO BPM="126" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.615344" PERCEIVED_DB="-0.884216" ANALYZED_DB="-0.884216"></LOUDNESS>
+<MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="574.588" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AL8D+5qKiHnFVURFVqVVRVZ9///////////////////v/////9///////////////////////////////////+///v////////////////////////+v///////////////////////////////////////////////////9/+7d7///7cu97tzu3e///szLzM3N7+7///7d/Lzv/////////////////////////////////////////////////////u7/7v/u3u3N7//////////////////////////////////////////////////////Kqqu4dHc1YxAAAA==" TITLE="דוקרל הצור קר איה" ARTIST="םדא רמועו ץרפ השמ"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Mizrahit/:" FILE="05- משה פרץ ועומר אדם - היא רק רוצה לרקוד.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="5" TITLE="Segalovich BASE Vol. 23"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Segalovich BASE Vol. 23" COVERARTID="035/D34214B20ENY5CZH2N4XA1ZLFRVB" KEY="A" PLAYCOUNT="8" PLAYTIME="191" PLAYTIME_FLOAT="190.704" IMPORT_DATE="2015/8/20" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="7588"></INFO>
+<TEMPO BPM="129.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.13783" PERCEIVED_DB="-2.23981" ANALYZED_DB="-2.23981"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="595.798" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="APoTNbp4iZdmeJqqh2ZWmJSIZlae6Lvevc3pq86nfet8ztpZ7Hy+3++nnv7rze6ZzdvMzbjL7L2XmYrNru3rvc2rvuzO3bqZzd7u2e3/3cc2mc+97v3d7YW//a/u7O3ur/34V++bvfzc7rm87IjOx9vuxo7YvN7+/Hjv/rze64zdy9zcjL7b23Zmndvd3qy2zc39t1vszs7Z3O+9zel1zs3WVX3tyu3bOM7r/9/O7fvv35Vd+5vf3d7tjL7Yiu2Lvfx23pnN/v7off/svd7IzN29zMi73bzHZkbNqN3LvM3I3Mzu+jje3bze2r6Yd3RmRFiIdWVmZ4mZREMQAAAAAA==" TITLE="El Taxi" ARTIST="Pitbull Feat. Sensato &amp; Osmani G"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Reggaton/:" FILE="03- Pitbull Feat. Sensato &amp; Osmani G - El Taxi.m4a" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="3" TITLE="Segalovich BASE Vol. 23"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="-1" COMMENT="Segalovich BASE Vol. 23" COVERARTID="035/D34214B20ENY5CZH2N4XA1ZLFRVB" KEY="Dm" PLAYCOUNT="18" PLAYTIME="250" PLAYTIME_FLOAT="249.847" IMPORT_DATE="2015/8/20" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="8592"></INFO>
+<TEMPO BPM="95.0044" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0" PERCEIVED_DB="-1.73831" ANALYZED_DB="-1.73831"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="2397.47" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOB4mpiaiKmJqYmp/+maqquYmpibqaz/5lZmdnZmZmZ3ZEjf3v7t7t393v7d7c7t3+zfzN7t/97+pe7f/u/d3u7v3//c/9797e7O/f///+zv3d3t3s3t3OzN7N/u3uzfze/t7t3t3f7N/M3d3uzu3N7d783tzO7e+ojoju3f3d3c3s3t7u/e/u7+7v3v7u//7s3u7e7e/d7u3u1UNVRERUZTVUSP/93u3vze3d7t783u3O7O7O3dzv3u7+7c397d7d7e/u3t7Wre7d7bzt3f3d/3eIdmaIZ2eIdq//zO3N7e/dzuzO7f7c793u3u3O/N7+26iaiJqYmoipie/8V4YA==" TITLE="Daddy Yankee - Sigueme Y Te Sigo (Extended Mix) Dj Federico Alochis" ARTIST="Daddy Yankee"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:September 2015/:Hip Hop/:" FILE="Daddy Yankee - Sigueme Y Te Sigo (Extended Mix) Dj Federico Alochis .mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="Extended mix"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Reggaeton" COVERARTID="113/RDWSTOB2FWBH1DJZEZWODVZ5FMHC" KEY="E" PLAYCOUNT="14" PLAYTIME="224" PLAYTIME_FLOAT="223.739" IMPORT_DATE="2015/8/28" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="8892"></INFO>
+<TEMPO BPM="100.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.884968" PERCEIVED_DB="0.13562" ANALYZED_DB="0.13562"></LOUDNESS>
+<MUSICAL_KEY VALUE="4"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="27.1271" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AOxqdmZWiHZnas3+y+zM28q2jdzZ3MzLzNu///7//////+3v////7v//2+/////u7u3N3+3e7e3NzMy//d3t3f//3u7czczN793M7////////////////////v7//9zKzMvM2bvMu7rLzM3rvu3e7/79/93e7u7v/t/v7rv////+7c7uzM7dztzdvdzLzd3t3d7//u7dzNzMzNzM3M3///7v////7//v/////9zM///////////////////+7u///v7////+//7//////8zN///////////////////97v////////////////////7//9l1WJh2iHaYd5homZiasA==" TITLE="The Nights [Original Mix] [http://vk.com/newfreshmusicufa]" ARTIST="Avicii"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:September 2015/:House/:" FILE="Avicii_The_Nights_Original_Mix_(vmusice.net).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="http://vk.com/newfreshmusicufa"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Dance House/Dance Club" COMMENT="http://vk.com/newfreshmusicufa" COVERARTID="032/AJQQ3XAXAQ2TFB4Z4FN4CBS4N0RD" KEY="F#" PLAYCOUNT="12" PLAYTIME="237" PLAYTIME_FLOAT="236.33" RANKING="255" IMPORT_DATE="2015/8/28" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="9324"></INFO>
+<TEMPO BPM="126.007" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-21.2208" PERCEIVED_DB="-1.98538" ANALYZED_DB="-1.98538"></LOUDNESS>
+<MUSICAL_KEY VALUE="6"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="248.189" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7208" AUDIO_ID="AQNJmYm4iKiKmJmYm3iZia3/////////////////+pUhERERERESIiImq6dnjOt3dr3MhnzbjJfL3Yrumuu9vc24z8nPve3e/9m///6q7d2b7qv9v8///////////////////pr/////////q///////957///////+sv////////qkxERXNlDRbyER1rMpUW7hsZbrNm+6a6729vbjOyc+s283/6r7v/7vc7q3/zP7f3+/////////////////9qv////////+c////////zv////////+////////7eP///////5W////////6b////////EP///////+FQQAAAA==" TITLE="How Deep Is Your Love (Calvin Harris &amp; R3hab Remix)" ARTIST="Calvin Harris, Disciples"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:September 2015/:House/:" FILE="Calvin Harris, Disciples - How Deep Is Your Love (Calvin Harris &amp; R3hab Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Em" PLAYCOUNT="8" PLAYTIME="259" PLAYTIME_FLOAT="258.9" IMPORT_DATE="2015/8/28" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="10140"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.73168" PERCEIVED_DB="-3.49217" ANALYZED_DB="-3.49217"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="39.0638" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AUbP//78/P79////38/P/5j//////f/////////vzqj/////////////////q4e6nJu8m6unj9/v///////9/v/////GqndkWbl4Zq/////////////////////4n8iemN/v/7r+7vy6qKvof9dNpq/+/+z+x+3JiGfe3u/d3O3t3t3f/P7d/p////////////////////+3r5Vudv39+Jz8qv2v763f3+7Nze3s7e3v7Ozt7b////////////////////+J/Ynri/3/+6/979vP/+7u3u3N3e7c7O3/zdzd6/////////////////////u6msiqyauorKmsiqyKug==" TITLE="Talk Dirty vs I'm Worth It (Deville Sax Tone Play Seque) Clean 1 Verse Edit" ARTIST="Jason Derulo x Fifth Harmony x Kid Ink"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:September 2015 - update 1/:Hip Hop/:" FILE="100 bpm - Jason Derulo x Fifth Harmony x Kid Ink - Talk Dirty vs I'm Worth It (Deville Sax Tone Play Seque) Clean 1 Verse Edit.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Cm" PLAYCOUNT="13" PLAYTIME="327" PLAYTIME_FLOAT="326.478" IMPORT_DATE="2015/9/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="12788"></INFO>
+<TEMPO BPM="99.9999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.88613" PERCEIVED_DB="-2.64159" ANALYZED_DB="-2.64159"></LOUDNESS>
+<MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="26.4091" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOJImJmKiKiYmZm2iN+f/+q+/+r//8u9pYeteaibaYpr7775//+c//2v/9zdn/3//8//////////////r///////7f/v//////7//////////v/////9q8/7///e///P/////+v//s///f//3dvf7//4jP/H7//v//////3///3///+8/////v/v//v////+/+///v/v/Pyq/+z//t///P//////v//93//8///cyv/v/7e9/4r//t/u7bmv/f///////////+///////v/L/9z//s//////////v//93//8//////////z//////////O//3f//z//93c3cxREAAA==" TITLE="Eliad- Or (DJ Tzealon Official Remix)"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:September 2015 - update 1/:Hip Hop/:" FILE="Eliad- Or (DJ Tzealon Official Remix).wav" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="1411200" PLAYCOUNT="13" PLAYTIME="226" PLAYTIME_FLOAT="225.9" IMPORT_DATE="2015/9/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="38924"></INFO>
+<TEMPO BPM="99.9994" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.000265068" PERCEIVED_DB="-2.29166" ANALYZED_DB="-2.29166"></LOUDNESS>
+<MUSICAL_KEY VALUE="8"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="150.19" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AJuf///+///////f//////7/////7+////7+/v//5X////3v///////97///7v///9/////////u///////////+/+/v7+7/7t///u/+7u7e3//+//////+d////////////////+7rP////////////////l4r//////8///////v/5vt//3////f/+////7//s3f////////////////7/7v//////////////////////7f7d7f////3///+q////////////////+7u/////////////////uHf////////////////92tve/uz+/c3uz+/tzv7f+3IQAAAAAA==" TITLE="Roll (BrainDeaD's Booty Edit)" ARTIST="Johnny Roxx x Melloquence x Alison Hinds"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:September 2015 - update 1/:Hip Hop/:" FILE="Johnny Roxx x Melloquence x Alison Hinds - Roll (BrainDeaD's Booty Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT=" Visit BrainDeaD:  facebook.com/braindead.official  youtube.com/djbraindead  soundcloud.com/djbraindead" COVERARTID="076/M01Y24CVFCVGFB2BHORMC1M2UC3C" KEY="Fm" PLAYCOUNT="11" PLAYTIME="155" PLAYTIME_FLOAT="154.776" IMPORT_DATE="2015/9/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="6344"></INFO>
+<TEMPO BPM="107.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.12378" PERCEIVED_DB="-3.32593" ANALYZED_DB="-3.32593"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="76.2835" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AJxXkWaEpnGWZ6dDeUh5JmhKeKp3aoeolYioubirmHOXz9vMq3yJqpp6mZmoqZqGp8iqqai4mqqJmry7lkRVX//////////P//////63eP/////////v/////pq5eZN5qIr//////////////////////////////////4j////////////////////////////////////GZWdp78zMqpqaqaepmqm2uJmGqKmaqoqZqpt6m738dUVVb/////////z///////2Ia/////////+/////9lR3d//8//r/+v/8//3/3v+//7/////////+/////9ZUVVYxAAAAAAAAAA==" TITLE="Lean On (BrainDeaD's Booty Bootleg)" ARTIST="Major Lazer &amp; Dj Snake"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:September 2015 - update 1/:Hip Hop/:" FILE="Major Lazer &amp; Dj Snake - Lean On (BrainDeaD's Booty Bootleg).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="  Visit BrainDeaD:  facebook.com/braindead.official  youtube.com/djbraindead  soundcloud.com/djbraindead" COVERARTID="076/M01Y24CVFCVGFB2BHORMC1M2UC3C" KEY="Gm" PLAYCOUNT="13" PLAYTIME="156" PLAYTIME_FLOAT="155.742" IMPORT_DATE="2015/9/18" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="6380"></INFO>
+<TEMPO BPM="101.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.46229" PERCEIVED_DB="-2.05666" ANALYZED_DB="-2.05666"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="104.863" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="ANs1ZkVUVEVEVERERFVVVFRFVVVmZlZna4d4e7qGRGZ1RGd1RFRVVnZEV3ZEZ3V3eIiJqYiKqXeJqZmqupq6qpu7qau6dmZs/////////////Hv///////////vHRv////////////15/7/7/7/u/P/LuXiKqXQzMzMzMyMzM0VDQzMzM0Q0NEM1e7u7qqy7qrvLu8vbvLy6vLy7y8u8y6mKqZeKmoeZqpqpyoqqqZurzLzLhmZp/////////////3j///////////y5Ve////////////83z+78/7/8/9/WZmicvLvLu7y7y7y7y7mYmYmIl4l4hWZnYQAAAAAAAA==" TITLE="Spread Out (DJ Ron Margan Fix)" ARTIST="BrainDead"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="BrainDead - Spread Out (DJ Ron Margan Fix)_PN.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COVERARTID="087/XOU4TQBRRMKMOBQWHRLAAACSHZZA" KEY="Em" PLAYCOUNT="7" PLAYTIME="220" PLAYTIME_FLOAT="219.376" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="9000"></INFO>
+<TEMPO BPM="100.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.55942" PERCEIVED_DB="-1.20586" ANALYZED_DB="-1.20586"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="94.6741" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="ANZKm5momoqYuoupysuaqKmaiLicmcmpiLrbrLvLvLzLy66+3L27y7y8u9vMu7zcvLvbvLzKzL3L6+3LyszMu9u9u8vN3MvL3arKzKzKzL29zLyru7u8qtu9u9y8vMvcvKvKvLzK7O3L27u7y7u9qsq8vcvLvKravL3b7a3N7a29yry8u8u8vNzLzLzLq5rKvLzLzf3Kyry7u7qsqsq9zLzMvLrLvazbzL7O26yryry7y9u8qsrsu8vKrKvavb3LzN3K2r2rusq8qsu9vLu8u5m5nJrJu6u8upyZuZqqqbqbmcq7q7qpm5m4rJq6u8uol3dlVVQ0MjIiEREQAAAAAA==" TITLE="Gyal You A Party Animal (DJ Ron Margan Extended Mix)" ARTIST="Charly Black"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="Charly Black - Gyal You A Party Animal (DJ Ron Margan Extended Mix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="7A" COVERARTID="014/OUFJHGBXND0P1DYZQ2LVCNYCNAND" KEY="Dm" PLAYCOUNT="12" PLAYTIME="215" PLAYTIME_FLOAT="214.413" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8560"></INFO>
+<TEMPO BPM="101" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="1.68439" PERCEIVED_DB="1.60103" ANALYZED_DB="1.60103"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="93.6001" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ALwSIyOGVndTQjM1Z0RmeKhodmZWmHeVZ2Z1Z4d4mah4dWl4mZmFVmmpmJaJZ3d5iJqImYmXmoqWmZioabqsmaqVVVVl3/78vv7//v/f+cdEXP///////////////9R+7737r/7//P2frs/P/9/7/N3+///vvurGd5nu/8+u/9////z9zf/////e+v/v///+z6//3////f29/////9/67///24q8irfNyty8y3VVVkz/3/nf/f/t/v+svs2t////7////////rRERJ7//87/7/////2///y////////////////5iO682nus7Xv57tm8vvy/qbtpt87a/4zGRmdmQA==" TITLE="Dessert Remix (Clean)" ARTIST="Dawin Ft. Silento"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="Dawin Ft. Silento - Dessert Remix (Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="D#m" PLAYCOUNT="16" PLAYTIME="189" PLAYTIME_FLOAT="188.447" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/4" FLAGS="14" FILESIZE="7384"></INFO>
+<TEMPO BPM="97" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.06182" PERCEIVED_DB="-1.55197" ANALYZED_DB="-1.55197"></LOUDNESS>
+<MUSICAL_KEY VALUE="15"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="24.1048" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/17" MODIFIED_TIME="67388" AUDIO_ID="AMEDNDNDRCNDRDRCQzQ3z8fpzLakvvfMnu/+uYdmdmZ4h2dnd6zM3f/+zP/+3P/+68/+7v//7K3/7c//7rv//su7qrmqhpeal3aImXqu/+2+/+3P/+7M//26qqu6mGZ2ju7sqbvMz//tvv/uv//+y//+7//u2q/+6///7K7/7Luqq5u5eImJdneKmJnP/uvf/uz//+2+/+yrqqu5h1d23v7bm7vM7//r3//s7//tvv/u///uuu/+zv/+2s/+2qd4iYZ2V2zu7bmJmZr//svv/t3//uuGZXZndmZWZmdr/+7KmZq8//7M7/7c//7rz/7u///srf/tz//uuv/uykEAAA==" TITLE="S I R (Shake It Right)[DJ Ron Margan Extended].mp3" ARTIST="DJ Rapture Feat Lil Kee"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="DJ Rapture Feat Lil Kee - S I R (Shake It Right)[DJ Ron Margan Extended].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="5A/4A - 8" KEY="5A" PLAYCOUNT="4" PLAYTIME="193" PLAYTIME_FLOAT="192.627" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="12" FILESIZE="7528"></INFO>
+<TEMPO BPM="100.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.0801858" PERCEIVED_DB="1.74496" ANALYZED_DB="1.74496"></LOUDNESS>
+<MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="96.2286" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AOFsm8nKu5u5ybyra9q8ravay72t7////////////////////////////8/+///M7f3O//7v/////P//i97vv//////8//7e//3/////////////7///////////////////////7//////////////////P///////////////////////////////////////5//////////////////////////////////////////7///////////VZrKuazty9qHfP6aq5qazd////v+ycr+///////f//3q7////v/+/v/////+3v/+////3/3//+/v/u//7/3+7////vgA==" TITLE="Nicky Jam - El Perdon (Dj Matan Richter Edit Cristian Gil Extended) 2015"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="Nicky Jam - El Perdon (Dj Matan Richter Edit Cristian Gil Extended) 2015.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Fm" PLAYCOUNT="8" PLAYTIME="226" PLAYTIME_FLOAT="225.384" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8820"></INFO>
+<TEMPO BPM="104.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-4.29711" PERCEIVED_DB="-4.50408" ANALYZED_DB="-4.50408"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="54.1903" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="AI5N/7xsaf/MiqnP+9a3r+eDIRr/vXuG3/vFyL/8yLqd/P/+z+/P/7//7//6//z//f//7/+v/8//7//8//r//L27m8u7upn//fv9/v7/3+//z8/fyTQkd8/9/f//79+/z+/v/f7727h5inZmdmhmhodmhmZ2eViJeYqc///+///+3+/f///////////9zru77/z8/v7/78/f79/e/9p2M4a//v/f79/Pz9///vz9+9yYiZ3/38/Pz+7e/fz8/P3+/+/f78/f3/7t/fv8/P/+7+2bmau77/vIyp3+vI2b/8yKqP+JUhFu/cqLWv+9e5rf+8bGj9l4dJpSERAAAAAAAA==" TITLE="R_City_Ft_Adam_Levine_-_Locked_Away_Donn_Camps_Dj_Matan_Richter_Power_Edit_2015[www.MP3Fiber.com]"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="R_City_Ft_Adam_Levine_-_Locked_Away_Donn_Camps_Dj_Matan_Richter_Power_Edit_2015[www.MP3Fiber.com].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="Fm" PLAYCOUNT="15" PLAYTIME="142" PLAYTIME_FLOAT="141.74" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="5540"></INFO>
+<TEMPO BPM="100.029" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.61942" PERCEIVED_DB="-2.5226" ANALYZED_DB="-2.5226"></LOUDNESS>
+<MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="102.91" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AOZYmJiIiZmImJiIiZmImJiZmZmIrKm6mJiHeah3iZiaqYiIp4eKiJqId4eHiXd4h3aKmamZmau7uoh4//////////////////////////hXdmZ3Z2d2ZUj7vZ6cyulnno27eHeHh4h1RXhUrru7maiYmqmIqZmrqZmZmKiriJ3KiYiZqIiJmIiamrqqqrzMyXh7/////////////////////////6VnloZpdod3dVzox62be9nq21RnZ3h3iId4h3dF7bu6mqmqmqmauqqqmYmamZnLZa+92/rczq696/vsvr/M6/rdz7/O///////////////////////+mBJDAA==" TITLE="לגיבוד# (DJ Ron Margan Extended Mix)" ARTIST="ירובת לא-ןבו קיטאטס ,ייקס"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:" FILE="סקיי, סטאטיק ובן-אל תבורי - #דוביגל (DJ Ron Margan Extended Mix).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="סקיי, סטאטיק ובן-אל תבורי - #דוביגל (DJ Ron Margan Extended Mix)" COVERARTID="127/5HJNZYDPSZ2DUBJ5GOQUCDVLOPGB" KEY="G#m" PLAYCOUNT="4" PLAYTIME="230" PLAYTIME_FLOAT="229.825" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="9216"></INFO>
+<TEMPO BPM="110.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.247033" PERCEIVED_DB="1.02989" ANALYZED_DB="1.02989"></LOUDNESS>
+<MUSICAL_KEY VALUE="20"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="93.6608" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7175" AUDIO_ID="ALM1RUREREVDMzMzREMyIzI0VDMzZmRv/u//7/7f7v/97/7v/v/u7u7v7t3edlRGMkhmUwAGdmUTZCLX34PsXOXPfvldwa5M+e+j6zzjr5/6b8e+rfjOqcuK17+L2pu3nIz4z7m7eteujPuct514ypqIqHl4l5lnl4l4mpmqqaqqqqm9rN/P/v/+7//u7f/97/7//u/+7/7YiJvs7//v/s/+7/7//9////7v/+73WHy2eImIiHeIiIiImoZneXdmeYiIZojJVlZWVnZWVlZmZmRVZlZnZmZmVmZ5llVVZVZVVWVVVmVVVVVVZVVWV3dkqGQyIhERAAAAAAAAAAAAAA==" TITLE="REAL SLIM SHADY (STARJACK 2015 BOUNCE HITTER) clean" ARTIST="EMINEM"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:" FILE="EMINEM - REAL SLIM SHADY (STARJACK 2015 BOUNCE HITTER) clean.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="EMINEM - REAL SLIM SHADY (STARJACK 2015 BOUNCE HITTER) clean" KEY="D" PLAYCOUNT="14" PLAYTIME="180" PLAYTIME_FLOAT="179.174" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="7016"></INFO>
+<TEMPO BPM="127.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.601904" PERCEIVED_DB="-0.490013" ANALYZED_DB="-0.490013"></LOUDNESS>
+<MUSICAL_KEY VALUE="2"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="966.361" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="ASPP///////////////v/////////////////////8llZnmdy86s7+7+zbv7vv3/+vzL/6mP///////////////////////su7u7vLu83u7///3/////////////////////////////////7////ruomqtiEAA2hTIUalIUiZQySJUyPf/t7v/+7//+3u//7vpWVFn//f/e/d///9/+zcrNv/3/2//P//////////////7dzMzNzMze3v///v//////////////////////////////////////////////////////////////////////9EQzMiIREQAAAAAAAA==" TITLE="AINT NOBODY OSTBLOCKSCHLAMPEN REMIX[www.MP3Fiber.com]" ARTIST="FELIX JAEHN feat JASMINE THOMPSON"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:" FILE="FELIX_JAEHN_feat_JASMINE_THOMPSON_-_AINT_NOBODY_OSTBLOCKSCHLAMPEN_REMIX[www.MP3Fiber.com].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="FELIX_JAEHN_feat_JASMINE_THOMPSON_-_AINT_NOBODY_OSTBLOCKSCHLAMPEN_REMIX[www.MP3Fiber.com]" KEY="Gm" PLAYCOUNT="11" PLAYTIME="292" PLAYTIME_FLOAT="291.135" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="11376"></INFO>
+<TEMPO BPM="127" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.59244" PERCEIVED_DB="-3.67589" ANALYZED_DB="-3.67589"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="77.6906" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7206" AUDIO_ID="AUcHy7q7q6q6uqqrqpW97///////7tzMiq////7cupmZmaupnP/cy6h2VVVVZmdnZniIh3d3iZqqmZmZh5mIiIef////3KdTe87//su6qqq6uru6nv//////////////r/////////////uc///////P///9qrvv///8y5iczf/dv////////////////////////+25iM3t783t793t/97///////////////////////////////7////////////v7u7/7u7u7///////2pnf///////v///Lqs7///////////y7vN///////+////vJZ+3czczLzMy8zMvJQA==" TITLE="Off The Hook (Original Mix)" ARTIST="Hardwell &amp; Armin van Buuren"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:" FILE="Hardwell_Armin_van_Buuren_Off_The_Hook_Original_Mix_(vmusice.net).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="vk.com/speeeedy"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" LABEL="vk.com/speeeedy" COMMENT="vk.com/speeeedy" KEY_LYRICS="vk.com/speeeedy" COVERARTID="117/VDJMOEC4RCOCJAESEDJJCWAN1NCB" KEY="Em" PLAYCOUNT="6" PLAYTIME="328" PLAYTIME_FLOAT="327.105" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" RELEASE_DATE="2015/1/1" FLAGS="14" FILESIZE="12904"></INFO>
+<TEMPO BPM="129.996" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.741626" PERCEIVED_DB="-1.89517" ANALYZED_DB="-1.89517"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="511.855" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="7206" AUDIO_ID="ARcUVUVURVRVRFRFVFVEV+7rqqu83tyqvu7LqrvN7cq9/+7NzLz+7szKq8y6vL793u66vf//7d7tqq7/////////////////rLv/////////////////z/////////////////5BERERIiIiIiIiIiIiIiIiI5zM3dqZmqq8zN3Jmc///t7uyrzv//3e7ru4zM//7/693////u/8zc/////////////////+vK3//////+//////////z///////////////vev////////////////////////////////////M3L3bzcvtvNvOy8292DZiZzRlN2NGQ3YlZEdRAA==" TITLE="Curlie Howard Club Mash[www.MP3Fiber.com]" ARTIST="Heroes - Måns Zelmerlöw"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:" FILE="Heroes_-_Måns_Zelmerlöw_-_Curlie_Howard_Club_Mash[www.MP3Fiber.com].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Heroes_-_Måns_Zelmerlöw_-_Curlie_Howard_Club_Mash[www.MP3Fiber.com]" KEY="Am" PLAYCOUNT="7" PLAYTIME="280" PLAYTIME_FLOAT="279.484" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="10920"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.13122" PERCEIVED_DB="-1.98805" ANALYZED_DB="-1.98805"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="84.881" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65412" AUDIO_ID="AICf//////////////////////////////////////6Yd2ZVRDQr/97f/////f/szv///////93+/O3tuu/8vpv/zM//7u/Jv//s/v7/7az/zO/v///J3//+///97O/7zfus///////v7////////f/////////v3///7e///t3//////93P79y7vOzru+zszM3e393e7+/+7f7rp9rf/////////////////////////////+//////qn3//////////+///////////////////+//////e37v///////////////////v///////////////2XKp0MiEQAAAAAA==" TITLE="I Cant Feel My Face (Martin Garrix Remix) (Clap Fix) (MMP Short Edit)" ARTIST="The Weeknd"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:" FILE="The Weeknd - I Cant Feel My Face (Martin Garrix Remix) (Clap Fix) (MMP Short Edit).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="Static City Records"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" KEY="Am" PLAYCOUNT="7" PLAYTIME="128" PLAYTIME_FLOAT="127.556" IMPORT_DATE="2015/10/10" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="3008"></INFO>
+<TEMPO BPM="127.992" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.52517" PERCEIVED_DB="-2.11169" ANALYZED_DB="-2.11169"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="23.8786" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/12" MODIFIED_TIME="50109" AUDIO_ID="ATECanEAa4d2eHZ3dXZ4uYhoeWepq5h4WImGeamVd5ioiZqKq6l5mI3e3drs+vzq3N3dvq6+nr2tzbzd2uzq6+rd27ytva6/vq2szLva7Orr69vMza2evp6+qn3M3Nrb6urq28y8va6ur6y9vc3M6+zr6+rt3My9rs6+rqd93dzq7Pr86tzd3r6uv56+rd3L3erd6u37h4VWdmZ3ZWd4fMvb6uvq6tzK3b7Orb++zs7e2+3r6+v829zdvs6uv77OzJqJiIWIlmeGmM3Ovq6/nr293cvc6+z7/Pvc7d7Pzt++rbzMy8rq6/zr6szMrZ2trq6tvciZqZmoiIvKqFRmUA==" TITLE="Travesuras_Remix_-_Nicky_Jam_Ft_De_La_Ghetto_Arcangel_EXTENDED_INTRO_DJ_SAMMY_BPM_94[www.MP3Fiber.com]"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015/:latin/:latin update/:" FILE="Travesuras_Remix_-_Nicky_Jam_Ft_De_La_Ghetto_Arcangel_EXTENDED_INTRO_DJ_SAMMY_BPM_94[www.MP3Fiber.com].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" KEY="A#m" PLAYCOUNT="4" PLAYTIME="306" PLAYTIME_FLOAT="305.058" IMPORT_DATE="2015/11/11" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="11920"></INFO>
+<TEMPO BPM="94.0003" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.571087" PERCEIVED_DB="-0.699852" ANALYZED_DB="-0.699852"></LOUDNESS>
+<MUSICAL_KEY VALUE="22"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="205.922" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/6" MODIFIED_TIME="59716" AUDIO_ID="APEiMzIiIzIyIiMzEiIzNtlEmYyEWZnHN6qoeURKy6mqzKmpzMmKvLu3l5zKmrzLmZvcuarMupmHvaiqvMqZrMuZrMu6momqiJqpmJi7qIqamYiYqqiJqZmIirqXmKqYmamWZ1RFRGVFZVVFVWZVWah4mal2iZqYeJmYiJd7uYmaqZmZu6iavLupqamXiaqoiJmqh4mZmXh4qYiIeJiIiYh4iImIh4mHiaqZd4iIdniHmYeImWZkVlVmVZdmd3iIZ4ipZpiahniYh3d3h2hniqqIibqYmau4iqu6qKiquIqrqYiaupiZqnZ2eJmGd3h1QyIAAAAAAAAAAAAAAAAAAA==" TITLE="Fetty Wap - Trap Queen [DorZevron Edit Extended] 3"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:" FILE="Fetty Wap - Trap Queen [DorZevron Edit Extended] .mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="241" PLAYTIME_FLOAT="240.588" IMPORT_DATE="2015/11/27" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="9416"></INFO>
+<TEMPO BPM="73.9999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.99231" PERCEIVED_DB="1.56569" ANALYZED_DB="1.56569"></LOUDNESS>
+<MUSICAL_KEY VALUE="0"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="30.7391" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/11/27" MODIFIED_TIME="65833" AUDIO_ID="ANwr/N7f7d3e3f3vzt3t38793e7d/O/M3+7//e283u//3rmu7//+7b3Kz9/t297u/+/uvdzv//7s3d/v/97O297f/c3e/////////////////////////////v/////////////////////////////7rLrbd2vN///dvd7v//3Zzd////3N7v/f/KzMqs/d/Yfbjvvf6v///////////////v////////////////////////////3////////////////////////////////////////////////////////////t39793e7d/e/N7d3f3v3O3d7t79zoEAAAAA==" TITLE="Sorry (Clean)" ARTIST="Justin Bieber ft Skrillex &amp; Blood"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:" FILE="Justin Bieber ft Skrillex &amp; Blood - Sorry (Clean).mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="2" PLAYTIME="221" PLAYTIME_FLOAT="220.082" IMPORT_DATE="2015/11/27" LAST_PLAYED="2015/12/5" FLAGS="12" FILESIZE="8600"></INFO>
+<TEMPO BPM="100.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.618953" PERCEIVED_DB="-1.68059" ANALYZED_DB="-1.68059"></LOUDNESS>
+<MUSICAL_KEY VALUE="10"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="255.244" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/10/31" MODIFIED_TIME="3504" AUDIO_ID="ANGe7t3v7O/+3/7e/u3u7d/+3u7d7+3//+/+3//+7+3/////////7u3d7v/u7d/d7c3d7v7u7e/////v////////////////7P//////////////////+Ves////58///+//////jf//7dyp7//47///7/////+f///vzv////////3//////G///u3u/d3d///u7f/f3d3f/+7+3/////7////////////////9z///////////////////lWvf///+fv/////////4///93cmf/+5e///9q////2X///7s/////////9//////p///ynIyIzIiMiIiEiQzIREAAA==" TITLE="Hotline Bling - Davey B vs Esentrik 128-69 Transition" ARTIST="Drake"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:transitions/:" FILE="Drake - Hotline Bling - Davey B vs Esentrik 128-69 Transition.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="The Movement!"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="1" PLAYTIME="210" PLAYTIME_FLOAT="209.032" IMPORT_DATE="2015/11/27" LAST_PLAYED="2015/12/5" FLAGS="14" FILESIZE="8188"></INFO>
+<TEMPO BPM="68.9999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.485816" PERCEIVED_DB="-0.9757" ANALYZED_DB="-0.9757"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="147.428" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="113" TYPE="PROTOCOL" UUID="9ad7370b284e4b2684e3ba338d1e2b49"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:Dawin Ft. Silento - Dessert Remix (Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="173.84" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058116" STARTTIME="83618"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:02.נתתי לה את חיי.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="74.5329" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058116" STARTTIME="83805"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Hip Hop/:08 - Fetty Wap - Trap Queen.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="174.485" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132058116" STARTTIME="83881"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:sets/:Amit Agami - Deep It #2 (Jan' 15 set).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="1801.17" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058116" STARTTIME="84056"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:sets/:Amit Agami - Deep It #2 (Jan' 15 set).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="2136.11" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058116" STARTTIME="85867"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Sean Kingston - Me Love.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="178.745" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="1613"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Reggaton/:03- Pitbull Feat. Sensato &amp; Osmani G - El Taxi.m4a"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="130.17" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="1762"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Jason Derulo - Ridin' Solo (Mordi Mor Extended Mix!) -90-.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="93.0748" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="1885"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:Hip Hop update/:ED Sheerman - Dont (B-BaS DanceHall remix 100 bpm).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="138.252" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="1960"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Jennifer Lopez F Lil' Wayne - Im Into You (Dj.D.Style &amp; X-Mix Extended) {94 BPM}.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="141.307" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="2089"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update1/:Hip Hop/:06- אליעד - מתוק כשמרלי (DJ Tzealon Official Dancehall Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="162.569" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="2217"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:09- Sean Paul Ft. Alexis Jordan - Got 2 Luv U.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="135.919" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="2369"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:יולי 2014 - עדכון 2/:Hip Hop/:Ariana Grande Feat. Iggy Azalea - Problem (DorZ Ext).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="96.2949" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="2487"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014-עדכוןן 1/:hip hop/:Impossible (DanceHall Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="135.611" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="2571"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:Charly Black - Gyal You A Party Animal (DJ Ron Margan Extended Mix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="165.208" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="2696"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:02- French Montana Feat. Nicki Minaj - Freaks.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="124.584" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="2853"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:11- Chris Brown Feat. Nicki Minaj - Love More.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="72.3591" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="2970"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:מרץ 2014/:Hip Hop/:Rihanna Vs. Specialist - The Monster (DJ Tzealon Dancehall Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="123.338" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3030"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Balkan Beat Box - Hermetico (SpenzatioN).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="168.416" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3143"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Daddy Yankee - Limbo.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="133.576" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3294"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:ינואר 2014/:House/:01- Pitbull Feat. Ke$ha - Timber.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="119.016" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3415"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:House/:07- Pitbull Feat. Chris Brown - Fun (Damaged Goods Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="61.0308" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3527"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:David Guetta Ft. Ne-Yo &amp; Akon - Play Hard (DJ OneF Intro).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="102.049" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3580"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:February 2015/:House/:Maroon 5 - Sugar (Anthem Kingz Remix CK Cut Clean 128).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="99.207" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3673"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:January 2015/:Hip Hop/:Shaggy - I Need Your Love.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="107.943" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3767"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:יולי 2014 - עדכון 1/:Hip Hop/:Enrique Iglesias feat. Sean Paul - Bailando (www.Only-Music.co.il).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="194.814" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="3870"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:R_City_Ft_Adam_Levine_-_Locked_Away_Donn_Camps_Dj_Matan_Richter_Power_Edit_2015[www.MP3Fiber.com].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="86.9252" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4059"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:September 2015 - update 1/:Hip Hop/:Eliad- Or (DJ Tzealon Official Remix).wav"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="150.049" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4132"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:11- Nechi Nech Feat. Soul J - Mi Deya.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="67.8398" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4273"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:Hip Hop update/:DJ Smiley &amp; Gal Goren - Hachi Israeli Remix (With Hatikva 6, EZ, Nechi Nech) .mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="132.565" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4329"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:The Black Eyed Peas - Lets Get It Started (Radio Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="107.653" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4454"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Big Ali ft. Lucenzo - Vem Dançar Kuduro.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="137.657" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4557"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:September 2015/:House/:Avicii_The_Nights_Original_Mix_(vmusice.net).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="153.292" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4688"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014-עדכוןן 1/:אוגוסט 2014 - עדכון 1/:House/:Stay The Night Ft Bad.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="109.954" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4831"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:Anthem Kingz - I Love Sax (Icona Pop vs Lucky Date vs Tujamo Surprise Banger).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="104.688" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="4925"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:The Weeknd - I Cant Feel My Face (Martin Garrix Remix) (Clap Fix) (MMP Short Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="115.755" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5020"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:July 2015 - update 1/:Hip Hop/:Soulja Boy x Silento - Crank That vs Watch Me (Deville Club Segway) Clean OG Edit No DJ Intro 4A 70.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="185.645" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5138"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:דצמבר 2014/:hip hop/:David Guetta ft Nicki Minaj x Afrojack - Hey Mama (CK Intro - Clean 86).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="67.5231" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5310"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Sean Paul ft Keyshia Cole - Give It Up To Me (Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="78.7179" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5369"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Hip Hop/:05- Fetty Wap Feat. Remy Boyz - 679.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="78.0437" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5438"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update1/:Hip Hop/:07- סאבלימינל וגלעד ויטל - חלום של כל גבר (DJ Tzealon Official Dancehall Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="191.992" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5498"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014/:Hip Hop/:Beyonce ft Jay Z - Crazy In Love (MMP Intro) (Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="79.1713" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5677"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:September 2015 - update 1/:Hip Hop/:Major Lazer &amp; Dj Snake - Lean On (BrainDeaD's Booty Bootleg).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="121.649" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5746"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:September 2015 - update 1/:Hip Hop/:Johnny Roxx x Melloquence x Alison Hinds - Roll (BrainDeaD's Booty Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="129.365" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5856"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014/:House/:Shakira Vs Sick Individuals - La La La (BeatBreaker Soccer Anthem Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="76.7882" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="5970"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:July 2015 - update 1/:House/:Nadav Guedj - Golden Boy (San Atias Mashup).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="107.313" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6030"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Mizrahit/:05- משה פרץ ועומר אדם - היא רק רוצה לרקוד.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="94.185" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6125"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:Anthem Kingz - Hey Ho 2015 (Kingz Essential Party Starter).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="81.5196" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6210"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:June 2015/:House/:Avicii ft John Legend vs R3hab - Waiting For Tiger Love (DJ CAL Bootleg).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="137.947" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6281"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:ספטמבר 2014 - עדכון 1/:House/:Empire-Of-The-Sun-Vs-Laidback-Luke-Alive-Flashing-Lights-BeatBreaker-Edit-.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="125.264" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6403"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:DJ Khaled Ft. Ludacris, Rick Ross, Snoop Dogg &amp; T-Pain- All I Do Is Win .mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="99.2622" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6523"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:Fetty Wap - Trap Queen [DorZevron Edit Extended] .mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="70.4816" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6614"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014-עדכוןן 1/:hip hop/:איזי - בן הבודדים - רשמי להורדה.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="137.235" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6677"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:אתניקס - ב.מ.וו שחורה.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="73.6727" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6808"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:September 2015 - update 1/:Hip Hop/:100 bpm - Jason Derulo x Fifth Harmony x Kid Ink - Talk Dirty vs I'm Worth It (Deville Sax Tone Play Seque) Clean 1 Verse Edit.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="185.621" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="6870"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update1/:Hip Hop/:Flaco Flow &amp; Melanina feat. Big Mancilla - El Tiki (DJ Kobi M Regga Rework).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="108.118" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7044"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:September 2015/:Hip Hop/:Daddy Yankee - Sigueme Y Te Sigo (Extended Mix) Dj Federico Alochis .mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="99.0849" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7140"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:shakira - voices from the fifa world cup - bamboo - mundial 2006.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="152.851" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7222"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:July 2015/:Hip Hop/:Eva Simons ft. Konshens - Policeman.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="162.604" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7367"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:ספטמבר 2014 - עדכון 1/:House/:Afrojack x Martin Garrix x Chris Brown - Turn Up The Speakers (Deville Party Break Intro 128).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="77.3811" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7519"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:May 2015- Update1/:House/:PITBULL - SHAKE YO ASS (STARJACK FUTURE HOUSE EDIT).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="69.3133" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7588"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:The Wanted VS Avicii - Glad You Sunrise (Dj BrainDeaD's Mashup).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="95.6788" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7652"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:Heroes_-_Måns_Zelmerlöw_-_Curlie_Howard_Club_Mash[www.MP3Fiber.com].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="107.862" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7734"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:FELIX_JAEHN_feat_JASMINE_THOMPSON_-_AINT_NOBODY_OSTBLOCKSCHLAMPEN_REMIX[www.MP3Fiber.com].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="99.4569" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7835"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:EMINEM - REAL SLIM SHADY (STARJACK 2015 BOUNCE HITTER) clean.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="46.9021" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7933"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014/:Hip Hop/:Brandon Beal ft. Christopher - Twerk It Like Miley (DJ Kobi M ShortCut Power Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="85.4139" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="7969"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:March 2015 - update 2/:Hip Hop/:50 Cent - Candy Shop (Knock2 Twerk RMX Clean Chorus Only Short Edit) - 11A.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="67.7236" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8043"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 2/:Hip Hop/:06- Pia Mia Feat. Chris Brown &amp; Tyga - Do It Again.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="70.7548" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8107"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:Nicky Jam - El Perdon (Dj Matan Richter Edit Cristian Gil Extended) 2015.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="146.131" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8166"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015/:latin/:latin update/:Travesuras_Remix_-_Nicky_Jam_Ft_De_La_Ghetto_Arcangel_EXTENDED_INTRO_DJ_SAMMY_BPM_94[www.MP3Fiber.com].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="62.1104" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8297"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:June 2015/:Hip Hop/:DJ gal malka - Ba La lirkod.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="165.618" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8348"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Daddy Yankey ft. Pit Bull, Lil Jon &amp; The East Side Boyz - Gasolina (Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="102.398" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8506"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוגוסט 2014/:Hip Hop/:Will Smith Ft. Usher - Prince Of Yeah (DJ Kobi M Break Edit).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="94.1879" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8600"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:DJ Rapture Feat Lil Kee - S I R (Shake It Right)[DJ Ron Margan Extended].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="90.3575" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8641"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:March 2015 - update 2/:Hip Hop/:Kid Ink Feat. Chris Brown - Hotel' (Mordye More!) -103-.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="104.267" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8748"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:סקיי, סטאטיק ובן-אל תבורי - #דוביגל (DJ Ron Margan Extended Mix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="127.386" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8840"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Survivor VS Felli Fel - Eye of the Boomeramg (Dj BrainDeaD's Transition 109-127) www.whitemusic.mx.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="71.8708" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="8957"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:Anthem Kingz - Love Me Like You Do (Kingz Epic VIP Weapon).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="98.3642" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9020"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:פברואר 2014/:House/:David Guetta Feat. Skylar Grey - Shot Me Down ( 2o14 ) [ www.MzHipHop.com ].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="40.189" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9109"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:House/:Calvin Harris x Tiesto x KSHMR x Autoerotique x Max Styler - Feel So Close (Deville 2015 Headliner Bootleg Clean 128).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="103.999" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9140"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:September 2015/:House/:Calvin Harris, Disciples - How Deep Is Your Love (Calvin Harris &amp; R3hab Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="111.021" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9234"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אוקטובר 2014/:House/:Deorro x J-Trick x Icona Pop - Rambo Love It (#RAGE EDIT).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="65.9973" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9338"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015 - update 1/:House/:Rihanna-BBHMM(R3hab Remix)(Audio1 Edit)(Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="94.0164" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9393"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:House/:Hardwell_Armin_van_Buuren_Off_The_Hook_Original_Mix_(vmusice.net).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="101.096" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9476"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:December 2014 - update 2/:Transitions/:Flo Rida ft Sage The Gemini - GDFR (Transition 130-73 - Dirty).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="85.196" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9569"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April 2015 - update2/:Hip Hop update/:Bang Bang(DJ Ron Margan Extended Mix) 75bpm.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="64.2349" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9640"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:_Smoke_Weed_Everyday_(Rasmus_Hedegaard_Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="139.831" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9700"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:BrainDead - Spread Out (DJ Ron Margan Fix)_PN.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="97.2627" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9821"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:October 2015/:Hip Hop/:Dawin Ft. Silento - Dessert Remix (Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="143.737" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="9909"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:June 2015/:Hip Hop/:Shaggy Feat. Mohombi &amp; Faydee Costi - I Need Your Love (BrainDeaD Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="165.696" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="10040"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Sean Paul - Temperature.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="96.0973" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="10201"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:מאי 2014 - עדכון 2/:House/:RHCP vs TJR &amp; VINAI - OTHERSIDE BOUNCE (STARJACK &amp; COLLINI BIG ROOM EDIT).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="154.339" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="10293"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:יוני 2014/:House/:Nari &amp; Nilan Vs Upgrade - Vago Baileys (Avishay P. Mash Up).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="78.7848" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="10430"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:יוני 2014/:Gili Trance/:Updrade - Baileys (Original Mix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="117.929" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="10508"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:יוני 2014/:Gili Trance/:Bliss Vs. Mekkanikka - Bella Donna (Blastoyz Remix) 2014.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="202.431" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="10619"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:ספטמבר 2014 - עדכון 1/:karahana/:yahel-waves-of-sound-upgrade.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="178.763" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="10816"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:ספטמבר 2014 - עדכון 1/:karahana/:Upgrade_Vs_Azax_Syndrom-Chakra_Flow(www.mp3vip.org).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="72.0772" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="10966"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Infected Mushroom - Becoming Insane (Album Mix) .mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="204.431" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11034"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Avalon - Funky Voodoo (Captain HooK remi.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="131.158" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11221"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Augost 2015/:Trance/:Undercover - Chapati [Roni Levi Edit].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="160.139" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11339"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:transitions/:Drake - Hotline Bling - Davey B vs Esentrik 128-69 Transition.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="90.0988" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11490"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:50Cent Feat Justin Timberlake And Timbaland-Ayo Technology-(Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="105.351" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11574"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Jeremih-Down_On_Me_(Feat_50_Cent).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="125.241" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11672"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Kanye West - Heartless (Dj OoriShviro Extended) -88 BpM-.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="120.591" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11778"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:coolio   gangsta's paradise - [MP3JUICES.COM].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="79.9444" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11877"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Stronger - Kanye West [NCT 8257851743].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="165.208" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="11949"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Shaggy_ft_Sean_Paul_-_Hey_Sexy_Lady.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="128.88" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="12099"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:אפריל 2014/:Hip Hop/:christina-aguilera---genie-in-a-bottle.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="142.202" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="12219"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:03- Melanie C - Never Be The Same Again.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="83.4377" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="12342"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:November2015Update1/:hiphop/:Justin Bieber ft Skrillex &amp; Blood - Sorry (Clean).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="100.84" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="12407"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:03- Massari Feat. French Montana - Shisha.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="118.906" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="12495"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Ja Rule _ Wonderful.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="58.8598" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="12605"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:March 2015/:set/:DJ Mushon - R&amp;B Set 2010.mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="382.659" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132058117" STARTTIME="12661"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="4"><ENTRY MODIFIED_DATE="2016/5/2" MODIFIED_TIME="65883" AUDIO_ID="AQAABGZmVVVVVVVVVVVVVVVVVmZmZmZmZmZmZmZmUiIiNWhnd4eGhXeGh4d4eGhYeaqqqqqqurqnee///////87////////9/////////97////////975OM/v////7////v//////7u7v///+7/3/7u/v/+7/3/7O3d7d3rz+3O3d/u393tmbz///////7f////////7v/e/v7+3u7u7N/v7+3u7MuYh4eHd3Znd3iHeHh4Z3iqqqqqqqq8t3rf///////e/////////e/////////f/////////f/ZmIiIiIiIiIiIiIiIVDSYh3d3d3d3d3d3d3d2d3cgAAAAAA==" TITLE="Mr. Saxobeat (Extended Version)" ARTIST="Alexandra Stan"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="01- Alexandra Stan - Mr. Saxobeat (Extended Version).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<ALBUM TRACK="1" TITLE="Segalovich BASE Vol. 6"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="192000" COMMENT="Segalovich BASE Vol. 6  DJ Or Segalovich" COVERARTID="005/FIEX5ADEOTIM0BUURKP4BVKOWEPC" PLAYCOUNT="62" PLAYTIME="257" PLAYTIME_FLOAT="256.157" IMPORT_DATE="2012/5/23" LAST_PLAYED="2016/5/6" RELEASE_DATE="2011/1/1" FLAGS="12" FILESIZE="6196"></INFO>
+<TEMPO BPM="127" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-2.49683" PERCEIVED_DB="-1.43053" ANALYZED_DB="-1.43428"></LOUDNESS>
+<MUSICAL_KEY VALUE="23"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1624.22" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/5/2" MODIFIED_TIME="65255" AUDIO_ID="AUhbqrqrqrqrqrrLq7z7q7u928u93O/tu8/Vd1d1d1eGiFeFh1aomYqoqYqomHqpmq3/3///3///7///////7//+/////////c7/7///7////////9/+///9///9///+/+/+///+///////////////////////////v///////////////////v///v///f/v/v///v///v/////ququ6qpq7q6q5upi5u5u6u5q6uZqqqqvKmZmpiIq5mZqEX/3///3///7///////3///7///7////P/+3//u3v/+7///78yrururqrqrqrq7q/u6q6q6q6q6q6q6q9QRAAAAAA==" TITLE="Lady (Mattara Extended Mix)" ARTIST="Coolio VS Beat Nouveau Feat Storm Lee"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Coolio vs. Beat Nouveau Feat Storm Lee - Lady (Mattara Extended Mix).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="House" COMMENT="http://www.4ump4.net/forum" PLAYCOUNT="21" PLAYTIME="329" PLAYTIME_FLOAT="328.359" IMPORT_DATE="2012/5/23" LAST_PLAYED="2016/5/6" RELEASE_DATE="2009/1/1" FLAGS="12" FILESIZE="12876"></INFO>
+<TEMPO BPM="125" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.524655" PERCEIVED_DB="-0.750534" ANALYZED_DB="-0.773201"></LOUDNESS>
+<MUSICAL_KEY VALUE="22"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="105.592" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/5/2" MODIFIED_TIME="65163" AUDIO_ID="AcZZiYmJiYmJiImZmZiZmJmYmZmZmZmZmZmZqpmamaqZmqmqqZmpmqmaqqq5VEQzMyIjIiqGVEZWNmQ2Zru8zLzcvNzM3MvdzM3d3dys3d3d3czNzMzdzd3d3Mzd3NuKhmeYaYmJmtzN3Mzcve3Kzd3d3d3M3c3N3d3c3d3N3czcvNy73MvMy8y7zbu8y8zMzdZERDM0M0RDRlRXVFVUVWVlZWVmZmZ3d3acu8u7zLvMu8y7vLu8y7urzNzM3M3MzdzMzNzdzc3M3czNzMzczMzNzLq7u8y7zLvMu7y6vLu8u7vKiqmZmZmZmZmZmZmZmZmZmZmZmZmpmZmZmZlAAA==" TITLE="Closer (Stonebridge Club Remix) FaceTheMusik.net" ARTIST="Ne-Yo"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:" FILE="Ne-Yo - Closer (Stonebridge Club Remix).mp3" VOLUME="Macintosh HD" VOLUMEID="70ea7a87"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="House" COMMENT="FaceTheMusik.net" PLAYCOUNT="46" PLAYTIME="454" PLAYTIME_FLOAT="453.564" IMPORT_DATE="2012/5/23" LAST_PLAYED="2016/5/6" RELEASE_DATE="2008/1/1" FLAGS="12" FILESIZE="17788"></INFO>
+<TEMPO BPM="128" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="2.29633" PERCEIVED_DB="1.19947" ANALYZED_DB="1.19276"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="60.7039" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2016/5/2" MODIFIED_TIME="63752" AUDIO_ID="ANgDe8y93c3ty+3c3tvO3b3qRon97uze/d7uze/e/93//v/83d66h2VDMiIhERFFRFRVVVVVVVVmZlSLm4unacuHaMmnirmZqqmartl3ecl4esu7maiIetu6mZmIm8uozru5u7qb3auszLmqvavfu6ztu83svN7szv///9rc///////////////////////////////////////////////e3///////////////////////////////////////////////////////////////////////////////////////////rM7///////////////7////8u8wwAAAAAA==" TITLE="Alan_Walker_-_Faded_Dash_Berlin_Remix[www.MP3Fiber.com]"><LOCATION DIR="/:Users/:tomerwizman/:Desktop/:Music/:April2016_Update1/:House/:" FILE="Alan_Walker_-_Faded_Dash_Berlin_Remix[www.MP3Fiber.com].mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" PLAYCOUNT="2" PLAYTIME="216" PLAYTIME_FLOAT="215.51" IMPORT_DATE="2016/4/30" LAST_PLAYED="2016/5/6" FLAGS="12" FILESIZE="8420"></INFO>
+<TEMPO BPM="127.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-4.61407" PERCEIVED_DB="-3.72562" ANALYZED_DB="-3.72562"></LOUDNESS>
+<MUSICAL_KEY VALUE="15"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="228.205" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="HISTORY"><PLAYLIST ENTRIES="4" TYPE="PROTOCOL" UUID="1b0cdd27e20f4510a921b437fde4a6c4"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Coolio vs. Beat Nouveau Feat Storm Lee - Lady (Mattara Extended Mix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="39.8233" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132121862" STARTTIME="37551"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:Ne-Yo - Closer (Stonebridge Club Remix).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="0" DURATION="98.9222" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132121862" STARTTIME="37592"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:Traktor Backup 1.11.13/:01- Alexandra Stan - Mr. Saxobeat (Extended Version).mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="10.9479" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="0" STARTDATE="132121862" STARTTIME="37654"></EXTENDEDDATA>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:tomerwizman/:Desktop/:Music/:April2016_Update1/:House/:Alan_Walker_-_Faded_Dash_Berlin_Remix[www.MP3Fiber.com].mp3"></PRIMARYKEY>
+<EXTENDEDDATA DECK="1" DURATION="95.2487" EXTENDEDTYPE="HistoryData" PLAYEDPUBLIC="1" STARTDATE="132121862" STARTTIME="37693"></EXTENDEDDATA>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>
