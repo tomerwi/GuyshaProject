@@ -15,9 +15,9 @@ namespace MusicReccomendation
         XmlReader reader;
         string allText;
 
-        public Parser(string xmlPath)
+        public Parser()
         {
-            readXmlAsString(xmlPath);
+            
            
         }
 
@@ -30,19 +30,41 @@ namespace MusicReccomendation
 
         }
 
-        public void parseXML()
+        public void parseXML(string path)
         {
-            reader.ReadToFollowing("Entry");
-            XDocument doc = XDocument.Load("AppManifest.xml");
-            List<Song> songs = doc.Root
-                              .Elements("Entry")
-                              .Select(x => new Song
-                              {
-                                  title = (string)x.Attribute("TITLE"),
-                                  //Class = (string)x.Attribute("class"),
-                                  //Class = (string)x.Element("INFO"),
-                              })
+            //reader.ReadToFollowing("Entry");
+            XDocument doc = XDocument.Load(path);
+
+            List<Song> songs = doc.Root.Element("COLLECTION")
+                              .Elements("ENTRY")
+                              .Select(x => createSongFromElement(x))
                               .ToList();
+            
+            Console.Write(songs);
+        }
+
+        private Song createSongFromElement(XElement x)
+        {
+            Song song = new Song();
+            song.title = (string)x.Attribute("TITLE");
+            song.artist = (string)x.Attribute("ARTIST");
+            string strgenre = (string)x.Element("INFO").Attribute("GENRE");
+            char[] dels = new char[2];
+            dels[0] = '/';
+            dels[1] = ' ';
+            song.genre = strgenre.Split(dels, StringSplitOptions.RemoveEmptyEntries).ToList();
+            string scount = (string)x.Element("INFO").Attribute("PLAYCOUNT");
+            int count = 0;
+            if (scount != null)
+                Int32.TryParse(scount, out count);
+            song.playCount = count;
+            string tempo = (string)x.Element("TEMPO").Attribute("BPM")
+            float bpm = 90.0;
+            if (tempo != null)
+                float.TryParse(tempo, out bpm);
+            song.bpm = bpm;
+            return song;
+                                 // count = (string)x.Element("INFO").HasAttributes.Attribute("PLAYCOUNT"),
         }
 
 

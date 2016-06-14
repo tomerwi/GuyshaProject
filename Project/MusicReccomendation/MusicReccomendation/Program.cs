@@ -11,7 +11,9 @@ namespace MusicReccomendation
     {
         static void Main(string[] args)
         {
-            
+            Parser p = new Parser();
+            p.parseXML("C:\\Users\\Tomer\\Documents\\GitHub\\GuyshaProject\\Dataset\\collection.nml");
+
         }
     }
 }

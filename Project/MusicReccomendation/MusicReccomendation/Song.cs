@@ -10,11 +10,11 @@ namespace MusicReccomendation
     {
         public enum Key { };
         private string id;
-        private float bpm;
+        public float bpm;
         public string title;
-        private string artist;
-        private List<string> genre;
-        private int playCount;
+        public  string artist;
+        public List<string> genre; //hilla: change to list
+        public int playCount;
         private Key key;
 
 
