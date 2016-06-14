@@ -11,7 +11,7 @@ namespace MusicReccomendation
         public enum Key { };
         private string id;
         private float bpm;
-        private string title;
+        public string title;
         private string artist;
         private List<string> genre;
         private int playCount;
