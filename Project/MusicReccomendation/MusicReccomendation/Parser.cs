@@ -46,6 +46,7 @@ namespace MusicReccomendation
         private Song createSongFromElement(XElement x)
         {
             Song song = new Song();
+            //id??
             song.title = (string)x.Attribute("TITLE");
             song.artist = (string)x.Attribute("ARTIST");
             string strgenre = (string)x.Element("INFO").Attribute("GENRE");
@@ -64,7 +65,6 @@ namespace MusicReccomendation
                 float.TryParse(tempo, out bpm);
             song.bpm = bpm;
             return song;
-                                 // count = (string)x.Element("INFO").HasAttributes.Attribute("PLAYCOUNT"),
         }
 
 

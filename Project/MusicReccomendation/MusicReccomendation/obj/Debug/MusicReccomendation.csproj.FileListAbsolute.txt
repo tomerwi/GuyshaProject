@@ -4,3 +4,4 @@ C:\Users\Tomer\Documents\GitHub\GuyshaProject\Project\MusicReccomendation\MusicR
 C:\Users\Tomer\Documents\GitHub\GuyshaProject\Project\MusicReccomendation\MusicReccomendation\obj\Debug\MusicReccomendation.csprojResolveAssemblyReference.cache
 C:\Users\Tomer\Documents\GitHub\GuyshaProject\Project\MusicReccomendation\MusicReccomendation\obj\Debug\MusicReccomendation.exe
 C:\Users\Tomer\Documents\GitHub\GuyshaProject\Project\MusicReccomendation\MusicReccomendation\obj\Debug\MusicReccomendation.pdb
+C:\Users\user\Desktop\לימודים\גיישה\פרויקט\GuyshaProject\Project\MusicReccomendation\MusicReccomendation\bin\Debug\MusicReccomendation.exe.config
