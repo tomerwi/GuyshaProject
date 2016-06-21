@@ -11,9 +11,15 @@ namespace MusicReccomendation
     {
         static void Main(string[] args)
         {
-            Parser p = new Parser();
-            p.parseXML("C:\\Users\\Tomer\\Documents\\GitHub\\GuyshaProject\\Dataset\\collection.nml");
-
+            RecommendationSystem rc = new RecommendationSystem();
+            rc.Load("collection.nml");
+            List<Song> playList = new List<Song>();
+            Song ans = rc.Recommend(playList);
+            while (ans != null)
+            {
+                playList.Add(ans);
+                ans = rc.Recommend(playList);
+            }
         }
     }
 }

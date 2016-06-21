@@ -8,15 +8,23 @@ namespace MusicReccomendation
 {
     class Song
     {
-        public enum Key { };
-        private string id;
-        public float bpm;
+        //public int id;
+        public double bpm;
         public string title;
-        public  string artist;
+        public string artist;
         public List<string> genre; //hilla: change to list
         public int playCount;
-        private Key key;
+        public string key;
 
-
+        public override bool Equals(object obj)
+        {
+            if (obj is Song)
+            {
+                Song song = (Song)obj;
+                if (title.Equals(song.title) && artist.Equals(song.artist))
+                    return true;
+            }
+            return base.Equals(obj);
+        }
     }
 }
