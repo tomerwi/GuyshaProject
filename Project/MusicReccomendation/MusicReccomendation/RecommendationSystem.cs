@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace MusicReccomendation
 {
@@ -29,9 +30,11 @@ namespace MusicReccomendation
                 return null;
             Random rnd = new Random();
             int limit = 1000;
-            if (DataSet.Count < limit)
-                limit = DataSet.Count;
-            List<Song> randomData = DataSet.OrderByDescending(x => (x.playCount * rnd.Next())).Take(limit).Where(x=> !playList.Contains(x)).ToList();
+            //List<Song> zero = DataSet.Where(x => x.playCount == 0).ToList();
+            List<Song> randomData = DataSet.Where(x => x.playCount > 2).ToList();
+            if (randomData.Count < limit)
+                limit = randomData.Count;
+            randomData = randomData.OrderByDescending(x => (x.playCount * rnd.Next())).Take(limit).Where(x=> !playList.Contains(x)).ToList();
             Song ans = randomData.First();
             if (playList == null || playList.Count == 0)
             {
@@ -70,18 +73,20 @@ namespace MusicReccomendation
             double bpmSim = 1 - (Math.Abs(song1.bpm - song2.bpm)/ 60 ) ;
             if (bpmSim < 0)
                 bpmSim = 0;
-            int countSimKey = 0;
+            double keySim = 0;
             if (song1.key.Equals(song2.key))
-                countSimKey = 3;
+                keySim = 1;
             else
             {
+                int countSimKey = 0;
                 song1.key.ToCharArray().ToList().ForEach(c =>
                 {
                     if (song2.key.Contains(c))
                         countSimKey ++;
                 });
+                int maxLength = Math.Max(song1.key.Length, song2.key.Length);
+                keySim = countSimKey / maxLength;
             }
-            double keySim = countSimKey / 3;
             double artistSim = 0;
             if (song1.artist.Equals(song2.artist))
                 artistSim = 0.5;
@@ -107,8 +112,11 @@ namespace MusicReccomendation
         public double TestRecommendation(List<Song> playList)
         {
             List<Song> currPlayList = new List<Song>();
-            double totalSim = 0;
+            List<Song> generatedPlayList = new List<Song>();
+            double avgSim = 0;
             double maxSim = 3.5;
+            StreamWriter sw = new StreamWriter("testResults.txt", false);
+            sw.WriteLine(playList.First().PrintString());
             foreach(Song song in playList)
             {
                 int index = playList.IndexOf(song);
@@ -117,11 +125,16 @@ namespace MusicReccomendation
                 currPlayList.Add(song);
                 Song nextSong = playList[index + 1];
                 Song recommendedSong = Recommend(currPlayList);
+                generatedPlayList.Add(recommendedSong);
                 double sim = calcSimilarity(recommendedSong, nextSong);
                 sim = sim / maxSim;
-                totalSim += sim; 
+                sw.WriteLine(nextSong.PrintString() + " |||| " + recommendedSong.PrintString() + " ----> Similarity = " + sim);
+                avgSim += sim; 
             }
-            return totalSim / (playList.Count -1);
+            avgSim = avgSim / (playList.Count - 1);
+            sw.WriteLine("Average Similarity = " + avgSim);
+            sw.Close();
+            return avgSim;
         }
     }
 }

@@ -12,15 +12,16 @@ namespace MusicReccomendation
         static void Main(string[] args)
         {
             string dataSetFile = "collection.nml";
-            List<Song> playList = CreatePlaylistFromRecommendations(dataSetFile);
-            PrintPlayList(playList);
-            double recTestScore = TestRecommendation(dataSetFile);
+            string testSetFile = "testCollection.nml";
+            //List<Song> playList = CreatePlaylistFromRecommendations(dataSetFile);
+            //PrintPlayList(playList);
+            double recTestScore = TestRecommendation(dataSetFile, testSetFile);
         }
 
-        public static List<Song> CreatePlaylistFromRecommendations(string file)
+        public static List<Song> CreatePlaylistFromRecommendations(string dataSetFile)
         {
             RecommendationSystem rc = new RecommendationSystem();
-            rc.Load(file);
+            rc.Load(dataSetFile);
             List<Song> playList = new List<Song>();
             Song ans = rc.Recommend(playList);
             while (ans != null)
@@ -31,12 +32,12 @@ namespace MusicReccomendation
             return playList;
         }
 
-        public static double TestRecommendation(string file)
+        public static double TestRecommendation(string dataSetFile, string testSetFile)
         {
             RecommendationSystem rc = new RecommendationSystem();
-            rc.Load(file);
-            List<Song> playList = new List<Song>();
-            playList.AddRange(rc.DataSet); //can be changed.. not all the data set..
+            rc.Load(dataSetFile);
+            Parser parser = new Parser();
+            List<Song> playList = parser.ParseXML(testSetFile);
             return rc.TestRecommendation(playList);
         }
 

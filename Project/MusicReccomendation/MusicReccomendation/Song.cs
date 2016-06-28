@@ -26,5 +26,10 @@ namespace MusicReccomendation
             }
             return base.Equals(obj);
         }
+        
+        public string PrintString()
+        {
+            return title + " - " + artist;
+        }
     }
 }
