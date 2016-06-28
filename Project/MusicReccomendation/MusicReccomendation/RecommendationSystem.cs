@@ -23,6 +23,7 @@ namespace MusicReccomendation
             DataSet = parser.ParseXML(file);
         }
 
+        //This function gets the current playlist, and returns the next song that should be played
         public Song Recommend(List<Song> playList)
         {
             
@@ -67,6 +68,7 @@ namespace MusicReccomendation
             return score;
         }
 
+        //Calculate the similarity between songs, based on BPM, Genre, Key and Title.
         private double calcSimilarity(Song song1, Song song2)
         {
             //BPM Similarity (Maximun value - 1 )
@@ -90,12 +92,12 @@ namespace MusicReccomendation
                 keySim = countSimKey / maxLength;
             }
 
-            //Artist Similarity
+            //Artist Similarity (Maximun value - 0.5)
             double artistSim = 0;
             if (song1.artist.Equals(song2.artist))
                 artistSim = 0.5;
 
-            //Genre Similarity
+            //Genre Similarity (Maximum value - 1
             int countSimGenre = 0;
             if(song1.genre.Count !=0 && song2.genre.Count != 0)
             {
@@ -105,12 +107,12 @@ namespace MusicReccomendation
                         countSimGenre++;
                 });
             }
-
             double genreSim = 0;
             if (countSimGenre != 0)
             {
                 genreSim = countSimGenre / (song1.genre.Count + song2.genre.Count - countSimGenre);
             }
+
             return genreSim + artistSim + bpmSim + keySim;
         }
 
@@ -122,9 +124,14 @@ namespace MusicReccomendation
             double avgSim = 0;
             double maxSim = 3.5;
             //change to csv
-            StreamWriter sw = new StreamWriter("testResults.txt", false);
-            sw.WriteLine(playList.First().PrintString());
-            foreach(Song song in playList)
+            CSVExport csvExport = new CSVExport();
+            csvExport.AddRow();
+            csvExport["original"] = playList.First().PrintString();
+            csvExport["recommended"] = "";
+            csvExport["similarity"] = 0;
+            //StreamWriter sw = new StreamWriter("testResults.txt", false);
+            //sw.WriteLine(playList.First().PrintString());
+            foreach (Song song in playList)
             {
                 int index = playList.IndexOf(song);
                 if (index == playList.Count - 1)
@@ -135,12 +142,17 @@ namespace MusicReccomendation
                 generatedPlayList.Add(recommendedSong);
                 double sim = calcSimilarity(recommendedSong, nextSong);
                 sim = sim / maxSim;
-                sw.WriteLine(nextSong.PrintString() + " |||| " + recommendedSong.PrintString() + " ----> Similarity = " + sim);
+                csvExport.AddRow();
+                csvExport["original"] = nextSong.PrintString();
+                csvExport["recommended"] = recommendedSong.PrintString();
+                csvExport["similarity"] = sim;
+                //sw.WriteLine(nextSong.PrintString() + " |||| " + recommendedSong.PrintString() + " ----> Similarity = " + sim);
                 avgSim += sim; 
             }
             avgSim = avgSim / (playList.Count - 1);
-            sw.WriteLine("Average Similarity = " + avgSim);
-            sw.Close();
+            csvExport.ExportToFile("testResults" + ".csv");
+            //sw.WriteLine("Average Similarity = " + avgSim);
+            //sw.Close();
             return avgSim;
         }
     }
