@@ -23,6 +23,7 @@ namespace MusicReccomendation
             DataSet = parser.ParseXML(file);
         }
 
+        //This function gets the current playlist, and returns the next song that should be played
         public Song Recommend(List<Song> playList)
         {
             
@@ -67,6 +68,7 @@ namespace MusicReccomendation
             return score;
         }
 
+        //Calculate the similarity between songs, based on BPM, Genre, Key and Title.
         private double calcSimilarity(Song song1, Song song2)
         {
             //BPM Similarity (Maximun value - 1 )
@@ -90,12 +92,12 @@ namespace MusicReccomendation
                 keySim = countSimKey / maxLength;
             }
 
-            //Artist Similarity
+            //Artist Similarity (Maximun value - 0.5)
             double artistSim = 0;
             if (song1.artist.Equals(song2.artist))
                 artistSim = 0.5;
 
-            //Genre Similarity
+            //Genre Similarity (Maximum value - 1
             int countSimGenre = 0;
             if(song1.genre.Count !=0 && song2.genre.Count != 0)
             {
@@ -105,12 +107,12 @@ namespace MusicReccomendation
                         countSimGenre++;
                 });
             }
-
             double genreSim = 0;
             if (countSimGenre != 0)
             {
                 genreSim = countSimGenre / (song1.genre.Count + song2.genre.Count - countSimGenre);
             }
+
             return genreSim + artistSim + bpmSim + keySim;
         }
 
