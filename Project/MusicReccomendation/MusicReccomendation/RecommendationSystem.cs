@@ -9,7 +9,7 @@ namespace MusicReccomendation
     class RecommendationSystem
     {
 
-        private List<Song> dataSet;
+        public List<Song> DataSet;
         private Parser parser;
 
         public RecommendationSystem()
@@ -19,16 +19,19 @@ namespace MusicReccomendation
         }
         public void Load(string file)
         {
-            dataSet = parser.ParseXML(file);
+            DataSet = parser.ParseXML(file);
         }
 
         public Song Recommend(List<Song> playList)
         {
             //playcount
-            if (dataSet == null || dataSet.Count == 0)
+            if (DataSet == null || DataSet.Count == 0)
                 return null;
             Random rnd = new Random();
-            List<Song> randomData = dataSet.OrderByDescending(x => (x.playCount * rnd.Next())).Take(1000).Where(x=> !playList.Contains(x)).ToList();
+            int limit = 1000;
+            if (DataSet.Count < limit)
+                limit = DataSet.Count;
+            List<Song> randomData = DataSet.OrderByDescending(x => (x.playCount * rnd.Next())).Take(limit).Where(x=> !playList.Contains(x)).ToList();
             Song ans = randomData.First();
             if (playList == null || playList.Count == 0)
             {
@@ -64,11 +67,11 @@ namespace MusicReccomendation
 
         private double calcSimilarity(Song song1, Song song2)
         {
-            double bpmSim = (1 - Math.Abs(song1.bpm - song2.bpm)) / 60 ;
+            double bpmSim = 1 - (Math.Abs(song1.bpm - song2.bpm)/ 60 ) ;
             if (bpmSim < 0)
                 bpmSim = 0;
             int countSimKey = 0;
-            if (song1.artist.Equals(song2.artist))
+            if (song1.key.Equals(song2.key))
                 countSimKey = 3;
             else
             {
@@ -101,5 +104,24 @@ namespace MusicReccomendation
         }
 
        
+        public double TestRecommendation(List<Song> playList)
+        {
+            List<Song> currPlayList = new List<Song>();
+            double totalSim = 0;
+            double maxSim = 3.5;
+            foreach(Song song in playList)
+            {
+                int index = playList.IndexOf(song);
+                if (index == playList.Count - 1)
+                    break;
+                currPlayList.Add(song);
+                Song nextSong = playList[index + 1];
+                Song recommendedSong = Recommend(currPlayList);
+                double sim = calcSimilarity(recommendedSong, nextSong);
+                sim = sim / maxSim;
+                totalSim += sim; 
+            }
+            return totalSim / (playList.Count -1);
+        }
     }
 }
