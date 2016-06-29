@@ -40,7 +40,6 @@ namespace MusicReccomendation
                               .Select(x => createSongFromElement(x)).Where(x=> x!=null)
                               .ToList();
             
-            Console.Write(songs);
             return songs;
         }
 

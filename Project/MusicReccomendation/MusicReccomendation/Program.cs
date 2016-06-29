@@ -18,21 +18,23 @@ namespace MusicReccomendation
             double recTestScore = TestRecommendation(dataSetFile, testSetFile);
         }
 
-        public static List<Song> CreatePlaylistFromRecommendations(string dataSetFile)
+        public static List<Song> CreatePlaylistFromRecommendations(string dataSetFile) //creates a 500 songs playlist
         {
             RecommendationSystem rc = new RecommendationSystem();
             rc.Load(dataSetFile);
             List<Song> playList = new List<Song>();
             Song ans = rc.Recommend(playList);
-            while (ans != null)
+            int counter = 0;
+            while (ans != null && counter<=500)
             {
                 playList.Add(ans);
                 ans = rc.Recommend(playList);
+                counter++;
             }
             return playList;
         }
 
-        public static double TestRecommendation(string dataSetFile, string testSetFile)
+        public static double TestRecommendation(string dataSetFile, string testSetFile) //tests the algorithm
         {
             RecommendationSystem rc = new RecommendationSystem();
             rc.Load(dataSetFile);
@@ -43,7 +45,7 @@ namespace MusicReccomendation
 
         public static void PrintPlayList(List<Song> playList)
         {
-
+            playList.ForEach(song => Console.WriteLine(song.PrintString()));
         }
     }
 }

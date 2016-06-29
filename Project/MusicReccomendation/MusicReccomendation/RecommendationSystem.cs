@@ -53,6 +53,12 @@ namespace MusicReccomendation
             return ans;
         }
 
+        public Song RecommendRandom(List<Song> playList)
+        {
+            Random rnd = new Random();
+            return DataSet.Where(x=>!playList.Contains(x)).OrderBy(x => rnd.Next()).ToList().First();
+        }
+
         //we assume that the last song that was played is in the last index int the playlist
         private double calcScore(Song song, List<Song> playList)
         {
@@ -115,12 +121,10 @@ namespace MusicReccomendation
 
             return genreSim + artistSim + bpmSim + keySim;
         }
-
-       
+      
         public double TestRecommendation(List<Song> playList)
         {
             List<Song> currPlayList = new List<Song>();
-            List<Song> generatedPlayList = new List<Song>();
             double avgSim = 0;
             double maxSim = 3.5;
             //change to csv
@@ -128,9 +132,9 @@ namespace MusicReccomendation
             csvExport.AddRow();
             csvExport["original"] = playList.First().PrintString();
             csvExport["recommended"] = "";
+            csvExport["recommended by random"] = "";
             csvExport["similarity"] = 0;
-            //StreamWriter sw = new StreamWriter("testResults.txt", false);
-            //sw.WriteLine(playList.First().PrintString());
+            csvExport["similarity to random"] = 0;
             foreach (Song song in playList)
             {
                 int index = playList.IndexOf(song);
@@ -139,20 +143,21 @@ namespace MusicReccomendation
                 currPlayList.Add(song);
                 Song nextSong = playList[index + 1];
                 Song recommendedSong = Recommend(currPlayList);
-                generatedPlayList.Add(recommendedSong);
+                Song recommendedRandom = RecommendRandom(currPlayList);
                 double sim = calcSimilarity(recommendedSong, nextSong);
-                sim = sim / maxSim;
+                double randSim = calcSimilarity(recommendedRandom, nextSong);
+               // randSim = randSim / maxSim;
+               // sim = sim / maxSim;
                 csvExport.AddRow();
                 csvExport["original"] = nextSong.PrintString();
                 csvExport["recommended"] = recommendedSong.PrintString();
+                csvExport["recommended by random"] = recommendedRandom.PrintString();
                 csvExport["similarity"] = sim;
-                //sw.WriteLine(nextSong.PrintString() + " |||| " + recommendedSong.PrintString() + " ----> Similarity = " + sim);
+                csvExport["similarity to random"] = randSim;
                 avgSim += sim; 
             }
             avgSim = avgSim / (playList.Count - 1);
             csvExport.ExportToFile("testResults" + ".csv");
-            //sw.WriteLine("Average Similarity = " + avgSim);
-            //sw.Close();
             return avgSim;
         }
     }
