@@ -160,5 +160,6 @@ namespace MusicReccomendation
             csvExport.ExportToFile("testResults" + ".csv");
             return avgSim;
         }
+
     }
 }

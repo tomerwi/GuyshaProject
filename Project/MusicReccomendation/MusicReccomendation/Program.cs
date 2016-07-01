@@ -34,7 +34,7 @@ namespace MusicReccomendation
             return playList;
         }
 
-        public static double TestRecommendation(string dataSetFile, string testSetFile) //tests the algorithm
+        public static double TestRecommendation(string dataSetFile, string testSetFile) //tests the algorithm and compares it to the random
         {
             RecommendationSystem rc = new RecommendationSystem();
             rc.Load(dataSetFile);
